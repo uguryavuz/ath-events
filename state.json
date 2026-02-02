@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-02T00:04:58",
+  "checked_at": "2026-02-02T13:35:25",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "46cc6435c886d636ea813af59f765b7fef0662a675df9c15ee734891b0a1738a",
+  "hash": "0eb842d359119b1a3f35b482a289cd60e66c3aed47f5ccb12c9ba297dd4f9804",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm83vRl",
@@ -37,7 +37,7 @@
       "url": "https://events.bostonathenaeum.org/en/anthony-amore-the-rembrandt-heist-5a2KUm7qEpF",
       "date": "FEBRUARY 4, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Anthony Amore - The Rembrandt Heist",
       "venue": "Boston Athenaeum",
       "keywords": [
