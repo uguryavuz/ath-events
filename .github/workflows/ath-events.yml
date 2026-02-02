@@ -1,0 +1,50 @@
+name: ath-events
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"  # every 2 hours, pick any minute you like
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ath-events
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }} # optional, default is https://ntfy.sh
+        run: |
+          python check_events.py
+
+      - name: Commit updated state/output (if changed)
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "ath-events-bot"
+          git config user.email "ath-events-bot@users.noreply.github.com"
+          git add state.json events_pretty.json events.md || true
+          git commit -m "Update Athenaeum events state"
+          git push
