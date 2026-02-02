@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- FEBRUARY 2 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- FEBRUARY 2 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 2 (Mon) 6:00 PM ET -- Radical Softness: The Responsive Art of Janet Echelman (Lecture)
 - FEBRUARY 3 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 4 (Wed) 6:00 PM ET -- [WAITLISTED] Anthony Amore - The Rembrandt Heist (Author Talk)

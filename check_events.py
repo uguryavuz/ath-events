@@ -86,7 +86,6 @@ def weekday_abbrev(year: int, month: int, day: int) -> str:
 
 def normalize_status(s: str) -> str:
     s = norm(s).upper()
-    # unify common variants
     s = s.replace("WAIT LISTED", "WAITLISTED")
     return s
 
@@ -177,12 +176,11 @@ def is_saturday(e: Event) -> bool:
     except Exception:
         return False
 
-def fmt_line(e: Event) -> str:
-    status = f"[{e.status}] " if e.status else ""
-    return f"- {e.when_str()} -- {status}{e.title}".strip()
-
-# Baseline / tracked set: exclude orientation + children/family, and only keep Sat tours (not weekday tours).
-def should_track(e: Event) -> bool:
+def is_interesting(e: Event) -> bool:
+    # Your spec:
+    # not Library Orientation
+    # not Children's/Family
+    # not Art & Architecture Tour (except Saturday)
     if is_library_orientation(e):
         return False
     if is_children_family(e):
@@ -191,15 +189,9 @@ def should_track(e: Event) -> bool:
         return False
     return True
 
-# "New events" notifications: exclude orientation + children/family + ALL Art&Arch tours (even Saturdays).
-def should_notify_as_new_event(e: Event) -> bool:
-    if is_library_orientation(e):
-        return False
-    if is_children_family(e):
-        return False
-    if is_art_arch_tour(e):
-        return False
-    return True
+def fmt_line(e: Event) -> str:
+    status = f"[{e.status}] " if e.status else ""
+    return f"- {e.when_str()} -- {status}{e.title}".strip()
 
 def load_state() -> Tuple[str, Dict[str, Event]]:
     if not STATE_FILE.exists():
@@ -248,6 +240,7 @@ def fetch_events() -> List[Event]:
 
         # Click "Load more" repeatedly.
         load_more = page.locator("button:has-text('Load more'), a:has-text('Load more')")
+
         def count_cards() -> int:
             return page.locator("a.product-item[href]").count()
 
@@ -270,7 +263,7 @@ def fetch_events() -> List[Event]:
             except Exception:
                 break
 
-        # Fallback scroll (some lazy-load on scroll too)
+        # Fallback scroll
         for _ in range(8):
             before = count_cards()
             page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
@@ -305,7 +298,7 @@ def fetch_events() -> List[Event]:
             if not title:
                 continue
 
-            # Time (e.g., "6:00 PM")
+            # Time
             try:
                 time_et = norm(a.locator("time").first.inner_text(timeout=1000)).upper()
             except Exception:
@@ -340,7 +333,7 @@ def fetch_events() -> List[Event]:
             except Exception:
                 keywords = []
 
-            # Date: use partition header (best), else badge.
+            # Date: partition header preferred, else badge
             ymd = None
             try:
                 hdr = a.locator(
@@ -391,8 +384,7 @@ def fetch_events() -> List[Event]:
 def main() -> None:
     notify_first_run = "--notify-first-run" in sys.argv
 
-    now_dt = datetime.now()
-    now = now_dt.isoformat(timespec="seconds")
+    now = datetime.now().isoformat(timespec="seconds")
 
     old_hash, old_events = load_state()
     old_by_key = old_events
@@ -401,63 +393,59 @@ def main() -> None:
     events = fetch_events()
     current_by_key = {e.key(): e for e in events}
 
-    # Hash is based ONLY on event payload, not timestamps, so it’s stable.
+    # Stable hash of event payload only
     payload_items = [event_to_dict(e) for e in events]
     blob = json.dumps(payload_items, ensure_ascii=False, indent=2)
     h = sha256(blob)
 
     first_run = (old_hash == "")
 
-    # Build tracked sets
-    current_tracked = {k: e for k, e in current_by_key.items() if should_track(e)}
-    old_tracked = {k: e for k, e in old_by_key.items() if should_track(e)}
+    current_interesting = {k: e for k, e in current_by_key.items() if is_interesting(e)}
+    old_interesting = {k: e for k, e in old_by_key.items() if is_interesting(e)}
 
-    # New events (filtered)
-    new_events = [e for k, e in current_tracked.items() if k not in old_tracked and should_notify_as_new_event(e)]
-    new_events.sort(key=lambda e: (e.year, e.month, e.day, e.time_et, e.title.lower()))
+    # Newly listed (new URL among interesting)
+    new_interesting = [e for k, e in current_interesting.items() if k not in old_interesting]
+    new_interesting.sort(key=lambda e: (e.year, e.month, e.day, e.time_et, e.title.lower()))
 
-    # Reopened Saturday tours: SOLD OUT -> not SOLD OUT
-    reopened_sat_tours: List[Tuple[Event, str, str]] = []
-    for k, cur in current_by_key.items():
-        if not is_art_arch_tour(cur) or not is_saturday(cur):
-            continue
-        prev = old_by_key.get(k)
+    # Reopened: previously SOLD OUT -> now not SOLD OUT (among interesting, including Sat tours and non-tours)
+    reopened_interesting: List[Tuple[Event, str, str]] = []
+    for k, cur in current_interesting.items():
+        prev = old_interesting.get(k)
         if not prev:
             continue
         old_status = (prev.status or "").upper()
         new_status = (cur.status or "").upper()
         if old_status == "SOLD OUT" and new_status != "SOLD OUT":
-            reopened_sat_tours.append((cur, old_status, new_status))
-    reopened_sat_tours.sort(key=lambda t: (t[0].year, t[0].month, t[0].day, t[0].time_et))
+            reopened_interesting.append((cur, old_status, new_status))
+    reopened_interesting.sort(key=lambda t: (t[0].year, t[0].month, t[0].day, t[0].time_et, t[0].title.lower()))
 
     # Notifications
     if first_run and notify_first_run:
-        baseline_list = sorted(current_tracked.values(), key=lambda e: (e.year, e.month, e.day, e.time_et, e.title.lower()))
-        lines = [f"Baseline (current matching events): {len(baseline_list)}"]
+        baseline_list = sorted(current_interesting.values(), key=lambda e: (e.year, e.month, e.day, e.time_et, e.title.lower()))
+        lines = [f"Baseline (current interesting events): {len(baseline_list)}"]
         lines.extend(fmt_line(e) for e in baseline_list)
         notify("Athenaeum events: baseline", "\n".join(lines))
 
-    if (not first_run) and (new_events or reopened_sat_tours):
+    if (not first_run) and (new_interesting or reopened_interesting):
         lines: List[str] = []
-        if new_events:
-            lines.append(f"New events: {len(new_events)}")
-            lines.extend(fmt_line(e) for e in new_events)
-        if reopened_sat_tours:
+        if new_interesting:
+            lines.append(f"New interesting events: {len(new_interesting)}")
+            lines.extend(fmt_line(e) for e in new_interesting)
+        if reopened_interesting:
             if lines:
                 lines.append("")
-            lines.append(f"Saturday Art & Architecture Tour no longer sold out: {len(reopened_sat_tours)}")
-            for e, old_s, new_s in reopened_sat_tours:
-                when = e.when_str()
-                lines.append(f"- {when} -- Art & Architecture Tour [{old_s} -> {new_s or 'AVAILABLE'}]")
+            lines.append(f"Reopened (was SOLD OUT): {len(reopened_interesting)}")
+            for e, old_s, new_s in reopened_interesting:
+                lines.append(f"- {e.when_str()} -- {e.title} [{old_s} -> {new_s or 'AVAILABLE'}]")
 
         title_bits = []
-        if new_events:
-            title_bits.append(f"{len(new_events)} new")
-        if reopened_sat_tours:
-            title_bits.append(f"{len(reopened_sat_tours)} tour reopen")
+        if new_interesting:
+            title_bits.append(f"{len(new_interesting)} new")
+        if reopened_interesting:
+            title_bits.append(f"{len(reopened_interesting)} reopened")
         notify("Athenaeum events: " + ", ".join(title_bits), "\n".join(lines))
 
-    # Write state + outputs only when payload changed (prevents spam commits).
+    # Avoid spam commits: only write files if payload changed (or first run).
     if (not first_run) and old_hash and h == old_hash:
         print(f"State: {STATE_FILE}")
         print(f"Items found: {len(events)}")
@@ -472,7 +460,7 @@ def main() -> None:
     if first_run:
         print("Status: first run (baseline created" + (", notified)" if notify_first_run else ", no notification)"))
     else:
-        if new_events or reopened_sat_tours:
+        if new_interesting or reopened_interesting:
             print("Status: notified and state updated")
         else:
             print("Status: no relevant changes (state updated because payload changed)")
