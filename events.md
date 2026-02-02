@@ -22,7 +22,7 @@
 - FEBRUARY 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - FEBRUARY 19 (Thu) 3:30 PM ET -- Lego Play: Build Your Own Art (Children's/Family)
 - FEBRUARY 20 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- FEBRUARY 21 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- FEBRUARY 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - FEBRUARY 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
