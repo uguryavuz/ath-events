@@ -41,6 +41,9 @@ DATE_HDR_RE = re.compile(
 def norm(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "")).strip()
 
+def ci(s: str) -> str:
+    return norm(s).casefold()
+
 def sha256(s: str) -> str:
     return hashlib.sha256(s.encode("utf-8")).hexdigest()
 
@@ -162,13 +165,13 @@ def dict_to_event(d: dict) -> Optional[Event]:
         return None
 
 def is_children_family(e: Event) -> bool:
-    return any(k.strip().lower() == "children's/family" for k in e.keywords)
+    return any(ci(k) == "children's/family" for k in e.keywords)
 
 def is_library_orientation(e: Event) -> bool:
-    return "LIBRARY ORIENTATION TOUR" in e.title.upper()
+    return "library orientation tour" in ci(e.title)
 
 def is_art_arch_tour(e: Event) -> bool:
-    return norm(e.title).lower() == "art & architecture tour"
+    return ci(e.title) == "art & architecture tour"
 
 def is_saturday(e: Event) -> bool:
     try:
@@ -232,11 +235,32 @@ def write_outputs(events: List[Event]) -> None:
         md_lines.append(f"- {e.when_str()} -- {status}{e.title}{kw}".strip())
     MD_FILE.write_text("\n".join(md_lines) + "\n", encoding="utf-8")
 
+def goto_with_retry(page, url: str, tries: int = 3) -> None:
+    last = None
+    for attempt in range(1, tries + 1):
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=120000)
+            # Wait for either event cards or "Load more" to appear
+            page.wait_for_selector(
+                "a.product-item[href], button:has-text('Load more'), a:has-text('Load more')",
+                timeout=45000,
+            )
+            return
+        except Exception as e:
+            last = e
+            try:
+                page.wait_for_timeout(1500 * attempt)
+                page.reload(wait_until="domcontentloaded", timeout=120000)
+            except Exception:
+                pass
+    raise last
+
 def fetch_events() -> List[Event]:
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(URL, wait_until="networkidle", timeout=60000)
+
+        goto_with_retry(page, URL)
 
         # Click "Load more" repeatedly.
         load_more = page.locator("button:has-text('Load more'), a:has-text('Load more')")
@@ -253,8 +277,9 @@ def fetch_events() -> List[Event]:
                     break
                 before = count_cards()
                 btn.click()
-                page.wait_for_load_state("networkidle", timeout=30000)
-                page.wait_for_timeout(500)  # render time
+                # networkidle is flaky on Actions; use domcontentloaded + small wait
+                page.wait_for_load_state("domcontentloaded", timeout=30000)
+                page.wait_for_timeout(500)
                 after = count_cards()
                 if after <= before:
                     break
@@ -269,7 +294,7 @@ def fetch_events() -> List[Event]:
             page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
             page.wait_for_timeout(800)
             try:
-                page.wait_for_load_state("networkidle", timeout=15000)
+                page.wait_for_load_state("domcontentloaded", timeout=15000)
             except Exception:
                 pass
             after = count_cards()
@@ -388,12 +413,11 @@ def main() -> None:
 
     old_hash, old_events = load_state()
     old_by_key = old_events
-    old_keys = set(old_by_key.keys())
 
     events = fetch_events()
     current_by_key = {e.key(): e for e in events}
 
-    # Stable hash of event payload only
+    # Stable hash of event payload only (not timestamps)
     payload_items = [event_to_dict(e) for e in events]
     blob = json.dumps(payload_items, ensure_ascii=False, indent=2)
     h = sha256(blob)
@@ -407,7 +431,7 @@ def main() -> None:
     new_interesting = [e for k, e in current_interesting.items() if k not in old_interesting]
     new_interesting.sort(key=lambda e: (e.year, e.month, e.day, e.time_et, e.title.lower()))
 
-    # Reopened: previously SOLD OUT -> now not SOLD OUT (among interesting, including Sat tours and non-tours)
+    # Reopened: previously SOLD OUT -> now not SOLD OUT (among interesting)
     reopened_interesting: List[Tuple[Event, str, str]] = []
     for k, cur in current_interesting.items():
         prev = old_interesting.get(k)
@@ -421,8 +445,11 @@ def main() -> None:
 
     # Notifications
     if first_run and notify_first_run:
-        baseline_list = sorted(current_interesting.values(), key=lambda e: (e.year, e.month, e.day, e.time_et, e.title.lower()))
-        lines = [f"Baseline (current interesting events): {len(baseline_list)}"]
+        baseline_list = sorted(
+            current_interesting.values(),
+            key=lambda e: (e.year, e.month, e.day, e.time_et, e.title.lower()),
+        )
+        lines = [f"Baseline (interesting events): {len(baseline_list)}"]
         lines.extend(fmt_line(e) for e in baseline_list)
         notify("Athenaeum events: baseline", "\n".join(lines))
 
