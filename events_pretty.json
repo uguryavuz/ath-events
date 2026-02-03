@@ -12,7 +12,7 @@
     "url": "https://events.bostonathenaeum.org/en/anthony-amore-the-rembrandt-heist-5a2KUm7qEpF",
     "date": "FEBRUARY 4, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Anthony Amore - The Rembrandt Heist",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -66,6 +66,18 @@
     "venue": "Boston Athenaeum",
     "keywords": [
       "Children's/Family"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7qS4D",
+    "date": "FEBRUARY 9, 2026",
+    "time_et": "6:00 PM",
+    "status": "WAITLISTED",
+    "event_title": "Member Mixer",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Social",
+      "Member Exclusive"
     ]
   },
   {
@@ -130,7 +142,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85HJl",
     "date": "FEBRUARY 16, 2026",
     "time_et": "3:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -280,6 +292,33 @@
     "date": "FEBRUARY 28, 2026",
     "time_et": "12:00 PM",
     "status": "SOLD OUT",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UPxF",
+    "date": "MARCH 3, 2026",
+    "time_et": "5:30 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8US0f",
+    "date": "MARCH 4, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8US8j",
+    "date": "MARCH 5, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []

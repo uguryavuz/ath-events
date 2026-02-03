@@ -1,19 +1,20 @@
 # Boston Athenaeum events
 
 - FEBRUARY 3 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- FEBRUARY 4 (Wed) 6:00 PM ET -- [WAITLISTED] Anthony Amore - The Rembrandt Heist (Author Talk)
+- FEBRUARY 4 (Wed) 6:00 PM ET -- [SOLD OUT] Anthony Amore - The Rembrandt Heist (Author Talk)
 - FEBRUARY 5 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 6 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 9 (Mon) 4:30 PM ET -- [WAITLISTED] Dungeons and Dragons for Kids: Phoenix Rising (Children's/Family)
+- FEBRUARY 9 (Mon) 6:00 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
 - FEBRUARY 11 (Wed) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 11 (Wed) 6:00 PM ET -- [WAITLISTED] Workhorse - Caroline Palmer (Author Talk)
 - FEBRUARY 12 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 13 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 14 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 14 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- FEBRUARY 16 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- FEBRUARY 16 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 17 (Tue) 6:00 PM ET -- Jennifer Putzi - The Reconstruction Diary of Frances Anne Rollin (Author Talk)
 - FEBRUARY 18 (Wed) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 18 (Wed) 6:00 PM ET -- [SOLD OUT] George Washington's Library, Lifelong Learning, and Citizenship (Lecture)
@@ -29,3 +30,6 @@
 - FEBRUARY 28 (Sat) 10:00 AM ET -- [FREE] Family Day Open House (Children's/Family)
 - FEBRUARY 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 3 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 4 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 5 (Thu) 12:00 PM ET -- Art & Architecture Tour
