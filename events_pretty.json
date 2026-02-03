@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm83vgH",
-    "date": "FEBRUARY 3, 2026",
-    "time_et": "5:30 PM",
-    "status": "SOLD OUT",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/anthony-amore-the-rembrandt-heist-5a2KUm7qEpF",
     "date": "FEBRUARY 4, 2026",
     "time_et": "6:00 PM",
@@ -131,7 +122,7 @@
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm7v3px",
     "date": "FEBRUARY 14, 2026",
     "time_et": "11:00 AM",
-    "status": "SOLD OUT",
+    "status": "FREE",
     "event_title": "Library Orientation Tour",
     "venue": "Boston Athenaeum",
     "keywords": [
