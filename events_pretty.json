@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm83vRl",
-    "date": "FEBRUARY 2, 2026",
-    "time_et": "3:00 PM",
-    "status": "WAITLISTED",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/radical-softness-the-responsive-art-of-janet-echelman-5a2KUm7mwor",
-    "date": "FEBRUARY 2, 2026",
-    "time_et": "6:00 PM",
-    "status": "",
-    "event_title": "Radical Softness: The Responsive Art of Janet Echelman",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Lecture"
-    ]
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm83vgH",
     "date": "FEBRUARY 3, 2026",
     "time_et": "5:30 PM",
@@ -32,7 +12,7 @@
     "url": "https://events.bostonathenaeum.org/en/anthony-amore-the-rembrandt-heist-5a2KUm7qEpF",
     "date": "FEBRUARY 4, 2026",
     "time_et": "6:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Anthony Amore - The Rembrandt Heist",
     "venue": "Boston Athenaeum",
     "keywords": [
