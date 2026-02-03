@@ -2,7 +2,7 @@ name: ath-events
 
 on:
   schedule:
-    - cron: "17 */2 * * *"  # every 2 hours, pick any minute you like
+    - cron: "17 */1 * * *"  
   workflow_dispatch: {}
 
 permissions:
