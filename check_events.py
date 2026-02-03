@@ -22,8 +22,8 @@ PRETTY_FILE = Path(__file__).with_name("events_pretty.json")
 MD_FILE = Path(__file__).with_name("events.md")
 
 # ntfy (allow Actions/local override via env vars)
-NTFY_TOPIC = os.getenv("NTFY_TOPIC", "ath-events-notifications")
-NTFY_SERVER = os.getenv("NTFY_SERVER", "https://ntfy.sh")
+NTFY_TOPIC = (os.getenv("NTFY_TOPIC") or "ath-events-notifications").strip()
+NTFY_SERVER = (os.getenv("NTFY_SERVER") or "https://ntfy.sh").strip()
 NTFY_URL = f"{NTFY_SERVER.rstrip('/')}/{NTFY_TOPIC}"
 
 MONTHS = {
