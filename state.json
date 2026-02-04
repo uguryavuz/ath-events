@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-04T17:10:28",
+  "checked_at": "2026-02-04T19:53:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6ece642c7eef6a2a3225fbdf70ae4568510f2d3a312b3c0c05032a1c09bc123c",
+  "hash": "71c9235a1c415ef19d9558efbc730ca98561f78566d7c571ecbeb5f6200b0786",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/anthony-amore-the-rembrandt-heist-5a2KUm7qEpF",
@@ -50,15 +50,6 @@
       "time_et": "12:00 PM",
       "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/athena-at-the-athenaeum-5a2KUm8UamD",
-      "date": "FEBRUARY 7, 2026",
-      "time_et": "2:00 PM",
-      "status": "",
-      "event_title": "Athena at the Athenaeum",
       "venue": "Boston Athenaeum",
       "keywords": []
     },
