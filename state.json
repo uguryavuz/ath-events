@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-04T19:53:50",
+  "checked_at": "2026-02-05T03:12:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "71c9235a1c415ef19d9558efbc730ca98561f78566d7c571ecbeb5f6200b0786",
+  "hash": "5eb83ff0d54c22e99d7ee1fd6f389af3e1e7e2df4a079d120aa6a0ebccbdd4c5",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/anthony-amore-the-rembrandt-heist-5a2KUm7qEpF",
-      "date": "FEBRUARY 4, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Anthony Amore - The Rembrandt Heist",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm83w2r",
       "date": "FEBRUARY 5, 2026",

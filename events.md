@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 4 (Wed) 6:00 PM ET -- [WAITLISTED] Anthony Amore - The Rembrandt Heist (Author Talk)
 - FEBRUARY 5 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 6 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
