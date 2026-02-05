@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-05T03:12:54",
+  "checked_at": "2026-02-05T13:41:15",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "5eb83ff0d54c22e99d7ee1fd6f389af3e1e7e2df4a079d120aa6a0ebccbdd4c5",
+  "hash": "c76a888b3eb07f3c2628de6c71c8a8a1a755987a0f2876cf856a5f752e42c764",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm83w2r",
@@ -348,7 +348,7 @@
       "url": "https://events.bostonathenaeum.org/en/a-book-arts-revolution-with-four-women-artists-to-watch-5a2KUm88sJZ",
       "date": "MARCH 11, 2026",
       "time_et": "6:00 PM",
-      "status": "FREE",
+      "status": "WAITLISTED",
       "event_title": "\"A Book Arts Revolution\" with Four Women Artists to Watch",
       "venue": "Boston Athenaeum",
       "keywords": [
