@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 5 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 6 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -22,7 +21,7 @@
 - FEBRUARY 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- FEBRUARY 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- FEBRUARY 24 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 25 (Wed) 3:00 PM ET -- Art & Architecture Tour
 - FEBRUARY 25 (Wed) 6:00 PM ET -- [SOLD OUT] Designing America: Richard Morris Hunt’s Vision for a New Gilded Age (Lecture)
 - FEBRUARY 28 (Sat) 10:00 AM ET -- [FREE] Family Day Open House (Children's/Family)
