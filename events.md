@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 6 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 9 (Mon) 4:30 PM ET -- [WAITLISTED] Dungeons and Dragons for Kids: Phoenix Rising (Children's/Family)
