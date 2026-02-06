@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-06T06:09:23",
+  "checked_at": "2026-02-06T15:03:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ae0d698318d07fbe118037bf79fd09b39e375fe2a843f413025936476422952f",
+  "hash": "258889257d0025a300f866fe905d5bc59f761153fafaa98fdb52bb3f16c492f1",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm83w7h",
@@ -147,7 +147,7 @@
       "url": "https://events.bostonathenaeum.org/en/george-washingtons-library-lifelong-learning-and-citizenship-5a2KUm7mwth",
       "date": "FEBRUARY 18, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "George Washington's Library, Lifelong Learning, and Citizenship",
       "venue": "Boston Athenaeum",
       "keywords": [
