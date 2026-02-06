@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-06T18:01:56",
+  "checked_at": "2026-02-06T19:51:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1bebf1b60ceac23788f937012495beb321cea82e625e48bb77f1aa98a5205ffa",
+  "hash": "02d40f4522da2ca9bca9eef4029a088ebc8e8cf4439a17e01ce60c74f9b19284",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm7v3mj",
@@ -138,7 +138,7 @@
       "url": "https://events.bostonathenaeum.org/en/george-washingtons-library-lifelong-learning-and-citizenship-5a2KUm7mwth",
       "date": "FEBRUARY 18, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "George Washington's Library, Lifelong Learning, and Citizenship",
       "venue": "Boston Athenaeum",
       "keywords": [
