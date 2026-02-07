@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-07T18:55:59",
+  "checked_at": "2026-02-07T22:49:18",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1a903d2257a5210c23c3e4aec709a76da585ceee06b396f6a1a2eaea2d8437b3",
+  "hash": "70d2e2280ee14e47d35ad8a69d14fa11e6d78bf2a5536936048394a987af2128",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/dungeons-and-dragons-for-kids-phoenix-rising-5a2KUm7qCDx",
@@ -118,7 +118,7 @@
       "url": "https://events.bostonathenaeum.org/en/george-washingtons-library-lifelong-learning-and-citizenship-5a2KUm7mwth",
       "date": "FEBRUARY 18, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "George Washington's Library, Lifelong Learning, and Citizenship",
       "venue": "Boston Athenaeum",
       "keywords": [
