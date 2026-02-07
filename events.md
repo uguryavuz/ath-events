@@ -25,7 +25,7 @@
 - FEBRUARY 25 (Wed) 6:00 PM ET -- [SOLD OUT] Designing America: Richard Morris Hunt’s Vision for a New Gilded Age (Lecture)
 - FEBRUARY 28 (Sat) 10:00 AM ET -- [FREE] Family Day Open House (Children's/Family)
 - FEBRUARY 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
-- FEBRUARY 28 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- FEBRUARY 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 3 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 4 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 5 (Thu) 12:00 PM ET -- Art & Architecture Tour
