@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-07T22:49:18",
+  "checked_at": "2026-02-08T05:42:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "70d2e2280ee14e47d35ad8a69d14fa11e6d78bf2a5536936048394a987af2128",
+  "hash": "d85464b2099c653c58e0566996ab84928e54cf18600d7de56544a217c520c9da",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/dungeons-and-dragons-for-kids-phoenix-rising-5a2KUm7qCDx",
@@ -31,7 +31,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm84aTL",
       "date": "FEBRUARY 11, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
