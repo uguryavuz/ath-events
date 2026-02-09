@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-09T16:16:27",
+  "checked_at": "2026-02-09T19:42:59",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ecffa2ec5232dd9756e19040e778a45bfb98a1275c586e23db4e898b3c9b534e",
+  "hash": "68375d5acd1f2519fb7e60b05ef884d21df3fc9ef441ce7def8f38543721addc",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/special-collections-viewing-black-americans-and-the-american-revolution-5a2KUm8UiAH",
-      "date": "FEBRUARY 9, 2026",
-      "time_et": "12:30 PM",
-      "status": "",
-      "event_title": "Special Collections Viewing: Black Americans & the American Revolution",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive",
-        "Special Collections"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/special-collections-viewing-black-americans-and-the-american-revolution-5a2KUm8UcBK",
       "date": "FEBRUARY 9, 2026",
@@ -64,7 +52,7 @@
       "url": "https://events.bostonathenaeum.org/en/workhorse-caroline-palmer-5a2KUm7mwqT",
       "date": "FEBRUARY 11, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Workhorse - Caroline Palmer",
       "venue": "Boston Athenaeum",
       "keywords": [
