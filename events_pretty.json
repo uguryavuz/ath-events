@@ -1,28 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/special-collections-viewing-black-americans-and-the-american-revolution-5a2KUm8UcBK",
-    "date": "FEBRUARY 9, 2026",
-    "time_et": "4:00 PM",
-    "status": "",
-    "event_title": "Special Collections Viewing: Black Americans & the American Revolution",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Member Exclusive",
-      "Special Collections"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/dungeons-and-dragons-for-kids-phoenix-rising-5a2KUm7qCDx",
-    "date": "FEBRUARY 9, 2026",
-    "time_et": "4:30 PM",
-    "status": "WAITLISTED",
-    "event_title": "Dungeons and Dragons for Kids: Phoenix Rising",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Children's/Family"
-    ]
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7qS4D",
     "date": "FEBRUARY 9, 2026",
     "time_et": "6:00 PM",
@@ -136,7 +113,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85Fhn",
     "date": "FEBRUARY 19, 2026",
     "time_et": "3:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
