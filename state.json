@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-09T19:42:59",
+  "checked_at": "2026-02-09T21:59:04",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "68375d5acd1f2519fb7e60b05ef884d21df3fc9ef441ce7def8f38543721addc",
+  "hash": "c0fc9c222bfc5a35e582b2aa21bbb2faa7ef70370662d60f1a8e627c12e93902",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/special-collections-viewing-black-americans-and-the-american-revolution-5a2KUm8UcBK",
@@ -31,7 +31,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7qS4D",
       "date": "FEBRUARY 9, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "FREE",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [

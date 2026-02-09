@@ -2,7 +2,7 @@
 
 - FEBRUARY 9 (Mon) 4:00 PM ET -- Special Collections Viewing: Black Americans & the American Revolution (Member Exclusive, Special Collections)
 - FEBRUARY 9 (Mon) 4:30 PM ET -- [WAITLISTED] Dungeons and Dragons for Kids: Phoenix Rising (Children's/Family)
-- FEBRUARY 9 (Mon) 6:00 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
+- FEBRUARY 9 (Mon) 6:00 PM ET -- [FREE] Member Mixer (Social, Member Exclusive)
 - FEBRUARY 11 (Wed) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 11 (Wed) 6:00 PM ET -- [WAITLISTED] Workhorse - Caroline Palmer (Author Talk)
 - FEBRUARY 12 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
