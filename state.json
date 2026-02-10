@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-09T23:00:07",
+  "checked_at": "2026-02-10T03:31:09",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b58d5779ca2fe579a1e45105133dd0d0f6ecc7d7261f97cff6980d6e06c5c843",
+  "hash": "52f28fc563d7ff2065b63469943aae5c4e336cfe866e16668f22fa69fd00c595",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7qS4D",
-      "date": "FEBRUARY 9, 2026",
-      "time_et": "6:00 PM",
-      "status": "FREE",
-      "event_title": "Member Mixer",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Social",
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm84aTL",
       "date": "FEBRUARY 11, 2026",
@@ -236,7 +224,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UPxF",
       "date": "MARCH 3, 2026",
       "time_et": "5:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
