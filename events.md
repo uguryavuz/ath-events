@@ -16,3 +16,31 @@
 - FEBRUARY 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- FEBRUARY 24 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- FEBRUARY 25 (Wed) 3:00 PM ET -- Art & Architecture Tour
+- FEBRUARY 25 (Wed) 6:00 PM ET -- [SOLD OUT] Designing America: Richard Morris Hunt’s Vision for a New Gilded Age (Lecture)
+- FEBRUARY 28 (Sat) 10:00 AM ET -- [FREE] Family Day Open House (Children's/Family)
+- FEBRUARY 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
+- FEBRUARY 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 3 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 4 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 5 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 6 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 7 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 10 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 11 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 11 (Wed) 6:00 PM ET -- [WAITLISTED] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
+- MARCH 12 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 13 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 14 (Sat) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 20 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 21 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 21 (Sat) 2:00 PM ET -- Art & Architecture Tour
+- MARCH 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 25 (Wed) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 27 (Fri) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 28 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 28 (Sat) 2:00 PM ET -- Art & Architecture Tour
+- MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
