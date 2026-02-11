@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-11T20:58:05",
+  "checked_at": "2026-02-11T21:52:10",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "0d9af18250427c500388f5b8ff16ce2010a64f15b5b1e4e20696569a0c6fc029",
+  "hash": "c7bb17ef2903a1d277394350fcfcfa665320cc59d8b75a1dbc9076f50c654989",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm84aTL",
-      "date": "FEBRUARY 11, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/workhorse-caroline-palmer-5a2KUm7mwqT",
       "date": "FEBRUARY 11, 2026",

@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 11 (Wed) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 11 (Wed) 6:00 PM ET -- Workhorse - Caroline Palmer (Author Talk)
 - FEBRUARY 12 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 13 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
