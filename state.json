@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-11T16:33:16",
+  "checked_at": "2026-02-11T18:11:47",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "eb643174f6bfbb9691a04ccbf37251fa8b4dabfbc8bd776ddd9eb7a33e15c41e",
+  "hash": "3448ca65373f32f0f96a51dced0c04cce1d3005231823c2a42cea0a67ba8c66f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm84aTL",
@@ -95,7 +95,7 @@
       "url": "https://events.bostonathenaeum.org/en/george-washingtons-library-lifelong-learning-and-citizenship-5a2KUm7mwth",
       "date": "FEBRUARY 18, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "George Washington's Library, Lifelong Learning, and Citizenship",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -338,6 +338,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/boston-festival-orchestra-presents-sounds-of-new-england-5a2KUm88sQ1",
+      "date": "MARCH 19, 2026",
+      "time_et": "7:00 PM",
+      "status": "STARTS AT $20.00",
+      "event_title": "Boston Festival Orchestra Presents Sounds of New England",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Concert"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UXBd",

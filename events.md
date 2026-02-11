@@ -9,7 +9,7 @@
 - FEBRUARY 16 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 17 (Tue) 6:00 PM ET -- Jennifer Putzi - The Reconstruction Diary of Frances Anne Rollin (Author Talk)
 - FEBRUARY 18 (Wed) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- FEBRUARY 18 (Wed) 6:00 PM ET -- [WAITLISTED] George Washington's Library, Lifelong Learning, and Citizenship (Lecture)
+- FEBRUARY 18 (Wed) 6:00 PM ET -- George Washington's Library, Lifelong Learning, and Citizenship (Lecture)
 - FEBRUARY 19 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 19 (Thu) 3:30 PM ET -- Lego Play: Build Your Own Art (Children's/Family)
 - FEBRUARY 20 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -35,6 +35,7 @@
 - MARCH 14 (Sat) 3:00 PM ET -- Art & Architecture Tour
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 19 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Boston Festival Orchestra Presents Sounds of New England (Concert)
 - MARCH 20 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 21 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 21 (Sat) 2:00 PM ET -- Art & Architecture Tour
