@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-11T21:52:10",
+  "checked_at": "2026-02-11T22:52:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c7bb17ef2903a1d277394350fcfcfa665320cc59d8b75a1dbc9076f50c654989",
+  "hash": "46195161253c7cec3012032b2038ada5d12f451765bcaa0b7d8a758f1b653dcc",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/workhorse-caroline-palmer-5a2KUm7mwqT",
@@ -86,7 +86,7 @@
       "url": "https://events.bostonathenaeum.org/en/george-washingtons-library-lifelong-learning-and-citizenship-5a2KUm7mwth",
       "date": "FEBRUARY 18, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "George Washington's Library, Lifelong Learning, and Citizenship",
       "venue": "Boston Athenaeum",
       "keywords": [
