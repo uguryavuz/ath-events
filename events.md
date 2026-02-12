@@ -30,7 +30,7 @@
 - MARCH 11 (Wed) 6:00 PM ET -- [WAITLISTED] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
 - MARCH 12 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MARCH 13 (Fri) 12:00 PM ET -- Art & Architecture Tour
-- MARCH 14 (Sat) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 14 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MARCH 20 (Fri) 12:00 PM ET -- Art & Architecture Tour
