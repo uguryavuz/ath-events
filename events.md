@@ -32,3 +32,12 @@
 - MARCH 14 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 20 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 21 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 21 (Sat) 2:00 PM ET -- Art & Architecture Tour
+- MARCH 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 25 (Wed) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 27 (Fri) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 28 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 28 (Sat) 2:00 PM ET -- Art & Architecture Tour
+- MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
