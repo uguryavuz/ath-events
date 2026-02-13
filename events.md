@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 13 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 14 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 14 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 16 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
