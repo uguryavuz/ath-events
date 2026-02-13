@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-13T19:11:27",
+  "checked_at": "2026-02-13T21:53:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "226398ec549e3a06fd8d0d5da8bf63c59f9380bc0a76916c92adf6a37f1929a8",
+  "hash": "34d609acc78729613f402e1b191d29c24cec5e3048e6f20b475f17df196a8d61",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm7v3px",
@@ -21,6 +21,15 @@
       "time_et": "12:00 PM",
       "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/athena-at-the-athenaeum-5a2KUm8UamD",
+      "date": "FEBRUARY 14, 2026",
+      "time_et": "2:00 PM",
+      "status": "",
+      "event_title": "Athena at the Athenaeum",
       "venue": "Boston Athenaeum",
       "keywords": []
     },

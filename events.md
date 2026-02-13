@@ -2,6 +2,7 @@
 
 - FEBRUARY 14 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 14 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- FEBRUARY 14 (Sat) 2:00 PM ET -- Athena at the Athenaeum
 - FEBRUARY 16 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 17 (Tue) 6:00 PM ET -- Jennifer Putzi - The Reconstruction Diary of Frances Anne Rollin (Author Talk)
 - FEBRUARY 18 (Wed) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
