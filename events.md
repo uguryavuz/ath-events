@@ -21,21 +21,25 @@
 - MARCH 4 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 5 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 6 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 7 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 10 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 11 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 11 (Wed) 6:00 PM ET -- [WAITLISTED] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
 - MARCH 12 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MARCH 13 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 14 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 14 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MARCH 20 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 21 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 21 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 21 (Sat) 2:00 PM ET -- Art & Architecture Tour
 - MARCH 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 25 (Wed) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 27 (Fri) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 28 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
