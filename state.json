@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-14T19:40:15",
+  "checked_at": "2026-02-14T20:45:20",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "44fb4059f9c305763336842fd06abf33466861b25f3ff5179c2e27c7d8976b3b",
+  "hash": "6b8cbd6c7292b8763bdbc2527ae72851d4cb93dea74e95f79e9a1f527bf28e00",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/athena-at-the-athenaeum-5a2KUm8UamD",
-      "date": "FEBRUARY 14, 2026",
-      "time_et": "2:00 PM",
-      "status": "",
-      "event_title": "Athena at the Athenaeum",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85HJl",
       "date": "FEBRUARY 16, 2026",
