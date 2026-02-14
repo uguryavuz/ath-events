@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-14T17:45:09",
+  "checked_at": "2026-02-14T18:55:41",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "53c30d722c04e6189a2ed25e1898e43748f39e7f9cdcb7d5727a51ec738d7866",
+  "hash": "b327c1b09dca000ea9e337c62d09ddd8f950a7802c30a61a9261527cf3a0d846",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85HDJ",
-      "date": "FEBRUARY 14, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/athena-at-the-athenaeum-5a2KUm8UamD",
       "date": "FEBRUARY 14, 2026",
