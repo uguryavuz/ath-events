@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-16T20:50:07",
+  "checked_at": "2026-02-16T21:46:45",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d1c248f574633311568072c02b4923c87c0eb4ce7285f4d6e412d94fdcdccf81",
+  "hash": "8d935be9587bb609b7e3d1116234d707be992b243f225f8ef1f76d61c98ba7d5",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85HJl",
-      "date": "FEBRUARY 16, 2026",
-      "time_et": "3:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/jennifer-putzi-the-reconstruction-diary-of-frances-anne-rollin-5a2KUm7vkgP",
       "date": "FEBRUARY 17, 2026",
