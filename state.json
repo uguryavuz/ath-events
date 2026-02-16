@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-16T03:21:58",
+  "checked_at": "2026-02-16T05:47:13",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7e91b16e9337568d42cc1a48033a21eef06842ba0409885ec233322ccd4db4a5",
+  "hash": "e5a384e8d7a44fa8603c1fec87407a7ed846c36425dd38f8170be2fd918a42e8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85HJl",
@@ -57,7 +57,7 @@
       "url": "https://events.bostonathenaeum.org/en/lego-play-build-your-own-art-5a2KUm7qC2f",
       "date": "FEBRUARY 19, 2026",
       "time_et": "3:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Lego Play: Build Your Own Art",
       "venue": "Boston Athenaeum",
       "keywords": [
