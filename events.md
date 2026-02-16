@@ -40,5 +40,5 @@
 - MARCH 27 (Fri) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 28 (Sat) 12:00 PM ET -- Art & Architecture Tour
-- MARCH 28 (Sat) 2:00 PM ET -- Art & Architecture Tour
+- MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
