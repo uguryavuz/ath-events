@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-16T21:46:45",
+  "checked_at": "2026-02-17T17:18:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "8d935be9587bb609b7e3d1116234d707be992b243f225f8ef1f76d61c98ba7d5",
+  "hash": "99b3890ff506c76f6e72a008a0f57786954a0a447c18bd5768e0720f411ec9ba",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/jennifer-putzi-the-reconstruction-diary-of-frances-anne-rollin-5a2KUm7vkgP",
@@ -94,6 +94,18 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/stories-behind-the-glass-a-wine-and-amuse%E2%80%91bouche-night-5a2KUm78ZNx",
+      "date": "FEBRUARY 23, 2026",
+      "time_et": "6:00 PM",
+      "status": "$65.00",
+      "event_title": "Stories Behind the Glass: A Wine & Amuse‑Bouche Night",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Social",
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85IPV",
       "date": "FEBRUARY 24, 2026",
       "time_et": "5:30 PM",
@@ -120,6 +132,19 @@
       "venue": "Boston Athenaeum",
       "keywords": [
         "Lecture"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/keys-and-cabernet-5a2KUm8cPlZ",
+      "date": "FEBRUARY 26, 2026",
+      "time_et": "5:30 PM",
+      "status": "$15.00",
+      "event_title": "Keys & Cabernet",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive",
+        "Social",
+        "Live Music"
       ]
     },
     {
@@ -154,6 +179,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
+      "date": "MARCH 2, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UPxF",
       "date": "MARCH 3, 2026",
       "time_et": "5:30 PM",
@@ -172,6 +208,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/julia-cooke-starry-and-restless-5a2KUm7vh5p",
+      "date": "MARCH 4, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Julia Cooke - Starry and Restless",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8US8j",
       "date": "MARCH 5, 2026",
       "time_et": "12:00 PM",
@@ -179,6 +226,18 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
+      "date": "MARCH 5, 2026",
+      "time_et": "6:30 PM",
+      "status": "SOLD OUT",
+      "event_title": "Martini Movie Night - Sabrina",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Social",
+        "Member Exclusive"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UTUb",
@@ -208,6 +267,28 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/owl-encounter-with-mass-audubon-5a2KUm89SZx",
+      "date": "MARCH 7, 2026",
+      "time_et": "2:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "Owl Encounter with Mass Audubon",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/still-marching-1970-2017-5a2KUm7vj1B",
+      "date": "MARCH 9, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Still Marching 1970-2017",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UOl4",
@@ -268,6 +349,17 @@
       ]
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/pie-story-time-5a2KUm89Smr",
+      "date": "MARCH 14, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Pi(e) Story Time",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UVub",
       "date": "MARCH 14, 2026",
       "time_et": "3:00 PM",
@@ -286,6 +378,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/maureen-meister-arts-and-crafts-architecture-across-america-5a2KUm7vjQz",
+      "date": "MARCH 18, 2026",
+      "time_et": "6:00 PM",
+      "status": "SOLD OUT",
+      "event_title": "Maureen Meister - Arts & Crafts Architecture across America",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWp3",
       "date": "MARCH 19, 2026",
       "time_et": "3:00 PM",
@@ -293,6 +396,28 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/loop-and-swirl-cursive-workshop-5a2KUm89TCf",
+      "date": "MARCH 19, 2026",
+      "time_et": "4:00 PM",
+      "status": "",
+      "event_title": "Loop and Swirl: Cursive Workshop",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/boston-festival-orchestra-presents-sounds-of-new-england-5a2KUm88sQ1",
+      "date": "MARCH 19, 2026",
+      "time_et": "7:00 PM",
+      "status": "STARTS AT $20.00",
+      "event_title": "Boston Festival Orchestra Presents Sounds of New England",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Concert"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UXBd",
@@ -351,6 +476,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
+      "date": "MARCH 26, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "Tom Paine in Our Time: Common Sense at 250",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Exhibition Lecture"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UYpF",
       "date": "MARCH 27, 2026",
       "time_et": "5:30 PM",
@@ -396,6 +532,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/andrew-s-curran-biography-of-a-dangerous-idea-5a2KUm7vil4",
+      "date": "MARCH 31, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Andrew S. Curran - Biography Of A Dangerous Idea",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     }
   ]
 }
