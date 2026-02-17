@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-17T21:50:10",
+  "checked_at": "2026-02-17T23:47:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ae69072639d7b0a17bb20f323207da3104fa71ed566f70e7dd429ca78c46c97c",
+  "hash": "5357aea760cfe4560d88c97357bd6b2d87ffd3e770bd038b944e98f7021e0b68",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/jennifer-putzi-the-reconstruction-diary-of-frances-anne-rollin-5a2KUm7vkgP",
@@ -28,7 +28,7 @@
       "url": "https://events.bostonathenaeum.org/en/george-washingtons-library-lifelong-learning-and-citizenship-5a2KUm7mwth",
       "date": "FEBRUARY 18, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "George Washington's Library, Lifelong Learning, and Citizenship",
       "venue": "Boston Athenaeum",
       "keywords": [
