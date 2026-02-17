@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-17T17:18:50",
+  "checked_at": "2026-02-17T19:17:35",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "99b3890ff506c76f6e72a008a0f57786954a0a447c18bd5768e0720f411ec9ba",
+  "hash": "7f996e12df0ee942195184075d604accfae1a4595404985d217ef87c80efc271",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/jennifer-putzi-the-reconstruction-diary-of-frances-anne-rollin-5a2KUm7vkgP",
@@ -151,7 +151,7 @@
       "url": "https://events.bostonathenaeum.org/en/family-day-open-house-5a2KUm7rxKT",
       "date": "FEBRUARY 28, 2026",
       "time_et": "10:00 AM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Family Day Open House",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -252,7 +252,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXWT",
       "date": "MARCH 7, 2026",
       "time_et": "11:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -537,7 +537,7 @@
       "url": "https://events.bostonathenaeum.org/en/andrew-s-curran-biography-of-a-dangerous-idea-5a2KUm7vil4",
       "date": "MARCH 31, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Andrew S. Curran - Biography Of A Dangerous Idea",
       "venue": "Boston Athenaeum",
       "keywords": [

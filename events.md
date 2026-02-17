@@ -14,7 +14,7 @@
 - FEBRUARY 25 (Wed) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - FEBRUARY 25 (Wed) 6:00 PM ET -- [SOLD OUT] Designing America: Richard Morris Hunt’s Vision for a New Gilded Age (Lecture)
 - FEBRUARY 26 (Thu) 5:30 PM ET -- [$15.00] Keys & Cabernet (Member Exclusive, Social, Live Music)
-- FEBRUARY 28 (Sat) 10:00 AM ET -- [SOLD OUT] Family Day Open House (Children's/Family)
+- FEBRUARY 28 (Sat) 10:00 AM ET -- [FREE] Family Day Open House (Children's/Family)
 - FEBRUARY 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 2 (Mon) 6:00 PM ET -- [WAITLISTED] Puzzling Perfection: Reminiscing About Edward Gorey (Lecture)
@@ -24,7 +24,7 @@
 - MARCH 5 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 5 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - Sabrina (Social, Member Exclusive)
 - MARCH 6 (Fri) 12:00 PM ET -- Art & Architecture Tour
-- MARCH 7 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MARCH 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 7 (Sat) 2:00 PM ET -- [WAITLISTED] Owl Encounter with Mass Audubon (Children's/Family)
 - MARCH 9 (Mon) 6:00 PM ET -- Still Marching 1970-2017 (Lecture)
@@ -53,4 +53,4 @@
 - MARCH 28 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- MARCH 31 (Tue) 6:00 PM ET -- Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
+- MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
