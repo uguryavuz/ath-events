@@ -25,7 +25,7 @@
 - MARCH 6 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- MARCH 7 (Sat) 2:00 PM ET -- [WAITLISTED] Owl Encounter with Mass Audubon (Children's/Family)
+- MARCH 7 (Sat) 2:00 PM ET -- [SOLD OUT] Owl Encounter with Mass Audubon (Children's/Family)
 - MARCH 9 (Mon) 6:00 PM ET -- Still Marching 1970-2017 (Lecture)
 - MARCH 10 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 11 (Wed) 12:00 PM ET -- Art & Architecture Tour
