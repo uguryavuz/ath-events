@@ -34,7 +34,7 @@
 - MARCH 13 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 14 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 14 (Sat) 11:00 AM ET -- Pi(e) Story Time (Children's/Family)
-- MARCH 14 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 14 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 18 (Wed) 6:00 PM ET -- [SOLD OUT] Maureen Meister - Arts & Crafts Architecture across America (Author Talk)
 - MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour

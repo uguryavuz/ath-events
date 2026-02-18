@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-18T17:31:17",
+  "checked_at": "2026-02-18T19:17:00",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d4a3f8144f3baa9ce8e510f28971ce826fdca7b7b3bc670e520cc61ab280240e",
+  "hash": "fe5582499bc4689f5200ce0592ee39a731f900d659e4fbb62aa6f18a4fa18105",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85HoP",
@@ -352,7 +352,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UVub",
       "date": "MARCH 14, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
