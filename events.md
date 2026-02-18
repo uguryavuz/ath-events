@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- FEBRUARY 18 (Wed) 6:00 PM ET -- George Washington's Library, Lifelong Learning, and Citizenship (Lecture)
+- FEBRUARY 18 (Wed) 6:00 PM ET -- [WAITLISTED] George Washington's Library, Lifelong Learning, and Citizenship (Lecture)
 - FEBRUARY 19 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 19 (Thu) 3:30 PM ET -- [WAITLISTED] Lego Play: Build Your Own Art (Children's/Family)
 - FEBRUARY 20 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour

@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-18T21:52:02",
+  "checked_at": "2026-02-18T22:55:21",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "65c94ca03daef586ebaa119a9724ba22d4252ce9a43a6c89d27543fb728c9e08",
+  "hash": "960a4f500ff726edd56937bcc94286b336bd8c6cf3a3d518835211492f78d1bd",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/george-washingtons-library-lifelong-learning-and-citizenship-5a2KUm7mwth",
       "date": "FEBRUARY 18, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "George Washington's Library, Lifelong Learning, and Citizenship",
       "venue": "Boston Athenaeum",
       "keywords": [
