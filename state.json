@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-18T15:07:52",
+  "checked_at": "2026-02-18T17:31:17",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "41f6d33e4360e06ed07732d6b2b05e790ceeaeb60bd88a0fd9d2e4b5948d1ffb",
+  "hash": "d4a3f8144f3baa9ce8e510f28971ce826fdca7b7b3bc670e520cc61ab280240e",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85HoP",
@@ -86,7 +86,7 @@
       "url": "https://events.bostonathenaeum.org/en/stories-behind-the-glass-a-wine-and-amuse%E2%80%91bouche-night-5a2KUm78ZNx",
       "date": "FEBRUARY 23, 2026",
       "time_et": "6:00 PM",
-      "status": "$65.00",
+      "status": "WAITLISTED",
       "event_title": "Stories Behind the Glass: A Wine & Amuse‑Bouche Night",
       "venue": "Boston Athenaeum",
       "keywords": [
