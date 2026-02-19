@@ -30,7 +30,7 @@
 - MARCH 11 (Wed) 6:00 PM ET -- [WAITLISTED] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
 - MARCH 12 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MARCH 13 (Fri) 12:00 PM ET -- Art & Architecture Tour
-- MARCH 14 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MARCH 14 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 14 (Sat) 11:00 AM ET -- Pi(e) Story Time (Children's/Family)
 - MARCH 14 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
@@ -47,7 +47,7 @@
 - MARCH 26 (Thu) 6:00 PM ET -- [WAITLISTED] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
 - MARCH 27 (Fri) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- MARCH 28 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 28 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
