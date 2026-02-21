@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 6:00 PM ET -- [WAITLISTED] Stories Behind the Glass: A Wine & Amuse‑Bouche Night (Social, Member Exclusive)
@@ -15,7 +14,7 @@
 - MARCH 3 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 4 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 4 (Wed) 6:00 PM ET -- Julia Cooke - Starry and Restless (Author Talk)
-- MARCH 5 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 5 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 5 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - Sabrina (Social, Member Exclusive)
 - MARCH 6 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
