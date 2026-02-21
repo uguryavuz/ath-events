@@ -2,7 +2,7 @@
 
 - FEBRUARY 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- FEBRUARY 23 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- FEBRUARY 23 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 6:00 PM ET -- [WAITLISTED] Stories Behind the Glass: A Wine & Amuse‑Bouche Night (Social, Member Exclusive)
 - FEBRUARY 24 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 25 (Wed) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
