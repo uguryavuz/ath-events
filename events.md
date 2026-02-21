@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 23 (Mon) 6:00 PM ET -- [WAITLISTED] Stories Behind the Glass: A Wine & Amuse‑Bouche Night (Social, Member Exclusive)
 - FEBRUARY 24 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
