@@ -19,7 +19,7 @@
 - MARCH 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 7 (Sat) 2:00 PM ET -- [SOLD OUT] Owl Encounter with Mass Audubon (Children's/Family)
 - MARCH 9 (Mon) 6:00 PM ET -- Still Marching 1970-2017 (Lecture)
-- MARCH 10 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 10 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 11 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 11 (Wed) 6:00 PM ET -- [SOLD OUT] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
 - MARCH 12 (Thu) 3:00 PM ET -- Art & Architecture Tour
