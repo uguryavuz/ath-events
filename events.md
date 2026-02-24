@@ -2,7 +2,7 @@
 
 - FEBRUARY 24 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - FEBRUARY 25 (Wed) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- FEBRUARY 25 (Wed) 6:00 PM ET -- [WAITLISTED] Designing America: Richard Morris Hunt’s Vision for a New Gilded Age (Lecture)
+- FEBRUARY 25 (Wed) 6:00 PM ET -- [FREE] Designing America: Richard Morris Hunt’s Vision for a New Gilded Age (Lecture)
 - FEBRUARY 26 (Thu) 5:30 PM ET -- [$15.00] Keys & Cabernet (Member Exclusive, Social, Live Music)
 - FEBRUARY 28 (Sat) 10:00 AM ET -- [SOLD OUT] Family Day Open House (Children's/Family)
 - FEBRUARY 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
