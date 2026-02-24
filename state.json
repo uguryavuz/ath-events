@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-24T20:57:49",
+  "checked_at": "2026-02-24T22:55:23",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c72adc503be4fb4438822cbba8d31b9c5e6f54966f70daa8ace6ae27b0e43fab",
+  "hash": "7de505b130e31f38622ff88ebddc8586b4658286cd0a695419b3bc31360c0ee2",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85IPV",
@@ -50,7 +50,7 @@
       "url": "https://events.bostonathenaeum.org/en/family-day-open-house-5a2KUm7rxKT",
       "date": "FEBRUARY 28, 2026",
       "time_et": "10:00 AM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Family Day Open House",
       "venue": "Boston Athenaeum",
       "keywords": [
