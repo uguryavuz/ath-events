@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-24T23:54:20",
+  "checked_at": "2026-02-25T16:36:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d3496149da1ed6c2224d6ad25f44891ba0a70528c4be98437cc87f910fc92573",
+  "hash": "408943d4375c9f71bb469f9a6fc376b4ac02f7a7de7c7501008e00752500bdba",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85IR7",
@@ -21,7 +21,8 @@
       "event_title": "Designing America: Richard Morris Hunt’s Vision for a New Gilded Age",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Lecture"
+        "Lecture",
+        "Virtual Event"
       ]
     },
     {
