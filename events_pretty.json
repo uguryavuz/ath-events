@@ -59,7 +59,7 @@
     "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
     "date": "MARCH 2, 2026",
     "time_et": "6:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -206,6 +206,17 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/beyond-the-stage-of-boston-ballet-with-choreographer-mykal-stromile-5a2KUm8oozV",
+    "date": "MARCH 12, 2026",
+    "time_et": "6:30 PM",
+    "status": "$20.00",
+    "event_title": "Beyond the Stage of Boston Ballet with Choreographer My’Kal Stromile",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UUs5",
     "date": "MARCH 13, 2026",
     "time_et": "12:00 PM",
@@ -244,6 +255,17 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/ink-and-bubbly-an-evening-of-calligraphy-with-letteringbyliz-5a2KUm7vj9F",
+    "date": "MARCH 16, 2026",
+    "time_et": "6:00 PM",
+    "status": "$85.00",
+    "event_title": "Ink & Bubbly: An Evening of Calligraphy with LetteringByLiz",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWAj",

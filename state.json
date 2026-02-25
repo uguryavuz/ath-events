@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-25T21:51:00",
+  "checked_at": "2026-02-25T22:54:57",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f21b9308c3153551d7d10ade89ad221726c817a7491b99db8ca945e224c30cac",
+  "hash": "7f30bdb3e09ade90047ae98478173491957a4621eb4bcf16006d975d54079fac",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/designing-america-richard-morris-hunts-vision-for-a-new-gilded-age-5a2KUm7gTKv",
@@ -64,7 +64,7 @@
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
       "date": "MARCH 2, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -211,6 +211,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/beyond-the-stage-of-boston-ballet-with-choreographer-mykal-stromile-5a2KUm8oozV",
+      "date": "MARCH 12, 2026",
+      "time_et": "6:30 PM",
+      "status": "$20.00",
+      "event_title": "Beyond the Stage of Boston Ballet with Choreographer My’Kal Stromile",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UUs5",
       "date": "MARCH 13, 2026",
       "time_et": "12:00 PM",
@@ -249,6 +260,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/ink-and-bubbly-an-evening-of-calligraphy-with-letteringbyliz-5a2KUm7vj9F",
+      "date": "MARCH 16, 2026",
+      "time_et": "6:00 PM",
+      "status": "$85.00",
+      "event_title": "Ink & Bubbly: An Evening of Calligraphy with LetteringByLiz",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWAj",
