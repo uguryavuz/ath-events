@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-25T22:54:57",
+  "checked_at": "2026-02-25T23:46:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7f30bdb3e09ade90047ae98478173491957a4621eb4bcf16006d975d54079fac",
+  "hash": "d884fc86152099277e6844e697ff049efc703274e197eac06bf43edec1d36085",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/designing-america-richard-morris-hunts-vision-for-a-new-gilded-age-5a2KUm7gTKv",
       "date": "FEBRUARY 25, 2026",
       "time_et": "6:00 PM",
-      "status": "FREE",
+      "status": "",
       "event_title": "Designing America: Richard Morris Hunt’s Vision for a New Gilded Age",
       "venue": "Boston Athenaeum",
       "keywords": [
