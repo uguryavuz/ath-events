@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-25T16:36:37",
+  "checked_at": "2026-02-25T18:15:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "408943d4375c9f71bb469f9a6fc376b4ac02f7a7de7c7501008e00752500bdba",
+  "hash": "c4d19707100f37544815fcdc2f016e587515b407eb8b49b2533fc783a1c586e9",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85IR7",
       "date": "FEBRUARY 25, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
