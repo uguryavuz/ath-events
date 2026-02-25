@@ -1,12 +1,11 @@
 # Boston Athenaeum events
 
-- FEBRUARY 25 (Wed) 3:00 PM ET -- Art & Architecture Tour
 - FEBRUARY 25 (Wed) 6:00 PM ET -- [FREE] Designing America: Richard Morris Hunt’s Vision for a New Gilded Age (Lecture, Virtual Event)
 - FEBRUARY 26 (Thu) 5:30 PM ET -- [$15.00] Keys & Cabernet (Member Exclusive, Social, Live Music)
 - FEBRUARY 28 (Sat) 10:00 AM ET -- [FREE] Family Day Open House (Children's/Family)
 - FEBRUARY 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - FEBRUARY 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- MARCH 2 (Mon) 6:00 PM ET -- [WAITLISTED] Puzzling Perfection: Reminiscing About Edward Gorey (Lecture)
+- MARCH 2 (Mon) 6:00 PM ET -- [SOLD OUT] Puzzling Perfection: Reminiscing About Edward Gorey (Lecture)
 - MARCH 3 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 4 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 4 (Wed) 6:00 PM ET -- Julia Cooke - Starry and Restless (Author Talk)

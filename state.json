@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-25T18:15:33",
+  "checked_at": "2026-02-25T21:51:00",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c4d19707100f37544815fcdc2f016e587515b407eb8b49b2533fc783a1c586e9",
+  "hash": "f21b9308c3153551d7d10ade89ad221726c817a7491b99db8ca945e224c30cac",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85IR7",
-      "date": "FEBRUARY 25, 2026",
-      "time_et": "3:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/designing-america-richard-morris-hunts-vision-for-a-new-gilded-age-5a2KUm7gTKv",
       "date": "FEBRUARY 25, 2026",
@@ -73,7 +64,7 @@
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
       "date": "MARCH 2, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
       "venue": "Boston Athenaeum",
       "keywords": [
