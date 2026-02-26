@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-26T03:13:49",
+  "checked_at": "2026-02-26T13:45:28",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "93a3fec2ee74b1f60727f28d6fac7180f6d177218cc954495c5a3a659bca6504",
+  "hash": "2403041c47c6e290860209a5bc283d237d00ed9e99d55d7dc6c63c235745d2d7",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/keys-and-cabernet-5a2KUm8cPlZ",
@@ -52,7 +52,7 @@
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
       "date": "MARCH 2, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
       "venue": "Boston Athenaeum",
       "keywords": [
