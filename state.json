@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-26T17:30:51",
+  "checked_at": "2026-02-26T19:56:56",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "43b758d3e246fa758ddcff2a8d080298ca710e3d30c5470b614ded5dbbbe7a9c",
+  "hash": "75d51db5666b375fce28271005e7bde61659bc63781ae40efe9e4dbcf74ba5c9",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/keys-and-cabernet-5a2KUm8cPlZ",
@@ -101,7 +101,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
       "date": "MARCH 5, 2026",
       "time_et": "6:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Martini Movie Night - Sabrina",
       "venue": "Boston Athenaeum",
       "keywords": [
