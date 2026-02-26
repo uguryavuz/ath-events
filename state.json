@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-26T13:45:28",
+  "checked_at": "2026-02-26T15:08:23",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2403041c47c6e290860209a5bc283d237d00ed9e99d55d7dc6c63c235745d2d7",
+  "hash": "be8684b5f2ad016edbe6537b740f6884c0b5888bb5d5257090c413e7b40806d6",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/keys-and-cabernet-5a2KUm8cPlZ",
@@ -52,7 +52,7 @@
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
       "date": "MARCH 2, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -101,7 +101,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
       "date": "MARCH 5, 2026",
       "time_et": "6:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Martini Movie Night - Sabrina",
       "venue": "Boston Athenaeum",
       "keywords": [
