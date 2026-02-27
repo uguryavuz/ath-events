@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-27T15:54:09",
+  "checked_at": "2026-02-27T16:58:11",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1a0a7dc16caac59b01661add047d619fdc5a8c9cb94a124152b5a027bfbb3afe",
+  "hash": "f16939ea260874d49f8b04471c7ae243d5ef533dc21feb8ff89f4928c67041d6",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/family-day-open-house-5a2KUm7rxKT",
       "date": "FEBRUARY 28, 2026",
       "time_et": "10:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Family Day Open House",
       "venue": "Boston Athenaeum",
       "keywords": [
