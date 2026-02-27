@@ -36,7 +36,6 @@
 - MARCH 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 25 (Wed) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 26 (Thu) 6:00 PM ET -- [WAITLISTED] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
-- MARCH 27 (Fri) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 28 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
