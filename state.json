@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-27T16:58:11",
+  "checked_at": "2026-02-27T17:55:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f16939ea260874d49f8b04471c7ae243d5ef533dc21feb8ff89f4928c67041d6",
+  "hash": "39f9b54ab2463960e51ef516f8755b0428f4bf7e51fb955a1aa8167571bf172b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/family-day-open-house-5a2KUm7rxKT",
       "date": "FEBRUARY 28, 2026",
       "time_et": "10:00 AM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Family Day Open House",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm7v3tB",
       "date": "FEBRUARY 28, 2026",
       "time_et": "11:00 AM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -30,7 +30,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm85ISj",
       "date": "FEBRUARY 28, 2026",
       "time_et": "12:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
