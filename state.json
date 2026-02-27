@@ -1,22 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-02-26T19:56:56",
+  "checked_at": "2026-02-27T03:10:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "75d51db5666b375fce28271005e7bde61659bc63781ae40efe9e4dbcf74ba5c9",
+  "hash": "80e39c6f7fa315539363512bf275d427e218534a25d459b307ce8f974e2f652b",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/keys-and-cabernet-5a2KUm8cPlZ",
-      "date": "FEBRUARY 26, 2026",
-      "time_et": "5:30 PM",
-      "status": "$15.00",
-      "event_title": "Keys & Cabernet",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive",
-        "Social",
-        "Live Music"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/family-day-open-house-5a2KUm7rxKT",
       "date": "FEBRUARY 28, 2026",
@@ -52,7 +39,7 @@
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
       "date": "MARCH 2, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
       "venue": "Boston Athenaeum",
       "keywords": [
