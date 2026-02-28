@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- FEBRUARY 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 2 (Mon) 6:00 PM ET -- [WAITLISTED] Puzzling Perfection: Reminiscing About Edward Gorey (Lecture)
 - MARCH 3 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 4 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -27,7 +26,7 @@
 - MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MARCH 19 (Thu) 4:00 PM ET -- Loop and Swirl: Cursive Workshop (Children's/Family)
 - MARCH 19 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Boston Festival Orchestra Presents Sounds of New England (Concert)
-- MARCH 20 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 20 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 21 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 21 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
