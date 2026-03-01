@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-01T03:25:02",
+  "checked_at": "2026-03-01T23:40:59",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7cfea0aa3eec58d97987415512ccd3775f930980bb9529640807c1e42185f8fa",
+  "hash": "7866e52eddfd76c62d64183d92e4dc2c4d0c7fc9c2e40a17a253b2246dda0615",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
@@ -69,7 +69,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UTUb",
       "date": "MARCH 6, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
