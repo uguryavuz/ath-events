@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-02T03:12:45",
+  "checked_at": "2026-03-02T13:36:38",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "00067ff069bcd9ec66abdd80995949ce385e493a7ff50ca595a5135650f28e79",
+  "hash": "5a70989901993f4b9e298d856a5e4bf3c453c05677fee0a613144c766abf9b01",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
@@ -322,66 +322,6 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
-      "date": "MARCH 26, 2026",
-      "time_et": "6:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Tom Paine in Our Time: Common Sense at 250",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Exhibition Lecture"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXzV",
-      "date": "MARCH 28, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UZBp",
-      "date": "MARCH 28, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UZQL",
-      "date": "MARCH 28, 2026",
-      "time_et": "2:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UZTZ",
-      "date": "MARCH 30, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/andrew-s-curran-biography-of-a-dangerous-idea-5a2KUm7vil4",
-      "date": "MARCH 31, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Andrew S. Curran - Biography Of A Dangerous Idea",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
     }
   ]
 }
