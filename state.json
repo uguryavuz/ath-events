@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-02T17:08:03",
+  "checked_at": "2026-03-02T19:52:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "55a7f660258085c74bc7e10f78687a53a8346f193ba046c54072cbabc46e8878",
+  "hash": "cd40ef868792f52ed7a4cf837ad63f5cb21c0186ecfa7eef574fe5458d0b9070",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
@@ -57,7 +57,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
       "date": "MARCH 5, 2026",
       "time_et": "6:30 PM",
-      "status": "WAITLISTED",
+      "status": "$40.00",
       "event_title": "Martini Movie Night - Sabrina",
       "venue": "Boston Athenaeum",
       "keywords": [
