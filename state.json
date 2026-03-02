@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-01T23:40:59",
+  "checked_at": "2026-03-02T03:12:45",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7866e52eddfd76c62d64183d92e4dc2c4d0c7fc9c2e40a17a253b2246dda0615",
+  "hash": "00067ff069bcd9ec66abdd80995949ce385e493a7ff50ca595a5135650f28e79",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
@@ -57,7 +57,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
       "date": "MARCH 5, 2026",
       "time_et": "6:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Martini Movie Night - Sabrina",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -327,7 +327,7 @@
       "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
       "date": "MARCH 26, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Tom Paine in Our Time: Common Sense at 250",
       "venue": "Boston Athenaeum",
       "keywords": [

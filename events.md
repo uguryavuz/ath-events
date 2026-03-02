@@ -5,7 +5,7 @@
 - MARCH 4 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 4 (Wed) 6:00 PM ET -- Julia Cooke - Starry and Restless (Author Talk)
 - MARCH 5 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- MARCH 5 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - Sabrina (Social, Member Exclusive)
+- MARCH 5 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - Sabrina (Social, Member Exclusive)
 - MARCH 6 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -32,7 +32,7 @@
 - MARCH 21 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 25 (Wed) 5:30 PM ET -- Art & Architecture Tour
-- MARCH 26 (Thu) 6:00 PM ET -- [WAITLISTED] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
+- MARCH 26 (Thu) 6:00 PM ET -- [SOLD OUT] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
 - MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 28 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
