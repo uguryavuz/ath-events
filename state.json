@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-02T20:53:51",
+  "checked_at": "2026-03-03T03:16:01",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "55a7f660258085c74bc7e10f78687a53a8346f193ba046c54072cbabc46e8878",
+  "hash": "6ea26eaf2bb0140f74f5d895ce2689a64d56770ea1ee6a41d65cbf019d349a7e",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/puzzling-perfection-reminiscing-about-edward-gorey-5a2KUm7rIKX",
-      "date": "MARCH 2, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Puzzling Perfection: Reminiscing About Edward Gorey",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UPxF",
       "date": "MARCH 3, 2026",
