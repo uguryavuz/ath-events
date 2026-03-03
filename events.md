@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 3 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 4 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 4 (Wed) 6:00 PM ET -- Julia Cooke - Starry and Restless (Author Talk)
 - MARCH 5 (Thu) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
