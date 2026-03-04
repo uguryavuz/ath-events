@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-04T17:04:34",
+  "checked_at": "2026-03-04T19:08:38",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "671708ec99d146b733ffd5dfda374a5e3e4f20130584c082c32e5360b10bfb51",
+  "hash": "7a8d96f68deecc12739d93385bcecde112e7e358f2552e04bb2f53d9349b72fc",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8US0f",
-      "date": "MARCH 4, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/julia-cooke-starry-and-restless-5a2KUm7vh5p",
       "date": "MARCH 4, 2026",
@@ -78,7 +69,7 @@
       "url": "https://events.bostonathenaeum.org/en/owl-encounter-with-mass-audubon-5a2KUm89SZx",
       "date": "MARCH 7, 2026",
       "time_et": "2:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Owl Encounter with Mass Audubon",
       "venue": "Boston Athenaeum",
       "keywords": [
