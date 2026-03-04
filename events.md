@@ -21,7 +21,7 @@
 - MARCH 16 (Mon) 6:00 PM ET -- [$85.00] Ink & Bubbly: An Evening of Calligraphy with LetteringByLiz (Member Exclusive)
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MARCH 18 (Wed) 6:00 PM ET -- [SOLD OUT] Maureen Meister - Arts & Crafts Architecture across America (Author Talk)
-- MARCH 19 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 19 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 19 (Thu) 4:00 PM ET -- Loop and Swirl: Cursive Workshop (Children's/Family)
 - MARCH 19 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Boston Festival Orchestra Presents Sounds of New England (Concert)
 - MARCH 20 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
