@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-04T11:46:48",
+  "checked_at": "2026-03-04T15:00:24",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6e331c07425762303008b188942fcd96c53efc092523085c4e9adca30add3004",
+  "hash": "2d3102a13b47c5195b81ae9d5e65e3b4f618a154108ca90d4aafce731d2aa7cd",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8US0f",
@@ -37,7 +37,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
       "date": "MARCH 5, 2026",
       "time_et": "6:30 PM",
-      "status": "$40.00",
+      "status": "WAITLISTED",
       "event_title": "Martini Movie Night - Sabrina",
       "venue": "Boston Athenaeum",
       "keywords": [
