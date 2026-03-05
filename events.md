@@ -31,5 +31,5 @@
 - MARCH 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 30 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
