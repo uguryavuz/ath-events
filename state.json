@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-05T18:23:56",
+  "checked_at": "2026-03-05T20:01:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "8fa9e85365e3812d15d21fa7633dbfc916a5111160b88af1a31301f37549c921",
+  "hash": "7b75dc5be3955b32d937b8a42431d20fef3d1e84103064544e8e77aef2f779aa",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
@@ -289,7 +289,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXzV",
       "date": "MARCH 28, 2026",
       "time_et": "11:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
