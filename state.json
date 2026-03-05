@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-04T21:50:53",
+  "checked_at": "2026-03-05T03:10:56",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "fa8a87035190ef8b80687f6a9e33e3238696fe405d2d8eb156c69dde59b5e092",
+  "hash": "5c17a1a1363f595d2f61cc659ed67a2a20282a89f05cabbfffb97ac9f2c2e41c",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/julia-cooke-starry-and-restless-5a2KUm7vh5p",
-      "date": "MARCH 4, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Julia Cooke - Starry and Restless",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8US8j",
       "date": "MARCH 5, 2026",

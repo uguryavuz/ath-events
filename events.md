@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 4 (Wed) 6:00 PM ET -- Julia Cooke - Starry and Restless (Author Talk)
 - MARCH 5 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 5 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - Sabrina (Social, Member Exclusive)
 - MARCH 6 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
