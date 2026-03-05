@@ -1,8 +1,7 @@
 # Boston Athenaeum events
 
-- MARCH 5 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 5 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - Sabrina (Social, Member Exclusive)
-- MARCH 6 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 6 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 7 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 7 (Sat) 2:00 PM ET -- [WAITLISTED] Owl Encounter with Mass Audubon (Children's/Family)
@@ -10,9 +9,27 @@
 - MARCH 10 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 11 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 11 (Wed) 6:00 PM ET -- [WAITLISTED] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
-- MARCH 12 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- MARCH 12 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 12 (Thu) 6:30 PM ET -- [$20.00] Beyond the Stage of Boston Ballet with Choreographer My’Kal Stromile (Member Exclusive)
 - MARCH 13 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 14 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 14 (Sat) 11:00 AM ET -- Pi(e) Story Time (Children's/Family)
 - MARCH 14 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 16 (Mon) 6:00 PM ET -- [$85.00] Ink & Bubbly: An Evening of Calligraphy with LetteringByLiz (Member Exclusive)
+- MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 18 (Wed) 6:00 PM ET -- [SOLD OUT] Maureen Meister - Arts & Crafts Architecture across America (Author Talk)
+- MARCH 19 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 19 (Thu) 4:00 PM ET -- Loop and Swirl: Cursive Workshop (Children's/Family)
+- MARCH 19 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Boston Festival Orchestra Presents Sounds of New England (Concert)
+- MARCH 20 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
+- MARCH 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 21 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 24 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MARCH 25 (Wed) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 26 (Thu) 6:00 PM ET -- [WAITLISTED] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
+- MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MARCH 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 30 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
