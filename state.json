@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-05T20:55:13",
+  "checked_at": "2026-03-05T23:30:13",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b3d9c50b42a3a12c7c07c73ad58f4a06ce350674b3a9a01f78442346973659ad",
+  "hash": "ccc5fd4334300ccee3b6f9c8665639252272ed8a21ad72d6d9be5ac60ab4bb76",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-sabrina-5a2KUm88swH",
@@ -278,7 +278,7 @@
       "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
       "date": "MARCH 26, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Tom Paine in Our Time: Common Sense at 250",
       "venue": "Boston Athenaeum",
       "keywords": [
