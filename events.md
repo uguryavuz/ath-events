@@ -51,3 +51,5 @@
 - APRIL 25 (Sat) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 28 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
