@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 6 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 7 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 7 (Sat) 2:00 PM ET -- [WAITLISTED] Owl Encounter with Mass Audubon (Children's/Family)
@@ -16,7 +15,7 @@
 - MARCH 14 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 16 (Mon) 6:00 PM ET -- [$85.00] Ink & Bubbly: An Evening of Calligraphy with LetteringByLiz (Member Exclusive)
 - MARCH 17 (Tue) 5:30 PM ET -- Art & Architecture Tour
-- MARCH 18 (Wed) 6:00 PM ET -- [WAITLISTED] Maureen Meister - Arts & Crafts Architecture across America (Author Talk)
+- MARCH 18 (Wed) 6:00 PM ET -- [SOLD OUT] Maureen Meister - Arts & Crafts Architecture across America (Author Talk)
 - MARCH 19 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 19 (Thu) 4:00 PM ET -- Loop and Swirl: Cursive Workshop (Children's/Family)
 - MARCH 19 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Boston Festival Orchestra Presents Sounds of New England (Concert)
@@ -36,9 +35,14 @@
 - APRIL 2 (Thu) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 3 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 4 (Sat) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 6 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 7 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 8 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 10 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 13 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 18 (Sat) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 24 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 25 (Sat) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 28 (Tue) 5:30 PM ET -- Art & Architecture Tour
