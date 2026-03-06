@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-06T17:01:13",
+  "checked_at": "2026-03-06T17:54:23",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d4abcedeea40e605146c9c780fe3a3b8a23fa15318e8db107325e5df3839559d",
+  "hash": "da170655324cb1628bfb7188912885b388314ab033d35fe3e533594be1ac1e13",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UTUb",
@@ -321,6 +321,96 @@
       "keywords": [
         "Author Talk"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zNRJ",
+      "date": "APRIL 1, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zOlZ",
+      "date": "APRIL 2, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPJR",
+      "date": "APRIL 3, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPjF",
+      "date": "APRIL 4, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zOyT",
+      "date": "APRIL 7, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPzN",
+      "date": "APRIL 10, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zQFV",
+      "date": "APRIL 13, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zQQn",
+      "date": "APRIL 17, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zP4v",
+      "date": "APRIL 21, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zP89",
+      "date": "APRIL 28, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     }
   ]
 }
