@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-06T14:59:26",
+  "checked_at": "2026-03-06T15:55:28",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "005d07e8e28de496f1d3214465fc77ecce0ae8104bb0c7ba8d2ec9008d43ee36",
+  "hash": "0f1c226e2dac4302c7f4df5314a044a9f84b9475fd99a8c72c67194dc768c799",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UTUb",
@@ -210,7 +210,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UXBd",
       "date": "MARCH 20, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -266,7 +266,7 @@
       "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
       "date": "MARCH 26, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Tom Paine in Our Time: Common Sense at 250",
       "venue": "Boston Athenaeum",
       "keywords": [

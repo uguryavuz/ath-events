@@ -20,13 +20,13 @@
 - MARCH 19 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 19 (Thu) 4:00 PM ET -- Loop and Swirl: Cursive Workshop (Children's/Family)
 - MARCH 19 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Boston Festival Orchestra Presents Sounds of New England (Concert)
-- MARCH 20 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 20 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MARCH 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 21 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 24 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 25 (Wed) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- MARCH 26 (Thu) 6:00 PM ET -- [SOLD OUT] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
+- MARCH 26 (Thu) 6:00 PM ET -- [WAITLISTED] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
 - MARCH 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
