@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MARCH 7 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
+- MARCH 7 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MARCH 7 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 7 (Sat) 2:00 PM ET -- [WAITLISTED] Owl Encounter with Mass Audubon (Children's/Family)
 - MARCH 9 (Mon) 6:00 PM ET -- Still Marching 1970-2017 (Lecture)
