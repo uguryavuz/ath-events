@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-07T17:40:33",
+  "checked_at": "2026-03-07T18:51:55",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9493402b38cfdc45fdcd2875e235cd547d5f9d659e10488341946030b87e18d4",
+  "hash": "0e6885ab4e50ab25fa4354ad9609ff5c9190c8ce1756bf2f9be0309303c0702c",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UTft",
-      "date": "MARCH 7, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/owl-encounter-with-mass-audubon-5a2KUm89SZx",
       "date": "MARCH 7, 2026",
