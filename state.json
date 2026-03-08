@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-08T16:47:22",
+  "checked_at": "2026-03-08T20:44:07",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1cbe485cdf113fed64f1a7da6cf29f289572085de57d6333c32239694389fba0",
+  "hash": "6ed5d2bbf0c6f21aafa1b864e696b266998b0f59b9afb9c7ac8035c7683afd1e",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/still-marching-1970-2017-5a2KUm7vj1B",
@@ -77,7 +77,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXjN",
       "date": "MARCH 14, 2026",
       "time_et": "11:00 AM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
