@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-07T20:43:02",
+  "checked_at": "2026-03-08T16:47:22",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "bf17e50f716c9a8b7ea9b35d8629148f06f5615c7c327eabe11fb2ee8311d504",
+  "hash": "1cbe485cdf113fed64f1a7da6cf29f289572085de57d6333c32239694389fba0",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/still-marching-1970-2017-5a2KUm7vj1B",
@@ -313,7 +313,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPjF",
       "date": "APRIL 4, 2026",
       "time_et": "3:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
