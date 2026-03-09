@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 9 (Mon) 6:00 PM ET -- Still Marching 1970-2017 (Lecture)
 - MARCH 10 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 11 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 11 (Wed) 6:00 PM ET -- [WAITLISTED] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)

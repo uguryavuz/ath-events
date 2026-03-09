@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-09T19:54:07",
+  "checked_at": "2026-03-09T23:45:08",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c9f259c03d6b3c5c6c6ca49afeb6b391dc0d59efb2d68844fef64387ebaa8528",
+  "hash": "232d94308b7bc76715191998641c50ce47a03e82e02c6f647136678abffb751a",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/still-marching-1970-2017-5a2KUm7vj1B",
-      "date": "MARCH 9, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Still Marching 1970-2017",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UOl4",
       "date": "MARCH 10, 2026",
