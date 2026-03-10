@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MARCH 10 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MARCH 10 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 11 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 11 (Wed) 6:00 PM ET -- [WAITLISTED] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
 - MARCH 12 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
