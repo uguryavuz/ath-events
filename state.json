@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-11T18:06:11",
+  "checked_at": "2026-03-11T19:53:14",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b5cf038a4a70b109550e3272ab542202ecc706523d1cead5a293a41f551451de",
+  "hash": "dd987131965eb99175ca68e69b9281df7bbad0b364d2d0993756c1385a64bf7c",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/a-book-arts-revolution-with-four-women-artists-to-watch-5a2KUm88sJZ",
@@ -48,7 +48,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXjN",
       "date": "MARCH 14, 2026",
       "time_et": "11:00 AM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
