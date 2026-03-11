@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 11 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 11 (Wed) 6:00 PM ET -- [FREE] "A Book Arts Revolution" with Four Women Artists to Watch (Lecture)
 - MARCH 12 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 12 (Thu) 6:30 PM ET -- [$20.00] Beyond the Stage of Boston Ballet with Choreographer My’Kal Stromile (Member Exclusive)
