@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-11T13:40:28",
+  "checked_at": "2026-03-11T15:08:41",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "4020213c9764cae0238232780d25ad8fe5e42eb8a7a982616d9b2136dc202b2d",
+  "hash": "0a6dd40a0df626852a38430edd43a74bc941e45dc86c8843ae376e11016f5a43",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UUAX",
@@ -139,7 +139,7 @@
       "url": "https://events.bostonathenaeum.org/en/boston-festival-orchestra-presents-sounds-of-new-england-5a2KUm88sQ1",
       "date": "MARCH 19, 2026",
       "time_et": "7:00 PM",
-      "status": "STARTS AT $20.00",
+      "status": "SOLD OUT",
       "event_title": "Boston Festival Orchestra Presents Sounds of New England",
       "venue": "Boston Athenaeum",
       "keywords": [
