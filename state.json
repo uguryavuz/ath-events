@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-11T17:13:04",
+  "checked_at": "2026-03-11T18:06:11",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7ae61f84a56964e88cd0dd3ee550c13a6d5cc7f88a88305cc8e3588f3100c76e",
+  "hash": "b5cf038a4a70b109550e3272ab542202ecc706523d1cead5a293a41f551451de",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/a-book-arts-revolution-with-four-women-artists-to-watch-5a2KUm88sJZ",
@@ -48,7 +48,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXjN",
       "date": "MARCH 14, 2026",
       "time_et": "11:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -99,7 +99,7 @@
       "url": "https://events.bostonathenaeum.org/en/maureen-meister-arts-and-crafts-architecture-across-america-5a2KUm7vjQz",
       "date": "MARCH 18, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Maureen Meister - Arts & Crafts Architecture across America",
       "venue": "Boston Athenaeum",
       "keywords": [
