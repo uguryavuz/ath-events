@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 12 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 12 (Thu) 6:30 PM ET -- [$20.00] Beyond the Stage of Boston Ballet with Choreographer My’Kal Stromile (Member Exclusive)
 - MARCH 13 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 14 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
