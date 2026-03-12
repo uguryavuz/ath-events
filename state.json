@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-12T20:02:44",
+  "checked_at": "2026-03-12T20:54:39",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "32a8c880c9f66b4da2cad6bac505220535d033ec1a4be4b8077d6f3305361449",
+  "hash": "0387442e774653811bbd69d502c83fa077c2c97396a60722db71ab9f1f7f74cf",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/beyond-the-stage-of-boston-ballet-with-choreographer-mykal-stromile-5a2KUm8oozV",
@@ -28,7 +28,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXjN",
       "date": "MARCH 14, 2026",
       "time_et": "11:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -309,7 +309,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPzN",
       "date": "APRIL 10, 2026",
       "time_et": "3:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []

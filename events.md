@@ -2,7 +2,7 @@
 
 - MARCH 12 (Thu) 6:30 PM ET -- [$20.00] Beyond the Stage of Boston Ballet with Choreographer My’Kal Stromile (Member Exclusive)
 - MARCH 13 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- MARCH 14 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MARCH 14 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 14 (Sat) 11:00 AM ET -- Pi(e) Story Time (Children's/Family)
 - MARCH 14 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 16 (Mon) 6:00 PM ET -- [$85.00] Ink & Bubbly: An Evening of Calligraphy with LetteringByLiz (Member Exclusive)
@@ -31,7 +31,7 @@
 - APRIL 7 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 8 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 9 (Thu) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 10 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 10 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 13 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 15 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
