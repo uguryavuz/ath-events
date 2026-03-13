@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 13 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 14 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 14 (Sat) 11:00 AM ET -- Pi(e) Story Time (Children's/Family)
 - MARCH 14 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
