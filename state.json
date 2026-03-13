@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-13T19:50:24",
+  "checked_at": "2026-03-13T21:50:12",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "cda8104c142ee5e59c5c938445365982e40acbeaeb56d364f6b51084e46006a3",
+  "hash": "df78a5510ad3934444f51e48f46f07afdd8072cd9e038c243ec32bd72a81fc7b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXjN",
       "date": "MARCH 14, 2026",
       "time_et": "11:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
