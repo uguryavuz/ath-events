@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-13T17:00:37",
+  "checked_at": "2026-03-13T19:03:08",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "df78a5510ad3934444f51e48f46f07afdd8072cd9e038c243ec32bd72a81fc7b",
+  "hash": "77955fa7e9f352187305d1e71a647718b4435b6296d34563ecb58a5e618fea21",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXjN",
@@ -90,7 +90,7 @@
       "url": "https://events.bostonathenaeum.org/en/boston-festival-orchestra-presents-sounds-of-new-england-5a2KUm88sQ1",
       "date": "MARCH 19, 2026",
       "time_et": "7:00 PM",
-      "status": "WAITLISTED",
+      "status": "STARTS AT $20.00",
       "event_title": "Boston Festival Orchestra Presents Sounds of New England",
       "venue": "Boston Athenaeum",
       "keywords": [
