@@ -23,7 +23,7 @@
 - MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
 - APRIL 1 (Wed) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 2 (Thu) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 3 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 3 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 4 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 6 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 7 (Tue) 5:30 PM ET -- Art & Architecture Tour
