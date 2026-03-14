@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 14 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 16 (Mon) 6:00 PM ET -- [$85.00] Ink & Bubbly: An Evening of Calligraphy with LetteringByLiz (Member Exclusive)
 - MARCH 17 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 18 (Wed) 6:00 PM ET -- [WAITLISTED] Maureen Meister - Arts & Crafts Architecture across America (Author Talk)
