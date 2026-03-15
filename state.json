@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-15T07:56:13",
+  "checked_at": "2026-03-15T17:47:19",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d1b344a1f8c9eef35f95cd1919a7857eae2848d7622ce3e5cbfd43c2149da77d",
+  "hash": "1f3478c66e72d6adecde4f1137b85fd2045ae09183318b3af451d3aaeb81fd73",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/ink-and-bubbly-an-evening-of-calligraphy-with-letteringbyliz-5a2KUm7vj9F",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWAj",
       "date": "MARCH 17, 2026",
       "time_et": "5:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
