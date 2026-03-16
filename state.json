@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-16T17:19:25",
+  "checked_at": "2026-03-16T19:31:27",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2c3cdd0029b21f9c418b40689521a529bc2738fe0a71ec73f83ef21e4612e8cf",
+  "hash": "16bb4d67baf2bd9983e53520c905218de3d6ca6e41bfc8d9beab9a12b88a2191",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/ink-and-bubbly-an-evening-of-calligraphy-with-letteringbyliz-5a2KUm7vj9F",
@@ -70,7 +70,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UXBd",
       "date": "MARCH 20, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -108,7 +108,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UYKb",
       "date": "MARCH 24, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -117,7 +117,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UYdx",
       "date": "MARCH 25, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -210,6 +210,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/poetry-in-paper-with-bob-sances-5a2KUm8gtLF",
+      "date": "APRIL 4, 2026",
+      "time_et": "2:00 PM",
+      "status": "",
+      "event_title": "Poetry in Paper with Bob Sances",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPjF",
       "date": "APRIL 4, 2026",
       "time_et": "3:00 PM",
@@ -228,6 +239,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/exhibition-opening-who-is-america-at-250-5a2KUm8vpFh",
+      "date": "APRIL 6, 2026",
+      "time_et": "5:30 PM",
+      "status": "FREE",
+      "event_title": "Exhibition Opening - Who Is America at 250?",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Exhibitions"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zOyT",
       "date": "APRIL 7, 2026",
       "time_et": "5:30 PM",
@@ -237,6 +259,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/cuentos-bilingues-bilingual-storytime-5a2KUm8gtLG",
+      "date": "APRIL 8, 2026",
+      "time_et": "10:30 AM",
+      "status": "",
+      "event_title": "Cuentos Bilingües / Bilingual Storytime",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zUZF",
       "date": "APRIL 8, 2026",
       "time_et": "12:00 PM",
@@ -244,6 +277,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/andrew-graham-dixon-vermeer-a-life-lost-and-found-5a2KUm88sUr",
+      "date": "APRIL 8, 2026",
+      "time_et": "6:00 PM",
+      "status": "SOLD OUT",
+      "event_title": "Andrew Graham-Dixon - Vermeer: A Life Lost and Found",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zWCr",
@@ -273,6 +317,18 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vjij",
+      "date": "APRIL 13, 2026",
+      "time_et": "6:00 PM",
+      "status": "SOLD OUT",
+      "event_title": "Member Mixer",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Social",
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zWmL",
       "date": "APRIL 15, 2026",
       "time_et": "12:00 PM",
@@ -280,6 +336,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/anita-wyzanski-robboy-a-force-for-good-5a2KUm8Oeqv",
+      "date": "APRIL 15, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Anita Wyzanski Robboy - A Force for Good",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXVV",
@@ -318,6 +385,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/tom-french-the-gap-years-climbing-skiing-and-the-journey-back-5a2KUm88scv",
+      "date": "APRIL 22, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Tom French - The Gap Years: Climbing, Skiing, and the Journey Back",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXs5",
       "date": "APRIL 23, 2026",
       "time_et": "12:00 PM",
@@ -334,6 +412,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/trees-please-story-time-5a2KUm8gx3t",
+      "date": "APRIL 25, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Trees, Please! Story Time",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zSyr",
@@ -354,6 +443,15 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/live-podcast-recording-explain-boston-to-me-5a2KUm88smb",
+      "date": "APRIL 27, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Live Podcast Recording: Explain Boston To Me",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zP89",
       "date": "APRIL 28, 2026",
       "time_et": "5:30 PM",
@@ -370,6 +468,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/megan-kate-nelson-the-westerners-5a2KUm7vkRt",
+      "date": "APRIL 29, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "Megan Kate Nelson - The Westerners",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zZNd",
