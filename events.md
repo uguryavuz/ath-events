@@ -1,8 +1,7 @@
 # Boston Athenaeum events
 
-- MARCH 17 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 18 (Wed) 6:00 PM ET -- [WAITLISTED] Maureen Meister - Arts & Crafts Architecture across America (Author Talk)
-- MARCH 19 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 19 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 19 (Thu) 4:00 PM ET -- Loop and Swirl: Cursive Workshop (Children's/Family)
 - MARCH 19 (Thu) 7:00 PM ET -- [WAITLISTED] Boston Festival Orchestra Presents Sounds of New England (Concert)
 - MARCH 20 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
