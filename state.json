@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-17T17:37:34",
+  "checked_at": "2026-03-17T19:30:58",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9fab1a1cd4a450fafc8f9a777bb260a66ab559ea5a744247d001e84e82bf44b3",
+  "hash": "139896efa17fed32ee8522083b7458b6d030db208b2e160ea3ca8656a37daf21",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWAj",
@@ -271,7 +271,7 @@
       "url": "https://events.bostonathenaeum.org/en/andrew-graham-dixon-vermeer-a-life-lost-and-found-5a2KUm88sUr",
       "date": "APRIL 8, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Andrew Graham-Dixon - Vermeer: A Life Lost and Found",
       "venue": "Boston Athenaeum",
       "keywords": [

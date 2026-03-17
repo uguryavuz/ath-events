@@ -27,7 +27,7 @@
 - APRIL 7 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 8 (Wed) 10:30 AM ET -- Cuentos Bilingües / Bilingual Storytime (Children's/Family)
 - APRIL 8 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 8 (Wed) 6:00 PM ET -- [SOLD OUT] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (Author Talk)
+- APRIL 8 (Wed) 6:00 PM ET -- [WAITLISTED] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (Author Talk)
 - APRIL 9 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 10 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Slow Art Day: Athena
