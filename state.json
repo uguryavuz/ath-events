@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-18T13:55:42",
+  "checked_at": "2026-03-18T19:26:21",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "64f767f971fde8d5c8fc8e0e87991aa0c46081ae8eadb1f258d6bfc61622855a",
+  "hash": "2b339edd12de131dc3d16d00f53bf8c247af53cd54bb89f3780652e1f0f3fdd8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/maureen-meister-arts-and-crafts-architecture-across-america-5a2KUm7vjQz",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWp3",
       "date": "MARCH 19, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -59,7 +59,7 @@
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fWDq",
       "date": "MARCH 21, 2026",
       "time_et": "11:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
