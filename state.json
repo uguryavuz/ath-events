@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-18T19:26:21",
+  "checked_at": "2026-03-18T23:45:10",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2b339edd12de131dc3d16d00f53bf8c247af53cd54bb89f3780652e1f0f3fdd8",
+  "hash": "39dd24ecffe6b0f771b2b1390d5c181e3e4dc1cc10aa2c92e47b4f81562237dc",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/maureen-meister-arts-and-crafts-architecture-across-america-5a2KUm7vjQz",
-      "date": "MARCH 18, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Maureen Meister - Arts & Crafts Architecture across America",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWp3",
       "date": "MARCH 19, 2026",
