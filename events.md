@@ -38,7 +38,7 @@
 - APRIL 15 (Wed) 6:00 PM ET -- Anita Wyzanski Robboy - A Force for Good (Author Talk)
 - APRIL 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
-- APRIL 18 (Sat) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 18 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour

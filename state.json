@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-17T22:54:02",
+  "checked_at": "2026-03-18T13:55:42",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2d3559799aae9adaff60a95845063a0cd40eb9f2b939829233de703a8241c09c",
+  "hash": "64f767f971fde8d5c8fc8e0e87991aa0c46081ae8eadb1f258d6bfc61622855a",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/maureen-meister-arts-and-crafts-architecture-across-america-5a2KUm7vjQz",
@@ -377,7 +377,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zRRh",
       "date": "APRIL 18, 2026",
       "time_et": "3:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
