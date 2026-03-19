@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-19T15:08:27",
+  "checked_at": "2026-03-19T20:58:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "8185396a736930e4d4b076afda17bc0411606c1a19326056e6dbf4a82f5eff38",
+  "hash": "6f18300b4068cf9ec1fe42e3d14133cc967f0cd4b97dabee300ee833a05a58a3",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UWp3",
-      "date": "MARCH 19, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/loop-and-swirl-cursive-workshop-5a2KUm89TCf",
       "date": "MARCH 19, 2026",
