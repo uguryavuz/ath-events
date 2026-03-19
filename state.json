@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-19T20:58:16",
+  "checked_at": "2026-03-19T21:50:13",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6f18300b4068cf9ec1fe42e3d14133cc967f0cd4b97dabee300ee833a05a58a3",
+  "hash": "e6eba887a8752fa5590b3692fdb7b63e55fba260639d8daea5e7bfe5250df1a6",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/loop-and-swirl-cursive-workshop-5a2KUm89TCf",
-      "date": "MARCH 19, 2026",
-      "time_et": "4:00 PM",
-      "status": "",
-      "event_title": "Loop and Swirl: Cursive Workshop",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/boston-festival-orchestra-presents-sounds-of-new-england-5a2KUm88sQ1",
       "date": "MARCH 19, 2026",
