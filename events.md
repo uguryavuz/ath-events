@@ -32,3 +32,19 @@
 - APRIL 13 (Mon) 6:00 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - APRIL 15 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 15 (Wed) 6:00 PM ET -- Anita Wyzanski Robboy - A Force for Good (Author Talk)
+- APRIL 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 18 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
+- APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 24 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
+- APRIL 25 (Sat) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
+- APRIL 28 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
+- APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- JULY 21 (Tue) 9:00 AM ET -- [$50.00] 2026 Summer K-12 Educators Workshop
