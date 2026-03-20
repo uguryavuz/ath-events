@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 19 (Thu) 7:00 PM ET -- [WAITLISTED] Boston Festival Orchestra Presents Sounds of New England (Concert)
 - MARCH 20 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 21 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
