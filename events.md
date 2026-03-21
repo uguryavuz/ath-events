@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MARCH 21 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 21 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 24 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 25 (Wed) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
