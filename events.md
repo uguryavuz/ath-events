@@ -8,7 +8,7 @@
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
-- APRIL 1 (Wed) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 1 (Wed) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 2 (Thu) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 3 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 4 (Sat) 2:00 PM ET -- Poetry in Paper with Bob Sances (Children's/Family)
