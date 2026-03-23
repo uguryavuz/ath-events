@@ -10,7 +10,7 @@
 - MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
 - APRIL 1 (Wed) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 2 (Thu) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 3 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 3 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 4 (Sat) 2:00 PM ET -- Poetry in Paper with Bob Sances (Children's/Family)
 - APRIL 4 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 6 (Mon) 12:00 PM ET -- Art & Architecture Tour
@@ -32,15 +32,3 @@
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 18 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
-- APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
-- APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 24 (Fri) 3:00 PM ET -- Art & Architecture Tour
-- APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
-- APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
-- APRIL 28 (Tue) 5:30 PM ET -- Art & Architecture Tour
-- APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
-- APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
-- JULY 21 (Tue) 9:00 AM ET -- [$50.00] 2026 Summer K-12 Educators Workshop
