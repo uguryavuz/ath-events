@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MARCH 24 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 24 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 25 (Wed) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 26 (Thu) 6:00 PM ET -- [WAITLISTED] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
 - MARCH 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
@@ -38,7 +38,7 @@
 - APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
 - APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 27 (Mon) 6:00 PM ET -- [WAITLISTED] Live Podcast Recording: Explain Boston To Me
+- APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
 - APRIL 28 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
