@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-25T22:58:13",
+  "checked_at": "2026-03-25T23:52:19",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "00be517e6674c027b6cff02b0436df2b0998b668b686ff12d08091e7633c2c68",
+  "hash": "6427a6a270d17deea924ee3a5c434ce4d6c977d0203079dc2fc98eab24963ca6",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
@@ -57,7 +57,7 @@
       "url": "https://events.bostonathenaeum.org/en/andrew-s-curran-biography-of-a-dangerous-idea-5a2KUm7vil4",
       "date": "MARCH 31, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Andrew S. Curran - Biography Of A Dangerous Idea",
       "venue": "Boston Athenaeum",
       "keywords": [
