@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-25T15:38:07",
+  "checked_at": "2026-03-25T19:13:18",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6c69d0372f8af239c4bab44160071942120c5f28dcd4c6ffc311da35d9ef21b4",
+  "hash": "fbd938e542b7e0124b10048a2a22eef85950740b4bcdb2a576adffc32cab34cd",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UYdx",
@@ -66,7 +66,7 @@
       "url": "https://events.bostonathenaeum.org/en/andrew-s-curran-biography-of-a-dangerous-idea-5a2KUm7vil4",
       "date": "MARCH 31, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Andrew S. Curran - Biography Of A Dangerous Idea",
       "venue": "Boston Athenaeum",
       "keywords": [
