@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-25T19:13:18",
+  "checked_at": "2026-03-25T22:58:13",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "fbd938e542b7e0124b10048a2a22eef85950740b4bcdb2a576adffc32cab34cd",
+  "hash": "00be517e6674c027b6cff02b0436df2b0998b668b686ff12d08091e7633c2c68",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UYdx",
-      "date": "MARCH 25, 2026",
-      "time_et": "5:30 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
       "date": "MARCH 26, 2026",
