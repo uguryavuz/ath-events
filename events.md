@@ -5,10 +5,11 @@
 - MARCH 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- MARCH 31 (Tue) 6:00 PM ET -- Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
+- MARCH 31 (Tue) 6:00 PM ET -- [WAITLISTED] Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
 - APRIL 1 (Wed) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 2 (Thu) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 3 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 4 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 4 (Sat) 2:00 PM ET -- Poetry in Paper with Bob Sances (Children's/Family)
 - APRIL 4 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 6 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -17,22 +18,26 @@
 - APRIL 8 (Wed) 10:30 AM ET -- Cuentos Bilingües / Bilingual Storytime (Children's/Family)
 - APRIL 8 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 8 (Wed) 6:00 PM ET -- [WAITLISTED] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (6pm Session) (Author Talk)
-- APRIL 9 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 9 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 10 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Slow Art Day: Athena
 - APRIL 11 (Sat) 1:30 PM ET -- [FREE] Slow Art Day: Polly Thayer Starr
 - APRIL 11 (Sat) 2:00 PM ET -- [FREE] Slow Art Day: "Old Pat"
+- APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day
 - APRIL 13 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 13 (Mon) 6:00 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - APRIL 15 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 15 (Wed) 6:00 PM ET -- Anita Wyzanski Robboy - A Force for Good (Author Talk)
 - APRIL 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 24 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
 - APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
@@ -41,4 +46,11 @@
 - APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
 - APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
