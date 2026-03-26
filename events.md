@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
 - MARCH 26 (Thu) 6:00 PM ET -- [WAITLISTED] Tom Paine in Our Time: Common Sense at 250 (Exhibition Lecture)
-- MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MARCH 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
 - MARCH 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -32,3 +32,13 @@
 - APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 24 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
+- APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
+- APRIL 28 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
+- APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
