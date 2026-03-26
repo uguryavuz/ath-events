@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-25T23:52:19",
+  "checked_at": "2026-03-26T14:01:06",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6427a6a270d17deea924ee3a5c434ce4d6c977d0203079dc2fc98eab24963ca6",
+  "hash": "1a21f2fc4a0166e99b1fb5c4f4da7a135964e40ca4ac3b8ac3284aae95642304",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
@@ -310,100 +310,6 @@
       "time_et": "12:00 PM",
       "status": "",
       "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zS2n",
-      "date": "APRIL 24, 2026",
-      "time_et": "3:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/trees-please-story-time-5a2KUm8gx3t",
-      "date": "APRIL 25, 2026",
-      "time_et": "11:00 AM",
-      "status": "",
-      "event_title": "Trees, Please! Story Time",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zSyr",
-      "date": "APRIL 25, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zYZd",
-      "date": "APRIL 27, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/live-podcast-recording-explain-boston-to-me-5a2KUm88smb",
-      "date": "APRIL 27, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Live Podcast Recording: Explain Boston To Me",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zP89",
-      "date": "APRIL 28, 2026",
-      "time_et": "5:30 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zZAj",
-      "date": "APRIL 29, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/megan-kate-nelson-the-westerners-5a2KUm7vkRt",
-      "date": "APRIL 29, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Megan Kate Nelson - The Westerners",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zZNd",
-      "date": "APRIL 30, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
-      "date": "JULY 21, 2026",
-      "time_et": "9:00 AM",
-      "status": "WAITLISTED",
-      "event_title": "2026 Summer K-12 Educators Workshop",
       "venue": "Boston Athenaeum",
       "keywords": []
     }
