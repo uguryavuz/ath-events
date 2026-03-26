@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-26T19:33:53",
+  "checked_at": "2026-03-26T23:50:11",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e608c8c8999328df3464378104b46f6e1fc7d61ce09d35c370653b6d28f47794",
+  "hash": "373e84728d5bdd241b819cc056968fa2fdcaa09e8d4003eb8c69efec5ec06d39",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/tom-paine-in-our-time-common-sense-at-250-5a2KUm88szV",
-      "date": "MARCH 26, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Tom Paine in Our Time: Common Sense at 250",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Exhibition Lecture"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXzV",
       "date": "MARCH 28, 2026",
