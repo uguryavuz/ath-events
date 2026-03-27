@@ -32,3 +32,24 @@
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
+- APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 24 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
+- APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
+- APRIL 28 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
+- APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
