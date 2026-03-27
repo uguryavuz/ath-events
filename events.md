@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
-- MARCH 28 (Sat) 11:00 AM ET -- [SOLD OUT] Library Orientation Tour (Member Exclusive)
-- MARCH 28 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MARCH 28 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MARCH 28 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MARCH 28 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 30 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MARCH 31 (Tue) 6:00 PM ET -- Andrew S. Curran - Biography Of A Dangerous Idea (Author Talk)
@@ -18,7 +18,7 @@
 - APRIL 8 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 8 (Wed) 6:00 PM ET -- [WAITLISTED] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (6pm Session) (Author Talk)
 - APRIL 9 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 10 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 10 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Slow Art Day: Athena
 - APRIL 11 (Sat) 1:30 PM ET -- [FREE] Slow Art Day: Polly Thayer Starr
