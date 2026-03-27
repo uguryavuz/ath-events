@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-27T03:31:44",
+  "checked_at": "2026-03-27T05:52:02",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "4864e482b5d679273cb97066c1ec7200942e04ffdb6c89eeeb4791fd03df8436",
+  "hash": "93090de9b1278725c042bf2bce833309a71ca0e8d0d9432fb13abf761f1a52af",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXzV",
@@ -135,7 +135,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zOyT",
       "date": "APRIL 7, 2026",
       "time_et": "5:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
