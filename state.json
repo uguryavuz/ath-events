@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-27T20:57:48",
+  "checked_at": "2026-03-28T03:18:30",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "460c7e7572e38ff0b9921e682160602817a0550e53d29531509b236f120739bf",
+  "hash": "e9cee6ff8554c1834d2742bc031c1870522517e90c55d2a9ed3ff5e9e7531835",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm8fXzV",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8UZBp",
       "date": "MARCH 28, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -155,7 +155,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zUZF",
       "date": "APRIL 8, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -328,7 +328,7 @@
       "url": "https://events.bostonathenaeum.org/en/tom-french-the-gap-years-climbing-skiing-and-the-journey-back-5a2KUm88scv",
       "date": "APRIL 22, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Tom French - The Gap Years: Climbing, Skiing, and the Journey Back",
       "venue": "Boston Athenaeum",
       "keywords": [
