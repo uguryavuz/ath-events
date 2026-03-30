@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-30T21:04:16",
+  "checked_at": "2026-03-30T22:57:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a23ac15d8b0ec7cc370d3a845d14675ecfd377098b06a4f497a98185c0519590",
+  "hash": "047327d6efe5f854bf6c0f65b5994413c08bcb22911a5f610448e4f5d043fd13",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/andrew-s-curran-biography-of-a-dangerous-idea-5a2KUm7vil4",
@@ -386,7 +386,7 @@
       "url": "https://events.bostonathenaeum.org/en/megan-kate-nelson-the-westerners-5a2KUm7vkRt",
       "date": "APRIL 29, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Megan Kate Nelson - The Westerners",
       "venue": "Boston Athenaeum",
       "keywords": [
