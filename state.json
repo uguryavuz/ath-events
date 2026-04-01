@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-01T15:45:44",
+  "checked_at": "2026-04-01T18:06:22",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1f97461f235d09191b0fcb3dbca191cd53b58b24914a1ae8cb9a027a2aef3c50",
+  "hash": "a90d64f037de7a8c64469b69136e8dfee8276d0f312e462634f9d01f6434a35f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zNRJ",
@@ -425,6 +425,15 @@
       "keywords": [
         "Member Exclusive"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9P6hl",
+      "date": "MAY 18, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbxx",

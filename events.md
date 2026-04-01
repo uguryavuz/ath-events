@@ -43,6 +43,7 @@
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 18 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
