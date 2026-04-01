@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-03-31T23:00:31",
+  "checked_at": "2026-04-01T15:45:44",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "dbe4f8cf50961bced5c3b3638efab6b0885c67a540f8f26955c3a66197d97e03",
+  "hash": "1f97461f235d09191b0fcb3dbca191cd53b58b24914a1ae8cb9a027a2aef3c50",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zNRJ",
@@ -26,7 +26,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPJR",
       "date": "APRIL 3, 2026",
       "time_et": "3:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -135,7 +135,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPzN",
       "date": "APRIL 10, 2026",
       "time_et": "3:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -350,15 +350,6 @@
       "time_et": "6:00 PM",
       "status": "",
       "event_title": "Live Podcast Recording: Explain Boston To Me",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zP89",
-      "date": "APRIL 28, 2026",
-      "time_et": "5:30 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
     },
