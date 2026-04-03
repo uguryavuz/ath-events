@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPJR",
-    "date": "APRIL 3, 2026",
-    "time_et": "3:00 PM",
-    "status": "WAITLISTED",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jb3V",
     "date": "APRIL 4, 2026",
     "time_et": "11:00 AM",
@@ -177,7 +168,7 @@
     "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vjij",
     "date": "APRIL 13, 2026",
     "time_et": "6:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Member Mixer",
     "venue": "Boston Athenaeum",
     "keywords": [
