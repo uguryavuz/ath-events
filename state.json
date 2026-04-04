@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-04T19:03:55",
+  "checked_at": "2026-04-04T20:52:07",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1877adad80cfda2b296519c99e73cd64b0b90f4885df9f94f453a81b31905c69",
+  "hash": "a45c4244778ce28eae38b957f618c3e1f92c0482c70e8a47f57971e0bca30308",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPjF",
-      "date": "APRIL 4, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zTJp",
       "date": "APRIL 6, 2026",
@@ -124,7 +115,7 @@
       "url": "https://events.bostonathenaeum.org/en/slow-art-day-old-pat-5a2KUm99w9F",
       "date": "APRIL 11, 2026",
       "time_et": "2:00 PM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Slow Art Day: \"Old Pat\"",
       "venue": "Boston Athenaeum",
       "keywords": []

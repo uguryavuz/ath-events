@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 4 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 6 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 6 (Mon) 5:30 PM ET -- [FREE] Exhibition Opening - Who Is America at 250? (Exhibitions)
 - APRIL 7 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -12,7 +11,7 @@
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 11 (Sat) 11:00 AM ET -- [SOLD OUT] Slow Art Day: Athena
 - APRIL 11 (Sat) 1:30 PM ET -- [SOLD OUT] Slow Art Day: Polly Thayer Starr
-- APRIL 11 (Sat) 2:00 PM ET -- [FREE] Slow Art Day: "Old Pat"
+- APRIL 11 (Sat) 2:00 PM ET -- [SOLD OUT] Slow Art Day: "Old Pat"
 - APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day
 - APRIL 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 13 (Mon) 6:00 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
