@@ -2,7 +2,7 @@
 
 - APRIL 4 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 4 (Sat) 2:00 PM ET -- Poetry in Paper with Bob Sances (Children's/Family)
-- APRIL 4 (Sat) 3:00 PM ET -- Art & Architecture Tour
+- APRIL 4 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 6 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 6 (Mon) 5:30 PM ET -- [FREE] Exhibition Opening - Who Is America at 250? (Exhibitions)
 - APRIL 7 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
