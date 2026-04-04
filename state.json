@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-04T15:49:16",
+  "checked_at": "2026-04-04T16:55:41",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "69673370a938314042a7b6609486c23aa32a95581fac36e7a34e11bb09220dbf",
+  "hash": "228e85046be2ed64ccdc54c0b92eeb9e8c6f5ca1f4912d67cc52319321026771",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jb3V",
-      "date": "APRIL 4, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/poetry-in-paper-with-bob-sances-5a2KUm8gtLF",
       "date": "APRIL 4, 2026",
