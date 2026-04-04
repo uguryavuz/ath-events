@@ -12,7 +12,7 @@
 - APRIL 9 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 10 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- APRIL 11 (Sat) 11:00 AM ET -- [FREE] Slow Art Day: Athena
+- APRIL 11 (Sat) 11:00 AM ET -- [SOLD OUT] Slow Art Day: Athena
 - APRIL 11 (Sat) 1:30 PM ET -- [SOLD OUT] Slow Art Day: Polly Thayer Starr
 - APRIL 11 (Sat) 2:00 PM ET -- [FREE] Slow Art Day: "Old Pat"
 - APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day
