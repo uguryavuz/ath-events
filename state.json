@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-05T16:55:55",
+  "checked_at": "2026-04-05T17:51:03",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b41c8f87d40276a28568627acfd3141ea5b529d37a1c283381252e3ebb86d3b2",
+  "hash": "db406047712b01f927bffe4405ba7465449cce0137cface39ee67db2c0fd9e77",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zTJp",
@@ -314,6 +314,119 @@
       "keywords": [
         "Author Talk"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zZNd",
+      "date": "APRIL 30, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbQ5",
+      "date": "MAY 2, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JfGn",
+      "date": "MAY 7, 2026",
+      "time_et": "5:30 PM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbTJ",
+      "date": "MAY 9, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbeb",
+      "date": "MAY 16, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9P6hl",
+      "date": "MAY 18, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbxx",
+      "date": "MAY 23, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9Q9Ib",
+      "date": "MAY 27, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcAr",
+      "date": "MAY 30, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcIv",
+      "date": "JUNE 6, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
+      "date": "JULY 21, 2026",
+      "time_et": "9:00 AM",
+      "status": "WAITLISTED",
+      "event_title": "2026 Summer K-12 Educators Workshop",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     }
   ]
 }
