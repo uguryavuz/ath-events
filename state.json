@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-06T22:58:04",
+  "checked_at": "2026-04-06T23:52:45",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9cfd9a8a68c6ff198bf15fbd9ad098430fa70f41e8c8c1f631155c8183aaa9f3",
+  "hash": "2fca97754e6bc100f895e278e969aa9bddd44710a80b643d345cf6958678c99c",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/exhibition-opening-who-is-america-at-250-5a2KUm8vpFh",
-      "date": "APRIL 6, 2026",
-      "time_et": "5:30 PM",
-      "status": "FREE",
-      "event_title": "Exhibition Opening - Who Is America at 250?",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Exhibitions"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zOyT",
       "date": "APRIL 7, 2026",
