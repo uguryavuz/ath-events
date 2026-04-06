@@ -15,7 +15,7 @@
 - APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day
 - APRIL 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 13 (Mon) 6:00 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
-- APRIL 15 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 15 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 15 (Wed) 6:00 PM ET -- [WAITLISTED] Anita Wyzanski Robboy - A Force for Good (Author Talk)
 - APRIL 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
