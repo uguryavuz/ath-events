@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-06T15:07:58",
+  "checked_at": "2026-04-06T17:09:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a30198bbb0fc4f1454f90993a5afd6df65ba3326eedd01d93889f81ef8b2ef60",
+  "hash": "a84bee58f4a3c3abffe049603c2154e48235c743cb8dc152d50968d6db3cf805",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zTJp",
-      "date": "APRIL 6, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-opening-who-is-america-at-250-5a2KUm8vpFh",
       "date": "APRIL 6, 2026",

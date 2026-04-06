@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 6 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 6 (Mon) 5:30 PM ET -- [FREE] Exhibition Opening - Who Is America at 250? (Exhibitions)
 - APRIL 7 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - APRIL 8 (Wed) 10:30 AM ET -- Cuentos Bilingües / Bilingual Storytime (Children's/Family)
