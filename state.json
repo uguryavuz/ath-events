@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-07T21:05:28",
+  "checked_at": "2026-04-07T23:00:39",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "87b202c1f68ae85b43c5660c49eef107a5f3bead2db412ad16373de1fc362623",
+  "hash": "462583117c967e463b96f9a52a3549fbe1b38468797b05a9796d4f26086f0887",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zOyT",
-      "date": "APRIL 7, 2026",
-      "time_et": "5:30 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/cuentos-bilingues-bilingual-storytime-5a2KUm8gtLG",
       "date": "APRIL 8, 2026",
