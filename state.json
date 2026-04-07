@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-07T14:18:09",
+  "checked_at": "2026-04-07T21:05:28",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2786359face5563d7300d7725c5fdaf7367636464a188106876309171c873a04",
+  "hash": "87b202c1f68ae85b43c5660c49eef107a5f3bead2db412ad16373de1fc362623",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zOyT",
@@ -32,6 +32,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/andrew-graham-dixon-vermeer-a-life-lost-and-found-330pm-session-5a2KUm9BH6n",
+      "date": "APRIL 8, 2026",
+      "time_et": "3:30 PM",
+      "status": "",
+      "event_title": "Andrew Graham-Dixon - Vermeer: A Life Lost and Found (3:30pm Session)",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/andrew-graham-dixon-vermeer-a-life-lost-and-found-6pm-session-5a2KUm88sUr",
@@ -143,7 +154,7 @@
       "url": "https://events.bostonathenaeum.org/en/anita-wyzanski-robboy-a-force-for-good-5a2KUm8Oeqv",
       "date": "APRIL 15, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Anita Wyzanski Robboy - A Force for Good",
       "venue": "Boston Athenaeum",
       "keywords": [
