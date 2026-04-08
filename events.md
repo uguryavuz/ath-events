@@ -5,7 +5,7 @@
 - APRIL 8 (Wed) 3:30 PM ET -- Andrew Graham-Dixon - Vermeer: A Life Lost and Found (3:30pm Session) (Author Talk)
 - APRIL 8 (Wed) 6:00 PM ET -- [WAITLISTED] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (6pm Session) (Author Talk)
 - APRIL 9 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 10 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 10 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 11 (Sat) 11:00 AM ET -- [SOLD OUT] Slow Art Day: Athena
 - APRIL 11 (Sat) 1:30 PM ET -- [SOLD OUT] Slow Art Day: Polly Thayer Starr
@@ -19,7 +19,7 @@
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- APRIL 21 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- APRIL 21 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 22 (Wed) 6:00 PM ET -- [WAITLISTED] Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 24 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
