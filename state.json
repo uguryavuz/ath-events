@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-08T15:49:11",
+  "checked_at": "2026-04-08T17:37:17",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "fab02058ce2e39b0afbf0ccfa39b44290cdac0562f1063b8c51e79f7fe2476b8",
+  "hash": "de85ad7157a571b7dfcd38db6c33462626e0a24d978c97f59f2fba8528e02049",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zUZF",
-      "date": "APRIL 8, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/andrew-graham-dixon-vermeer-a-life-lost-and-found-330pm-session-5a2KUm9BH6n",
       "date": "APRIL 8, 2026",
@@ -121,7 +112,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vjij",
       "date": "APRIL 13, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -153,7 +144,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXVV",
       "date": "APRIL 16, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []

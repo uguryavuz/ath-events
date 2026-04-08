@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 8 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 8 (Wed) 3:30 PM ET -- Andrew Graham-Dixon - Vermeer: A Life Lost and Found (3:30pm Session) (Author Talk)
 - APRIL 8 (Wed) 6:00 PM ET -- [WAITLISTED] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (6pm Session) (Author Talk)
 - APRIL 9 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -11,10 +10,10 @@
 - APRIL 11 (Sat) 2:00 PM ET -- [SOLD OUT] Slow Art Day: "Old Pat" (Discovery Days)
 - APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day (Discovery Days)
 - APRIL 13 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- APRIL 13 (Mon) 6:00 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
+- APRIL 13 (Mon) 6:00 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - APRIL 15 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 15 (Wed) 6:00 PM ET -- Anita Wyzanski Robboy - A Force for Good (Author Talk)
-- APRIL 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 16 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
