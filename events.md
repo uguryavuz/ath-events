@@ -1,16 +1,15 @@
 # Boston Athenaeum events
 
-- APRIL 8 (Wed) 10:30 AM ET -- Cuentos Bilingües / Bilingual Storytime (Children's/Family)
 - APRIL 8 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 8 (Wed) 3:30 PM ET -- Andrew Graham-Dixon - Vermeer: A Life Lost and Found (3:30pm Session) (Author Talk)
 - APRIL 8 (Wed) 6:00 PM ET -- [WAITLISTED] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (6pm Session) (Author Talk)
 - APRIL 9 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 10 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- APRIL 11 (Sat) 11:00 AM ET -- [SOLD OUT] Slow Art Day: Athena
-- APRIL 11 (Sat) 1:30 PM ET -- [SOLD OUT] Slow Art Day: Polly Thayer Starr
-- APRIL 11 (Sat) 2:00 PM ET -- [SOLD OUT] Slow Art Day: "Old Pat"
-- APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day
+- APRIL 11 (Sat) 11:00 AM ET -- [SOLD OUT] Slow Art Day: Athena (Discovery Days)
+- APRIL 11 (Sat) 1:30 PM ET -- [SOLD OUT] Slow Art Day: Polly Thayer Starr (Discovery Days)
+- APRIL 11 (Sat) 2:00 PM ET -- [SOLD OUT] Slow Art Day: "Old Pat" (Discovery Days)
+- APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day (Discovery Days)
 - APRIL 13 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 13 (Mon) 6:00 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
 - APRIL 15 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour

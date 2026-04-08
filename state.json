@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-08T03:34:03",
+  "checked_at": "2026-04-08T15:49:11",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "bba66a44189b09e48f4eef523b19ff77d44e75cd0736b086489191ab0f0bea35",
+  "hash": "fab02058ce2e39b0afbf0ccfa39b44290cdac0562f1063b8c51e79f7fe2476b8",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/cuentos-bilingues-bilingual-storytime-5a2KUm8gtLG",
-      "date": "APRIL 8, 2026",
-      "time_et": "10:30 AM",
-      "status": "",
-      "event_title": "Cuentos Bilingües / Bilingual Storytime",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zUZF",
       "date": "APRIL 8, 2026",
@@ -82,7 +71,9 @@
       "status": "SOLD OUT",
       "event_title": "Slow Art Day: Athena",
       "venue": "Boston Athenaeum",
-      "keywords": []
+      "keywords": [
+        "Discovery Days"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/slow-art-day-polly-thayer-starr-5a2KUm99wvd",
@@ -91,7 +82,9 @@
       "status": "SOLD OUT",
       "event_title": "Slow Art Day: Polly Thayer Starr",
       "venue": "Boston Athenaeum",
-      "keywords": []
+      "keywords": [
+        "Discovery Days"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/slow-art-day-old-pat-5a2KUm99w9F",
@@ -100,7 +93,9 @@
       "status": "SOLD OUT",
       "event_title": "Slow Art Day: \"Old Pat\"",
       "venue": "Boston Athenaeum",
-      "keywords": []
+      "keywords": [
+        "Discovery Days"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/slow-art-day-5a2KUm9Jefh",
@@ -109,7 +104,9 @@
       "status": "",
       "event_title": "Slow Art Day",
       "venue": "Boston Athenaeum",
-      "keywords": []
+      "keywords": [
+        "Discovery Days"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zQFV",
