@@ -29,9 +29,15 @@
 - APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 29 (Wed) 6:00 PM ET -- [SOLD OUT] Megan Kate Nelson - The Westerners (Author Talk)
 - APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- MAY 1 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 4 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MAY 6 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MAY 7 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 9 (Sat) 3:00 PM ET -- Art & Architecture Tour
+- MAY 11 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 18 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
