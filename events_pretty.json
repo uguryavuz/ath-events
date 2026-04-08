@@ -1,16 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/andrew-graham-dixon-vermeer-a-life-lost-and-found-330pm-session-5a2KUm9BH6n",
-    "date": "APRIL 8, 2026",
-    "time_et": "3:30 PM",
-    "status": "",
-    "event_title": "Andrew Graham-Dixon - Vermeer: A Life Lost and Found (3:30pm Session)",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Author Talk"
-    ]
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/andrew-graham-dixon-vermeer-a-life-lost-and-found-6pm-session-5a2KUm88sUr",
     "date": "APRIL 8, 2026",
     "time_et": "6:00 PM",
@@ -128,7 +117,7 @@
     "url": "https://events.bostonathenaeum.org/en/anita-wyzanski-robboy-a-force-for-good-5a2KUm8Oeqv",
     "date": "APRIL 15, 2026",
     "time_et": "6:00 PM",
-    "status": "",
+    "status": "WAITLISTED",
     "event_title": "Anita Wyzanski Robboy - A Force for Good",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -273,7 +262,7 @@
     "url": "https://events.bostonathenaeum.org/en/megan-kate-nelson-the-westerners-5a2KUm7vkRt",
     "date": "APRIL 29, 2026",
     "time_et": "6:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Megan Kate Nelson - The Westerners",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -377,6 +366,33 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VIl3",
+    "date": "MAY 12, 2026",
+    "time_et": "5:30 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VIzZ",
+    "date": "MAY 13, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VKmr",
+    "date": "MAY 14, 2026",
+    "time_et": "5:30 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbeb",
     "date": "MAY 16, 2026",
     "time_et": "11:00 AM",
@@ -388,9 +404,36 @@
     ]
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VMDZ",
+    "date": "MAY 16, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9P6hl",
     "date": "MAY 18, 2026",
     "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VN4n",
+    "date": "MAY 19, 2026",
+    "time_et": "3:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNJJ",
+    "date": "MAY 22, 2026",
+    "time_et": "3:00 PM",
     "status": "",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
@@ -406,6 +449,15 @@
     "keywords": [
       "Member Exclusive"
     ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNrB",
+    "date": "MAY 23, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
   },
   {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9Q9Ib",

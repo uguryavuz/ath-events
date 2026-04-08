@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 8 (Wed) 3:30 PM ET -- Andrew Graham-Dixon - Vermeer: A Life Lost and Found (3:30pm Session) (Author Talk)
 - APRIL 8 (Wed) 6:00 PM ET -- [WAITLISTED] Andrew Graham-Dixon - Vermeer: A Life Lost and Found (6pm Session) (Author Talk)
 - APRIL 9 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 10 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -12,7 +11,7 @@
 - APRIL 13 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 13 (Mon) 6:00 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - APRIL 15 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 15 (Wed) 6:00 PM ET -- Anita Wyzanski Robboy - A Force for Good (Author Talk)
+- APRIL 15 (Wed) 6:00 PM ET -- [WAITLISTED] Anita Wyzanski Robboy - A Force for Good (Author Talk)
 - APRIL 16 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -27,7 +26,7 @@
 - APRIL 27 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
 - APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 29 (Wed) 6:00 PM ET -- [SOLD OUT] Megan Kate Nelson - The Westerners (Author Talk)
+- APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
 - APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - MAY 1 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -38,9 +37,16 @@
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 9 (Sat) 3:00 PM ET -- Art & Architecture Tour
 - MAY 11 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MAY 12 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- MAY 13 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MAY 14 (Thu) 5:30 PM ET -- Art & Architecture Tour
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 16 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - MAY 18 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MAY 19 (Tue) 3:00 PM ET -- Art & Architecture Tour
+- MAY 22 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 23 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - MAY 27 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
