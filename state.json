@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-08T23:02:50",
+  "checked_at": "2026-04-09T09:42:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "631be529fe4424c11ef32192b91e5998d50acd3da7c8a5d464cd0742a4d9b6d5",
+  "hash": "98d322c43fe2dba1fff1ac68c10e441272894d6a0c1770ffe89ac63d17f98e9c",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zWCr",
@@ -90,7 +90,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vjij",
       "date": "APRIL 13, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
