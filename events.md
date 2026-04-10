@@ -3,7 +3,7 @@
 - APRIL 10 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 11 (Sat) 11:00 AM ET -- [SOLD OUT] Slow Art Day: Athena (Discovery Days)
-- APRIL 11 (Sat) 1:30 PM ET -- [SOLD OUT] Slow Art Day: Polly Thayer Starr (Discovery Days)
+- APRIL 11 (Sat) 1:30 PM ET -- [FREE] Slow Art Day: Polly Thayer Starr (Discovery Days)
 - APRIL 11 (Sat) 2:00 PM ET -- [SOLD OUT] Slow Art Day: "Old Pat" (Discovery Days)
 - APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day (Discovery Days)
 - APRIL 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
