@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-10T18:03:37",
+  "checked_at": "2026-04-10T19:14:09",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c893b44ad24d15fef029e002f11c8d3cc322457d5ad3f3d725d15e98fa770f7b",
+  "hash": "f23555d4a62223d7c3199d6e10e6f3fdfbcc743554956050a27bf06dc73c93f3",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zPzN",
@@ -39,7 +39,7 @@
       "url": "https://events.bostonathenaeum.org/en/slow-art-day-polly-thayer-starr-5a2KUm99wvd",
       "date": "APRIL 11, 2026",
       "time_et": "1:30 PM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Slow Art Day: Polly Thayer Starr",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -81,7 +81,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vjij",
       "date": "APRIL 13, 2026",
       "time_et": "6:00 PM",
-      "status": "FREE",
+      "status": "WAITLISTED",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
