@@ -7,7 +7,7 @@
 - APRIL 11 (Sat) 2:00 PM ET -- [SOLD OUT] Slow Art Day: "Old Pat" (Discovery Days)
 - APRIL 11 (Sat) 9:00 AM ET -- Slow Art Day (Discovery Days)
 - APRIL 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 13 (Mon) 6:00 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
+- APRIL 13 (Mon) 6:00 PM ET -- [FREE] Member Mixer (Social, Member Exclusive)
 - APRIL 15 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 15 (Wed) 6:00 PM ET -- [WAITLISTED] Anita Wyzanski Robboy - A Force for Good (Author Talk)
 - APRIL 16 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
