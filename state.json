@@ -1,42 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-11T17:51:15",
+  "checked_at": "2026-04-11T19:06:40",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2345867494522a87b79ee8f89a5beee76cc7108a06bdabd97e1b6e9547df7ef8",
+  "hash": "5f0825794bb21c908f6f5979f976e887e261dfa9fcdad7d161b9d96da4e8a772",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/slow-art-day-polly-thayer-starr-5a2KUm99wvd",
-      "date": "APRIL 11, 2026",
-      "time_et": "1:30 PM",
-      "status": "FREE",
-      "event_title": "Slow Art Day: Polly Thayer Starr",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/slow-art-day-old-pat-5a2KUm99w9F",
-      "date": "APRIL 11, 2026",
-      "time_et": "2:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Slow Art Day: \"Old Pat\"",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/slow-art-day-5a2KUm9Jefh",
-      "date": "APRIL 11, 2026",
-      "time_et": "9:00 AM",
-      "status": "",
-      "event_title": "Slow Art Day",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zQFV",
       "date": "APRIL 13, 2026",
