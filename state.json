@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-11T03:21:35",
+  "checked_at": "2026-04-11T13:32:35",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "34801bc9cf43f93ba5b7f90329c743a7d75ea5b326cbe70c60a2cd28ace52071",
+  "hash": "4aa854419747116d617bd76f6aa38299efc71bc11fc35d5932471ec917ed7a6b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jb9x",
@@ -93,7 +93,7 @@
       "url": "https://events.bostonathenaeum.org/en/anita-wyzanski-robboy-a-force-for-good-5a2KUm8Oeqv",
       "date": "APRIL 15, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Anita Wyzanski Robboy - A Force for Good",
       "venue": "Boston Athenaeum",
       "keywords": [
