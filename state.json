@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-11T15:49:04",
+  "checked_at": "2026-04-11T16:57:05",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2fc99fb64fa2a923fbd30e632dd7cc5093a853850f93584c9d88f1600ade18aa",
+  "hash": "5117b22e7b7d14bcaa932c21aabf3e6ef03833407048d4f7dccf74ac62b420c8",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jb9x",
-      "date": "APRIL 11, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/slow-art-day-polly-thayer-starr-5a2KUm99wvd",
       "date": "APRIL 11, 2026",
