@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-11T14:56:54",
+  "checked_at": "2026-04-11T15:49:04",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a83da3a907d21f1c9bdb732c19903f423634b0f5debdc92cdf46df78f9ce155d",
+  "hash": "2fc99fb64fa2a923fbd30e632dd7cc5093a853850f93584c9d88f1600ade18aa",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jb9x",
@@ -13,17 +13,6 @@
       "venue": "Boston Athenaeum",
       "keywords": [
         "Member Exclusive"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/slow-art-day-athena-5a2KUm99xN3",
-      "date": "APRIL 11, 2026",
-      "time_et": "11:00 AM",
-      "status": "SOLD OUT",
-      "event_title": "Slow Art Day: Athena",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
       ]
     },
     {
