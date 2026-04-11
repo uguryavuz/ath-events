@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-11T16:57:05",
+  "checked_at": "2026-04-11T17:51:15",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "5117b22e7b7d14bcaa932c21aabf3e6ef03833407048d4f7dccf74ac62b420c8",
+  "hash": "2345867494522a87b79ee8f89a5beee76cc7108a06bdabd97e1b6e9547df7ef8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/slow-art-day-polly-thayer-starr-5a2KUm99wvd",
       "date": "APRIL 11, 2026",
       "time_et": "1:30 PM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Slow Art Day: Polly Thayer Starr",
       "venue": "Boston Athenaeum",
       "keywords": [
