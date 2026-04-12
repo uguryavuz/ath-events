@@ -16,7 +16,7 @@
 - APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
 - APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 27 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
+- APRIL 27 (Mon) 6:00 PM ET -- [WAITLISTED] Live Podcast Recording: Explain Boston To Me
 - APRIL 29 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
 - APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
