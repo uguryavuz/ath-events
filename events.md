@@ -8,9 +8,9 @@
 - APRIL 17 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- APRIL 21 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 21 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 22 (Wed) 6:00 PM ET -- [WAITLISTED] Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
-- APRIL 23 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 23 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 24 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
