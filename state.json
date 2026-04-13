@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-13T21:10:32",
+  "checked_at": "2026-04-13T23:05:38",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "23beaabc720c606737f51a332ea6e6975644a230ceed173b4f475d625b656270",
+  "hash": "1fdc46d6cb29300c0c72f9ac0c60c2e8f00f31afc61aa03514b7ef370b3bf8fb",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vjij",
@@ -84,6 +84,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/elaine-sciolino-adventures-at-the-louvre-5a2KUm9IZoX",
+      "date": "APRIL 21, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "Elaine Sciolino - Adventures at the Louvre",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/tom-french-the-gap-years-climbing-skiing-and-the-journey-back-5a2KUm88scv",
       "date": "APRIL 22, 2026",
       "time_et": "6:00 PM",
@@ -102,6 +113,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/poetry-reading-5a2KUm8pXJt",
+      "date": "APRIL 23, 2026",
+      "time_et": "6:00 PM",
+      "status": "FREE",
+      "event_title": "Poetry Reading",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zS2n",
@@ -211,6 +233,28 @@
       ]
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/sing-along-with-philip-alexander-5a2KUm98twb",
+      "date": "MAY 2, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Sing-Along with Philip Alexander",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/family-bead-therapy-5a2KUm98uiz",
+      "date": "MAY 2, 2026",
+      "time_et": "2:00 PM",
+      "status": "",
+      "event_title": "Family Bead Therapy",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8Ab",
       "date": "MAY 4, 2026",
       "time_et": "12:00 PM",
@@ -300,6 +344,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/family-games-5a2KUm98vAP",
+      "date": "MAY 12, 2026",
+      "time_et": "3:30 PM",
+      "status": "",
+      "event_title": "Family Games",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VIl3",
       "date": "MAY 12, 2026",
       "time_et": "5:30 PM",
@@ -318,6 +373,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/emily-franklin-love-and-other-monsters-5a2KUm7vkV7",
+      "date": "MAY 13, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Emily Franklin - Love & Other Monsters",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VKmr",
       "date": "MAY 14, 2026",
       "time_et": "5:30 PM",
@@ -325,6 +391,18 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/behind-the-red-doors-once-upon-a-time-5a2KUm9CTqf",
+      "date": "MAY 15, 2026",
+      "time_et": "8:00 PM",
+      "status": "$175.00",
+      "event_title": "Behind the Red Doors: Once upon a Time",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Social",
+        "Member Exclusive"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbeb",
@@ -373,6 +451,17 @@
       "venue": "Boston Athenaeum",
       "keywords": [
         "Author Talk"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/detecting-distant-worlds-the-astronomical-legacy-of-david-rittenhouse-5a2KUm934l3",
+      "date": "MAY 21, 2026",
+      "time_et": "6:00 PM",
+      "status": "SOLD OUT",
+      "event_title": "Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture"
       ]
     },
     {

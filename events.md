@@ -8,8 +8,10 @@
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
+- APRIL 21 (Tue) 6:00 PM ET -- [WAITLISTED] Elaine Sciolino - Adventures at the Louvre (Author Talk)
 - APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 23 (Thu) 6:00 PM ET -- [FREE] Poetry Reading (Member Exclusive)
 - APRIL 24 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
@@ -21,6 +23,8 @@
 - APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - MAY 1 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 2 (Sat) 11:00 AM ET -- Sing-Along with Philip Alexander (Children's/Family)
+- MAY 2 (Sat) 2:00 PM ET -- Family Bead Therapy (Children's/Family)
 - MAY 4 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 4 (Mon) 6:00 PM ET -- Philadelphia Clockmaker Edward Duffield and The American Revolution (Lecture)
 - MAY 6 (Wed) 12:00 PM ET -- Art & Architecture Tour
@@ -30,14 +34,18 @@
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 9 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 11 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MAY 12 (Tue) 3:30 PM ET -- Family Games (Children's/Family)
 - MAY 12 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MAY 13 (Wed) 6:00 PM ET -- Emily Franklin - Love & Other Monsters (Author Talk)
 - MAY 14 (Thu) 5:30 PM ET -- Art & Architecture Tour
+- MAY 15 (Fri) 8:00 PM ET -- [$175.00] Behind the Red Doors: Once upon a Time (Social, Member Exclusive)
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 16 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - MAY 18 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- Art & Architecture Tour
 - MAY 20 (Wed) 6:00 PM ET -- Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
+- MAY 21 (Thu) 6:00 PM ET -- [SOLD OUT] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
 - MAY 22 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 23 (Sat) 12:00 PM ET -- Art & Architecture Tour
