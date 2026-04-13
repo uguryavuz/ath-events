@@ -9,7 +9,7 @@
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- APRIL 22 (Wed) 6:00 PM ET -- [WAITLISTED] Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
+- APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 24 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -23,7 +23,9 @@
 - MAY 1 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 4 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MAY 4 (Mon) 6:00 PM ET -- Philadelphia Clockmaker Edward Duffield and The American Revolution (Lecture)
 - MAY 6 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MAY 6 (Wed) 6:00 PM ET -- [WAITLISTED] Judd Kessler - Lucky by Design (Author Talk)
 - MAY 7 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -36,6 +38,7 @@
 - MAY 16 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - MAY 18 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- Art & Architecture Tour
+- MAY 20 (Wed) 6:00 PM ET -- Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
 - MAY 22 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 23 (Sat) 12:00 PM ET -- Art & Architecture Tour

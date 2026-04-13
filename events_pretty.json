@@ -91,7 +91,7 @@
     "url": "https://events.bostonathenaeum.org/en/tom-french-the-gap-years-climbing-skiing-and-the-journey-back-5a2KUm88scv",
     "date": "APRIL 22, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Tom French - The Gap Years: Climbing, Skiing, and the Journey Back",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -224,6 +224,17 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/philadelphia-clockmaker-edward-duffield-and-the-american-revolution-5a2KUm85Im5",
+    "date": "MAY 4, 2026",
+    "time_et": "6:00 PM",
+    "status": "",
+    "event_title": "Philadelphia Clockmaker Edward Duffield and The American Revolution",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Lecture"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8yb",
     "date": "MAY 6, 2026",
     "time_et": "12:00 PM",
@@ -231,6 +242,17 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/judd-kessler-lucky-by-design-5a2KUm8IrCX",
+    "date": "MAY 6, 2026",
+    "time_et": "6:00 PM",
+    "status": "WAITLISTED",
+    "event_title": "Judd Kessler - Lucky by Design",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8XC",
@@ -345,6 +367,17 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/christine-roussel-lunch-on-a-beam-the-making-of-an-american-photograph-5a2KUm8KhXF",
+    "date": "MAY 20, 2026",
+    "time_et": "6:00 PM",
+    "status": "",
+    "event_title": "Christine Roussel - Lunch on a Beam: The Making of an American Photograph",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNJJ",
