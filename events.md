@@ -1,11 +1,11 @@
 # Boston Athenaeum events
 
-- APRIL 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 13 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 13 (Mon) 6:00 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
 - APRIL 15 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 15 (Wed) 6:00 PM ET -- Anita Wyzanski Robboy - A Force for Good (Author Talk)
 - APRIL 16 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 17 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- APRIL 17 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
