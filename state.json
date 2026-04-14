@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-13T23:05:38",
+  "checked_at": "2026-04-14T00:02:15",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1fdc46d6cb29300c0c72f9ac0c60c2e8f00f31afc61aa03514b7ef370b3bf8fb",
+  "hash": "f0c7d3bbe03c9c21d8fcaba7918fca0faa76825670603caf64f1045696c6e819",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vjij",
-      "date": "APRIL 13, 2026",
-      "time_et": "6:00 PM",
-      "status": "FREE",
-      "event_title": "Member Mixer",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Social",
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zWmL",
       "date": "APRIL 15, 2026",
