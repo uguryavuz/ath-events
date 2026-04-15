@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-15T15:39:35",
+  "checked_at": "2026-04-15T17:33:53",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6ebd17a06a15cf8f9370ff0857f424be243d9bd8fcc5c64c31c34580ed2d60c3",
+  "hash": "9d6d22d2c14d610cda6c48fc6dec55e2a48415f425b61c5671f7de19d96eef1d",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zWmL",
-      "date": "APRIL 15, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/anita-wyzanski-robboy-a-force-for-good-5a2KUm8Oeqv",
       "date": "APRIL 15, 2026",
