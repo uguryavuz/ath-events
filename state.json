@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-16T03:49:06",
+  "checked_at": "2026-04-16T14:16:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "8c13e4ec1e116056af83041573aa2131f87634ac699ae048590eb331b5ca1079",
+  "hash": "8e056d01f4abc968c1bd9d0dfe5d2045bc65c215445c1e58712075d93337566e",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXVV",
@@ -312,14 +312,14 @@
       "keywords": []
     },
     {
-      "url": "https://events.bostonathenaeum.org/en/family-games-5a2KUm98vAP",
-      "date": "MAY 12, 2026",
-      "time_et": "3:30 PM",
-      "status": "",
-      "event_title": "Family Games",
+      "url": "https://events.bostonathenaeum.org/en/bouquets-and-bubbles-a-flower-arranging-workshop-5a2KUm932eP",
+      "date": "MAY 11, 2026",
+      "time_et": "6:00 PM",
+      "status": "$85.00",
+      "event_title": "Bouquets & Bubbles: A Flower Arranging Workshop",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Children's/Family"
+        "Member Exclusive"
       ]
     },
     {
