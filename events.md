@@ -34,7 +34,7 @@
 - MAY 12 (Tue) 3:30 PM ET -- Family Games (Children's/Family)
 - MAY 12 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- MAY 13 (Wed) 6:00 PM ET -- Emily Franklin - Love & Other Monsters (Author Talk)
+- MAY 13 (Wed) 6:00 PM ET -- [WAITLISTED] Emily Franklin - Love & Other Monsters (Author Talk)
 - MAY 14 (Thu) 5:30 PM ET -- Art & Architecture Tour
 - MAY 15 (Fri) 8:00 PM ET -- [$175.00] Behind the Red Doors: Once upon a Time (Social, Member Exclusive)
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)

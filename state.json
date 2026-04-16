@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-15T23:04:15",
+  "checked_at": "2026-04-16T03:49:06",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9cc65415c0d90475404815e27b976cea4bd46c15f0e2484c6f4f7cc38954a56a",
+  "hash": "8c13e4ec1e116056af83041573aa2131f87634ac699ae048590eb331b5ca1079",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXVV",
@@ -344,7 +344,7 @@
       "url": "https://events.bostonathenaeum.org/en/emily-franklin-love-and-other-monsters-5a2KUm7vkV7",
       "date": "MAY 13, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Emily Franklin - Love & Other Monsters",
       "venue": "Boston Athenaeum",
       "keywords": [
