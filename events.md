@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 18 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 21 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 21 (Tue) 6:00 PM ET -- Elaine Sciolino - Adventures at the Louvre (Author Talk)
