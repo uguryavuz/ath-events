@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-18T05:52:19",
+  "checked_at": "2026-04-18T07:36:30",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c31f280ae60977b37bafb1d540d2b0618ec085cd90616872a524c2281e25a42f",
+  "hash": "0cb67e287199cf572ddf299785a398049895a4ba4ea2ab40c8155f4239e89c1b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JWdK",
@@ -387,7 +387,7 @@
       "url": "https://events.bostonathenaeum.org/en/christine-roussel-lunch-on-a-beam-the-making-of-an-american-photograph-5a2KUm8KhXF",
       "date": "MAY 20, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Christine Roussel - Lunch on a Beam: The Making of an American Photograph",
       "venue": "Boston Athenaeum",
       "keywords": [
