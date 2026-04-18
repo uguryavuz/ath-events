@@ -5,7 +5,7 @@
 - APRIL 21 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 21 (Tue) 6:00 PM ET -- [WAITLISTED] Elaine Sciolino - Adventures at the Louvre (Author Talk)
 - APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
-- APRIL 23 (Thu) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- APRIL 23 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 23 (Thu) 6:00 PM ET -- [FREE] Poetry Reading (Member Exclusive)
 - APRIL 24 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -32,3 +32,18 @@
 - MAY 11 (Mon) 6:00 PM ET -- [$85.00] Bouquets & Bubbles: A Flower Arranging Workshop (Member Exclusive)
 - MAY 12 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MAY 13 (Wed) 6:00 PM ET -- [WAITLISTED] Emily Franklin - Love & Other Monsters (Author Talk)
+- MAY 15 (Fri) 8:00 PM ET -- [$175.00] Behind the Red Doors: Once upon a Time (Social, Member Exclusive)
+- MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 16 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MAY 18 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- MAY 19 (Tue) 3:00 PM ET -- Art & Architecture Tour
+- MAY 20 (Wed) 6:00 PM ET -- Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
+- MAY 21 (Thu) 6:00 PM ET -- [SOLD OUT] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
+- MAY 22 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- MAY 23 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MAY 27 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop

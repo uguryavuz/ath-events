@@ -54,7 +54,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXs5",
     "date": "APRIL 23, 2026",
     "time_et": "12:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -314,6 +314,158 @@
     "time_et": "12:00 PM",
     "status": "",
     "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/emily-franklin-love-and-other-monsters-5a2KUm7vkV7",
+    "date": "MAY 13, 2026",
+    "time_et": "6:00 PM",
+    "status": "WAITLISTED",
+    "event_title": "Emily Franklin - Love & Other Monsters",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/behind-the-red-doors-once-upon-a-time-5a2KUm9CTqf",
+    "date": "MAY 15, 2026",
+    "time_et": "8:00 PM",
+    "status": "$175.00",
+    "event_title": "Behind the Red Doors: Once upon a Time",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Social",
+      "Member Exclusive"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbeb",
+    "date": "MAY 16, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VMDZ",
+    "date": "MAY 16, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9P6hl",
+    "date": "MAY 18, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VN4n",
+    "date": "MAY 19, 2026",
+    "time_et": "3:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/christine-roussel-lunch-on-a-beam-the-making-of-an-american-photograph-5a2KUm8KhXF",
+    "date": "MAY 20, 2026",
+    "time_et": "6:00 PM",
+    "status": "",
+    "event_title": "Christine Roussel - Lunch on a Beam: The Making of an American Photograph",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/detecting-distant-worlds-the-astronomical-legacy-of-david-rittenhouse-5a2KUm934l3",
+    "date": "MAY 21, 2026",
+    "time_et": "6:00 PM",
+    "status": "SOLD OUT",
+    "event_title": "Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Lecture"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNJJ",
+    "date": "MAY 22, 2026",
+    "time_et": "3:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbxx",
+    "date": "MAY 23, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNrB",
+    "date": "MAY 23, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9Q9Ib",
+    "date": "MAY 27, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcAr",
+    "date": "MAY 30, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcIv",
+    "date": "JUNE 6, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
+    "date": "JULY 21, 2026",
+    "time_et": "9:00 AM",
+    "status": "WAITLISTED",
+    "event_title": "2026 Summer K-12 Educators Workshop",
     "venue": "Boston Athenaeum",
     "keywords": []
   }
