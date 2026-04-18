@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-18T07:36:30",
+  "checked_at": "2026-04-18T11:51:17",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "0cb67e287199cf572ddf299785a398049895a4ba4ea2ab40c8155f4239e89c1b",
+  "hash": "aefbdc85ccbd4dcaae3db358c128bb87bcfe473599b8d08b9c916155785b279f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JWdK",
@@ -37,7 +37,7 @@
       "url": "https://events.bostonathenaeum.org/en/elaine-sciolino-adventures-at-the-louvre-5a2KUm9IZoX",
       "date": "APRIL 21, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Elaine Sciolino - Adventures at the Louvre",
       "venue": "Boston Athenaeum",
       "keywords": [
