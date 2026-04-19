@@ -2,7 +2,7 @@
 
 - APRIL 21 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 21 (Tue) 6:00 PM ET -- [WAITLISTED] Elaine Sciolino - Adventures at the Louvre (Author Talk)
-- APRIL 22 (Wed) 6:00 PM ET -- [WAITLISTED] Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
+- APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 23 (Thu) 6:00 PM ET -- [FREE] Poetry Reading (Member Exclusive)
 - APRIL 24 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
