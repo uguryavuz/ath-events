@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-20T19:35:49",
+  "checked_at": "2026-04-20T21:03:30",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e99809aa595b75c1ce2accc2006254e3b1279959615a9c56d0fee5fb5847f438",
+  "hash": "a6ee0b4e3f286625d4e00e195d4ceba988e7d5446ca7874d47a7230227bb5ec2",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zP4v",
@@ -17,7 +17,7 @@
       "url": "https://events.bostonathenaeum.org/en/elaine-sciolino-adventures-at-the-louvre-5a2KUm9IZoX",
       "date": "APRIL 21, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Elaine Sciolino - Adventures at the Louvre",
       "venue": "Boston Athenaeum",
       "keywords": [
