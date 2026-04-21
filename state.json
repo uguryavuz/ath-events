@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-20T22:05:10",
+  "checked_at": "2026-04-21T14:10:52",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e99809aa595b75c1ce2accc2006254e3b1279959615a9c56d0fee5fb5847f438",
+  "hash": "726a841c4ceed14c4f120b027c60d53071971cfd7a464a6f2e17a863a7871f44",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zP4v",
@@ -48,7 +48,7 @@
       "url": "https://events.bostonathenaeum.org/en/poetry-reading-5a2KUm8pXJt",
       "date": "APRIL 23, 2026",
       "time_et": "6:00 PM",
-      "status": "FREE",
+      "status": "WAITLISTED",
       "event_title": "Poetry Reading",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -306,7 +306,7 @@
       "url": "https://events.bostonathenaeum.org/en/emily-franklin-love-and-other-monsters-5a2KUm7vkV7",
       "date": "MAY 13, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Emily Franklin - Love & Other Monsters",
       "venue": "Boston Athenaeum",
       "keywords": [
