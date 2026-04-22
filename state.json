@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-21T23:01:13",
+  "checked_at": "2026-04-22T03:46:41",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b81645b7dadb13a6d43829c44af30accc738e705fb365d3aa434459de0191ee3",
+  "hash": "b936f1c6a4cde5e2b57ee0b85646e69c30f24ce10fef124ca86dada890d25002",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/tom-french-the-gap-years-climbing-skiing-and-the-journey-back-5a2KUm88scv",
@@ -177,7 +177,7 @@
       "url": "https://events.bostonathenaeum.org/en/philadelphia-clockmaker-edward-duffield-and-the-american-revolution-5a2KUm85Im5",
       "date": "MAY 4, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Philadelphia Clockmaker Edward Duffield and The American Revolution",
       "venue": "Boston Athenaeum",
       "keywords": [
