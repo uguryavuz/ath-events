@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-22T03:46:41",
+  "checked_at": "2026-04-22T15:42:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b936f1c6a4cde5e2b57ee0b85646e69c30f24ce10fef124ca86dada890d25002",
+  "hash": "885067ac0556e4b90aa62bcbd6b0888d12c12c88940770d85154410ae39b5043",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/tom-french-the-gap-years-climbing-skiing-and-the-journey-back-5a2KUm88scv",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXs5",
       "date": "APRIL 23, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
