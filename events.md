@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 22 (Wed) 6:00 PM ET -- Tom French - The Gap Years: Climbing, Skiing, and the Journey Back (Author Talk)
 - APRIL 23 (Thu) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 23 (Thu) 6:00 PM ET -- [WAITLISTED] Poetry Reading (Member Exclusive)
 - APRIL 24 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour

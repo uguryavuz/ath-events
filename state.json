@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-22T15:42:54",
+  "checked_at": "2026-04-22T23:08:34",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "885067ac0556e4b90aa62bcbd6b0888d12c12c88940770d85154410ae39b5043",
+  "hash": "e5593b48893baf74a05a35565b19312736badc34c702d1fd074ca539573bad98",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/tom-french-the-gap-years-climbing-skiing-and-the-journey-back-5a2KUm88scv",
-      "date": "APRIL 22, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Tom French - The Gap Years: Climbing, Skiing, and the Journey Back",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXs5",
       "date": "APRIL 23, 2026",
