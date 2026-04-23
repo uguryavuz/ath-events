@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zXs5",
-    "date": "APRIL 23, 2026",
-    "time_et": "12:00 PM",
-    "status": "WAITLISTED",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/poetry-reading-5a2KUm8pXJt",
     "date": "APRIL 23, 2026",
     "time_et": "6:00 PM",
@@ -23,7 +14,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zS2n",
     "date": "APRIL 24, 2026",
     "time_et": "3:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -54,7 +45,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zSyr",
     "date": "APRIL 25, 2026",
     "time_et": "3:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -81,7 +72,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zZAj",
     "date": "APRIL 29, 2026",
     "time_et": "12:00 PM",
-    "status": "",
+    "status": "WAITLISTED",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -207,6 +198,15 @@
     "keywords": [
       "Member Exclusive"
     ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUm9ixnB",
+    "date": "MAY 7, 2026",
+    "time_et": "9:00 AM",
+    "status": "",
+    "event_title": "Discovery Days at the Boston Athenaeum",
+    "venue": "Boston Athenaeum",
+    "keywords": []
   },
   {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbTJ",
@@ -379,9 +379,9 @@
     "keywords": []
   },
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9Q9Ib",
-    "date": "MAY 27, 2026",
-    "time_et": "12:00 PM",
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9j7pl",
+    "date": "MAY 26, 2026",
+    "time_et": "5:30 PM",
     "status": "",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
