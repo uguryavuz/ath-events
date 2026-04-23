@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- APRIL 23 (Thu) 6:00 PM ET -- [WAITLISTED] Poetry Reading (Member Exclusive)
+- APRIL 23 (Thu) 6:00 PM ET -- [FREE] Poetry Reading (Member Exclusive)
 - APRIL 24 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
@@ -20,7 +20,7 @@
 - MAY 6 (Wed) 6:00 PM ET -- [WAITLISTED] Judd Kessler - Lucky by Design (Author Talk)
 - MAY 7 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- MAY 7 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum
+- MAY 7 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 9 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 11 (Mon) 12:00 PM ET -- Art & Architecture Tour

@@ -3,7 +3,7 @@
     "url": "https://events.bostonathenaeum.org/en/poetry-reading-5a2KUm8pXJt",
     "date": "APRIL 23, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "FREE",
     "event_title": "Poetry Reading",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -206,7 +206,9 @@
     "status": "",
     "event_title": "Discovery Days at the Boston Athenaeum",
     "venue": "Boston Athenaeum",
-    "keywords": []
+    "keywords": [
+      "Discovery Days"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbTJ",
