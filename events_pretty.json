@@ -1,20 +1,9 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/poetry-reading-5a2KUm8pXJt",
-    "date": "APRIL 23, 2026",
-    "time_et": "6:00 PM",
-    "status": "FREE",
-    "event_title": "Poetry Reading",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Member Exclusive"
-    ]
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zS2n",
     "date": "APRIL 24, 2026",
     "time_et": "3:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []

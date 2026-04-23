@@ -1,25 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-23T19:43:53",
+  "checked_at": "2026-04-23T23:09:14",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ac75cd04f33ab741d476e63352c4732794b541e8bf8c7eb94575a6e5d22feeef",
+  "hash": "411d892ce45bdbe1cbe1f70e0886ae5a166409721fa7b969c6f0748abc6f392f",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/poetry-reading-5a2KUm8pXJt",
-      "date": "APRIL 23, 2026",
-      "time_et": "6:00 PM",
-      "status": "FREE",
-      "event_title": "Poetry Reading",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zS2n",
       "date": "APRIL 24, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
