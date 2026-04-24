@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-24T18:03:20",
+  "checked_at": "2026-04-24T20:04:22",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "17942265f10691da5d29aa2f67deb25f58d67b7ea6bfc5cee9b1970a7a104c21",
+  "hash": "b0ef6fc7a47069128672f7763b526df0e66f1ee14004db527e3df1ad43422f03",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zS2n",
-      "date": "APRIL 24, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbMr",
       "date": "APRIL 25, 2026",

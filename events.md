@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 24 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - APRIL 25 (Sat) 11:00 AM ET -- Trees, Please! Story Time (Children's/Family)
 - APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
