@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-25T15:03:21",
+  "checked_at": "2026-04-25T15:58:21",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6b83d668e780f214a4409255b6ac97cfbe46e7827b019ed8beb83ad03dd5d142",
+  "hash": "363b6fb98857113a9aa4132fe5f1b1b9483e82cedd50ffdb8331325a9ea5a116",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbMr",
@@ -13,17 +13,6 @@
       "venue": "Boston Athenaeum",
       "keywords": [
         "Member Exclusive"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/trees-please-story-time-5a2KUm8gx3t",
-      "date": "APRIL 25, 2026",
-      "time_et": "11:00 AM",
-      "status": "WAITLISTED",
-      "event_title": "Trees, Please! Story Time",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
       ]
     },
     {
