@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-24T23:00:59",
+  "checked_at": "2026-04-25T15:03:21",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7171390e72b9a925b2f77251876a2a280a7507a5c4d48257493d7ce7f64548e6",
+  "hash": "6b83d668e780f214a4409255b6ac97cfbe46e7827b019ed8beb83ad03dd5d142",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbMr",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/trees-please-story-time-5a2KUm8gx3t",
       "date": "APRIL 25, 2026",
       "time_et": "11:00 AM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Trees, Please! Story Time",
       "venue": "Boston Athenaeum",
       "keywords": [
