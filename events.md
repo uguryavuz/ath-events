@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 25 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - APRIL 27 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
 - APRIL 29 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
