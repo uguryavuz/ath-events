@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-26T19:59:15",
+  "checked_at": "2026-04-26T20:59:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "05f4be546b9f27e63acfc9b00683edfe58b60b88ebee057417fe0e747c77f766",
+  "hash": "43090c08b3c2597fd96f55e73929f7192198d2a1888ddf9113f7f6b812d617d3",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zYZd",
       "date": "APRIL 27, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
