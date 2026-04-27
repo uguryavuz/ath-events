@@ -3,7 +3,7 @@
 - APRIL 27 (Mon) 6:00 PM ET -- Live Podcast Recording: Explain Boston To Me
 - APRIL 29 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
-- APRIL 30 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- APRIL 30 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 1 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 2 (Sat) 11:00 AM ET -- Sing-Along with Philip Alexander (Children's/Family)
