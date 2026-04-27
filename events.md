@@ -11,7 +11,7 @@
 - MAY 2 (Sat) 2:00 PM ET -- Family Bead Therapy (Children's/Family)
 - MAY 4 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 4 (Mon) 6:00 PM ET -- [WAITLISTED] Philadelphia Clockmaker Edward Duffield and The American Revolution (Lecture)
-- MAY 5 (Tue) 12:00 PM ET -- Art & Architecture Tour
+- MAY 5 (Tue) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 6 (Wed) 6:00 PM ET -- [WAITLISTED] Judd Kessler - Lucky by Design (Author Talk)
 - MAY 7 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
