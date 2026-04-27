@@ -36,4 +36,4 @@
 - MAY 26 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JULY 21 (Tue) 9:00 AM ET -- [$50.00] 2026 Summer K-12 Educators Workshop
+- JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
