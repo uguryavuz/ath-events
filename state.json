@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-27T23:13:09",
+  "checked_at": "2026-04-28T00:09:15",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9bacc5bdcd9e6bcf2230064c195264a44b5367336f279e5460aee03b0a057c89",
+  "hash": "4f16637f05227af242e7ac79d78f0c7cad1a84f184b862046c5896b9543b05ce",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm8zZAj",
@@ -17,7 +17,7 @@
       "url": "https://events.bostonathenaeum.org/en/megan-kate-nelson-the-westerners-5a2KUm7vkRt",
       "date": "APRIL 29, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Megan Kate Nelson - The Westerners",
       "venue": "Boston Athenaeum",
       "keywords": [

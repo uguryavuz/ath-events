@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
 - APRIL 29 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- APRIL 29 (Wed) 6:00 PM ET -- [WAITLISTED] Megan Kate Nelson - The Westerners (Author Talk)
+- APRIL 29 (Wed) 6:00 PM ET -- Megan Kate Nelson - The Westerners (Author Talk)
 - APRIL 30 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 1 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
