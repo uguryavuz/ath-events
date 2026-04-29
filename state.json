@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-29T20:36:22",
+  "checked_at": "2026-04-29T22:12:35",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a10d002e9752a944f9d67ba6820f3cb59e709bd6fc5b9b67341a8ba54d77953f",
+  "hash": "9f7ba2fdaed1e2c79c5bf6e44bb6950fe2e6bbb836f1b8f2ccfb7bb762ff94c8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/megan-kate-nelson-the-westerners-5a2KUm7vkRt",
@@ -79,7 +79,7 @@
       "url": "https://events.bostonathenaeum.org/en/philadelphia-clockmaker-edward-duffield-and-the-american-revolution-5a2KUm85Im5",
       "date": "MAY 4, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Philadelphia Clockmaker Edward Duffield and The American Revolution",
       "venue": "Boston Athenaeum",
       "keywords": [
