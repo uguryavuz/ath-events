@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-04-29T18:51:09",
+  "checked_at": "2026-04-29T20:36:22",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "5493116be8163be6bed0eb11e28518833fe723e867dd13e4001f9dad4107d238",
+  "hash": "a10d002e9752a944f9d67ba6820f3cb59e709bd6fc5b9b67341a8ba54d77953f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/megan-kate-nelson-the-westerners-5a2KUm7vkRt",
@@ -28,7 +28,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V7cj",
       "date": "MAY 1, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
