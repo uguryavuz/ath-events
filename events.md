@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 29 (Wed) 6:00 PM ET -- Megan Kate Nelson - The Westerners (Author Talk)
 - APRIL 30 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 1 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -16,7 +15,7 @@
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 9 (Sat) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 11 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- MAY 11 (Mon) 6:00 PM ET -- [$85.00] Bouquets & Bubbles: A Flower Arranging Workshop (Member Exclusive)
+- MAY 11 (Mon) 6:00 PM ET -- [WAITLISTED] Bouquets & Bubbles: A Flower Arranging Workshop (Member Exclusive)
 - MAY 12 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 13 (Wed) 6:00 PM ET -- [WAITLISTED] Emily Franklin - Love & Other Monsters (Author Talk)
