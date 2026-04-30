@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- APRIL 30 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 1 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 2 (Sat) 11:00 AM ET -- Sing-Along with Philip Alexander (Children's/Family)
