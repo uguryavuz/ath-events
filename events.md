@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 1 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 2 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 2 (Sat) 11:00 AM ET -- Sing-Along with Philip Alexander (Children's/Family)
 - MAY 2 (Sat) 2:00 PM ET -- Family Bead Therapy (Children's/Family)
