@@ -1,31 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-02T03:54:14",
+  "checked_at": "2026-05-02T16:03:01",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "4e29f3cbfbaf1d9bd7b0e0989bce343176f2b0afceac2cdd9f8d21fb47421d82",
+  "hash": "bc61082d16266390f46b148c647fd48e10b6da27cf19e1b2f7b623fee2b9c2e3",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbQ5",
-      "date": "MAY 2, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/sing-along-with-philip-alexander-5a2KUm98twb",
-      "date": "MAY 2, 2026",
-      "time_et": "11:00 AM",
-      "status": "WAITLISTED",
-      "event_title": "Sing-Along with Philip Alexander",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/family-bead-therapy-5a2KUm98uiz",
       "date": "MAY 2, 2026",
