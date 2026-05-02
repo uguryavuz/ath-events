@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-01T22:08:25",
+  "checked_at": "2026-05-02T03:54:14",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "8f4e447e1c7664d8627077ec39dd52c7933e8963aa4f21e49c1d15130b2ba2c1",
+  "hash": "4e29f3cbfbaf1d9bd7b0e0989bce343176f2b0afceac2cdd9f8d21fb47421d82",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbQ5",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/sing-along-with-philip-alexander-5a2KUm98twb",
       "date": "MAY 2, 2026",
       "time_et": "11:00 AM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Sing-Along with Philip Alexander",
       "venue": "Boston Athenaeum",
       "keywords": [
