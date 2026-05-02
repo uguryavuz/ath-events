@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-02T16:03:01",
+  "checked_at": "2026-05-02T18:04:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "bc61082d16266390f46b148c647fd48e10b6da27cf19e1b2f7b623fee2b9c2e3",
+  "hash": "e23d27c89317f23c9d1f7eb81658df0c0620352e256f743153d87b7f230b6fc8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/family-bead-therapy-5a2KUm98uiz",
@@ -231,7 +231,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNJJ",
       "date": "MAY 22, 2026",
       "time_et": "3:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
