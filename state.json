@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-02T18:04:16",
+  "checked_at": "2026-05-02T19:29:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e23d27c89317f23c9d1f7eb81658df0c0620352e256f743153d87b7f230b6fc8",
+  "hash": "1c9ae41ac6a847f81d3fa12aa0fd7376b184f61725682a6fef84ed1fc5b19579",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/family-bead-therapy-5a2KUm98uiz",
-      "date": "MAY 2, 2026",
-      "time_et": "2:00 PM",
-      "status": "",
-      "event_title": "Family Bead Therapy",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8Ab",
       "date": "MAY 4, 2026",

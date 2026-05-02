@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 2 (Sat) 2:00 PM ET -- Family Bead Therapy (Children's/Family)
 - MAY 4 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 4 (Mon) 6:00 PM ET -- Philadelphia Clockmaker Edward Duffield and The American Revolution (Lecture)
 - MAY 5 (Tue) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
