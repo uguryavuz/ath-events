@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-04T21:32:47",
+  "checked_at": "2026-05-04T23:12:56",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "82b26f4d9e8748854530d5ab86263d01d4199651ad1eef2381643c502997522f",
+  "hash": "e3a9e3366b73d7816f6844d33de5671d201be7b605322fc5da964f92b17c0720",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/philadelphia-clockmaker-edward-duffield-and-the-american-revolution-5a2KUm85Im5",
-      "date": "MAY 4, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Philadelphia Clockmaker Edward Duffield and The American Revolution",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8aP",
       "date": "MAY 5, 2026",
