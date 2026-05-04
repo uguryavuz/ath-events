@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-03T08:58:34",
+  "checked_at": "2026-05-04T12:58:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ee2240b5edf638ac36de3a43eaf7c59c0876a3748ed010a7664f55a68f383568",
+  "hash": "4072dd32634c295f9ee969e8c97848b348c1594b5d3b0b14c23ade9a0762a1f7",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8Ab",
@@ -48,7 +48,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8XC",
       "date": "MAY 7, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
