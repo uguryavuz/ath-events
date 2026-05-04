@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
 - MAY 4 (Mon) 6:00 PM ET -- Philadelphia Clockmaker Edward Duffield and The American Revolution (Lecture)
-- MAY 5 (Tue) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MAY 5 (Tue) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 6 (Wed) 6:00 PM ET -- [WAITLISTED] Judd Kessler - Lucky by Design (Author Talk)
 - MAY 7 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -13,7 +13,7 @@
 - MAY 12 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 13 (Wed) 6:00 PM ET -- [WAITLISTED] Emily Franklin - Love & Other Monsters (Author Talk)
-- MAY 15 (Fri) 8:00 PM ET -- [$175.00] Behind the Red Doors: Once upon a Time (Social, Member Exclusive)
+- MAY 15 (Fri) 8:00 PM ET -- [$175.00] Behind the Red Doors: Once upon a Time (Social)
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 16 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 18 (Mon) 12:00 PM ET -- Art & Architecture Tour

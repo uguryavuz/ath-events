@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-04T17:54:11",
+  "checked_at": "2026-05-04T21:32:47",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "83adc9a7e5f54aef820602c486539284aedc98a9a7f641e70b204623dd15e1b8",
+  "hash": "82b26f4d9e8748854530d5ab86263d01d4199651ad1eef2381643c502997522f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/philadelphia-clockmaker-edward-duffield-and-the-american-revolution-5a2KUm85Im5",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8aP",
       "date": "MAY 5, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -143,8 +143,7 @@
       "event_title": "Behind the Red Doors: Once upon a Time",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Social",
-        "Member Exclusive"
+        "Social"
       ]
     },
     {
