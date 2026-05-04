@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-04T12:58:16",
+  "checked_at": "2026-05-04T17:54:11",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "4072dd32634c295f9ee969e8c97848b348c1594b5d3b0b14c23ade9a0762a1f7",
+  "hash": "83adc9a7e5f54aef820602c486539284aedc98a9a7f641e70b204623dd15e1b8",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8Ab",
-      "date": "MAY 4, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/philadelphia-clockmaker-edward-duffield-and-the-american-revolution-5a2KUm85Im5",
       "date": "MAY 4, 2026",
