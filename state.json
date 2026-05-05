@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-05T16:58:03",
+  "checked_at": "2026-05-05T18:48:57",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "96a936adc70976ed1cd5a6435c26ae4330c8c69b69a4859adc662128babbf273",
+  "hash": "44c0e793a37d3fbdaf4ff4e46db34b8813f0a6a018230a9d18787d1072c791b1",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8aP",
-      "date": "MAY 5, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/judd-kessler-lucky-by-design-5a2KUm8IrCX",
       "date": "MAY 6, 2026",
