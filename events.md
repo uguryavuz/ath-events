@@ -20,7 +20,7 @@
 - MAY 21 (Thu) 6:00 PM ET -- [WAITLISTED] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
 - MAY 22 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- MAY 23 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- MAY 23 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 26 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 27 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
