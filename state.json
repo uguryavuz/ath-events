@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-05T18:48:57",
+  "checked_at": "2026-05-05T20:19:08",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "44c0e793a37d3fbdaf4ff4e46db34b8813f0a6a018230a9d18787d1072c791b1",
+  "hash": "485ebee6dc467056142161387eb0c8c3e9bab6bb97abe30c126b695eedb845f2",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/judd-kessler-lucky-by-design-5a2KUm8IrCX",
@@ -70,7 +70,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VI3V",
       "date": "MAY 11, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -243,6 +243,15 @@
       "keywords": [
         "Member Exclusive"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9uAsL",
+      "date": "JUNE 3, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcIv",
