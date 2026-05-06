@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 6 (Wed) 6:00 PM ET -- [WAITLISTED] Judd Kessler - Lucky by Design (Author Talk)
 - MAY 7 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 7 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

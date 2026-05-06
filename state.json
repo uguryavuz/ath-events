@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-06T22:10:31",
+  "checked_at": "2026-05-06T23:09:10",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "481e73cb66e4aab01ba0f32fe25c44ce4b78babfc21f332102463e4c6f76701d",
+  "hash": "dda6f4b90ae145779f1cf9dd8bd30d78f4e168218c61ab44d1d67ee5ed26c215",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/judd-kessler-lucky-by-design-5a2KUm8IrCX",
-      "date": "MAY 6, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Judd Kessler - Lucky by Design",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9V8XC",
       "date": "MAY 7, 2026",
