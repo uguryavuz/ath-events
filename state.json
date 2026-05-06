@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-06T16:56:03",
+  "checked_at": "2026-05-06T19:02:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1ee103c88a65164d04c59538ed9a9fc560fbbd4e46bd27e6a682872ec8dee98f",
+  "hash": "71aca23f36536601acbfd8e022b23d0ed2459f01e33262bdc1b071b6b49cf7e1",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/judd-kessler-lucky-by-design-5a2KUm8IrCX",
@@ -254,6 +254,15 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vL8z",
+      "date": "JUNE 5, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcIv",
       "date": "JUNE 6, 2026",
       "time_et": "11:00 AM",
@@ -263,6 +272,42 @@
       "keywords": [
         "Member Exclusive"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLTx",
+      "date": "JUNE 8, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLiT",
+      "date": "JUNE 11, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLov",
+      "date": "JUNE 18, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vM8H",
+      "date": "JUNE 24, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     },
     {
       "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",

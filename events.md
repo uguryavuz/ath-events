@@ -25,5 +25,10 @@
 - MAY 27 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 3 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 5 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JUNE 8 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 11 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- JUNE 18 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- JUNE 24 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
