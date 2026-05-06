@@ -22,7 +22,7 @@
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 23 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 26 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- MAY 27 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- MAY 27 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 3 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
