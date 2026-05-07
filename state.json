@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-07T21:16:35",
+  "checked_at": "2026-05-07T22:31:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "94598a967b5fcf66df7f3071d1530d22649b0da4c4be6c25ffc9e970a6e2f85e",
+  "hash": "ba49383e266ebc374c857b648a6b18ac123efd0ee9ecea12b406495401684e9a",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JfGn",
-      "date": "MAY 7, 2026",
-      "time_et": "5:30 PM",
-      "status": "SOLD OUT",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUm9ixnB",
       "date": "MAY 7, 2026",
