@@ -14,7 +14,7 @@
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 16 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 18 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- MAY 19 (Tue) 3:00 PM ET -- Art & Architecture Tour
+- MAY 19 (Tue) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 20 (Wed) 6:00 PM ET -- [WAITLISTED] Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
 - MAY 21 (Thu) 6:00 PM ET -- [WAITLISTED] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
 - MAY 22 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
