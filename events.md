@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MAY 7 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MAY 7 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - MAY 7 (Thu) 5:30 PM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 7 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - MAY 9 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
