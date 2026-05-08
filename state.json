@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-08T20:17:16",
+  "checked_at": "2026-05-08T21:31:04",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3c46a6c29b0dbdb32defbf22f7938a43f47867d040092ce6f03ae26419d81558",
+  "hash": "7dbb5da17015e432212064b4450a32d66ab10a0e29b8302ab1145372509b2b71",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbTJ",
@@ -137,7 +137,7 @@
       "url": "https://events.bostonathenaeum.org/en/detecting-distant-worlds-the-astronomical-legacy-of-david-rittenhouse-5a2KUm934l3",
       "date": "MAY 21, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "FREE",
       "event_title": "Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -342,15 +342,6 @@
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vM8H",
       "date": "JUNE 24, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vXwX",
-      "date": "JUNE 25, 2026",
       "time_et": "12:00 PM",
       "status": "",
       "event_title": "Art & Architecture Tour",
