@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-07T22:31:36",
+  "checked_at": "2026-05-08T00:09:42",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ba49383e266ebc374c857b648a6b18ac123efd0ee9ecea12b406495401684e9a",
+  "hash": "a2e79bedc12f3aff6188702bc5cff09e2c8496185d847575c6e1b28f4056b04a",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUm9ixnB",
-      "date": "MAY 7, 2026",
-      "time_et": "9:00 AM",
-      "status": "",
-      "event_title": "Discovery Days at the Boston Athenaeum",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbTJ",
       "date": "MAY 9, 2026",
