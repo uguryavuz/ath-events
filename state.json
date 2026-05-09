@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-08T21:31:04",
+  "checked_at": "2026-05-09T10:18:03",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7dbb5da17015e432212064b4450a32d66ab10a0e29b8302ab1145372509b2b71",
+  "hash": "601f37afa77b99b11cdcdde0bae4b10379bace01eb96149b6b2c37c14d072eb7",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JbTJ",
@@ -148,7 +148,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNJJ",
       "date": "MAY 22, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
