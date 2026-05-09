@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 9 (Sat) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 11 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 11 (Mon) 6:00 PM ET -- [WAITLISTED] Bouquets & Bubbles: A Flower Arranging Workshop (Member Exclusive)
 - MAY 12 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
