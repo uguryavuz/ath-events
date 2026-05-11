@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-11T16:12:24",
+  "checked_at": "2026-05-11T18:08:02",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "495820c8513187136cc7ff6b9541c5dbf5cad9a8fb989418d0f61d5a6466e07f",
+  "hash": "3c1890164dfda6bf5bb52a9b871f39afad478fb29a4d0c4cd7b7d60d55ec9946",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VI3V",
-      "date": "MAY 11, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/bouquets-and-bubbles-a-flower-arranging-workshop-5a2KUm932eP",
       "date": "MAY 11, 2026",
@@ -233,7 +224,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vVwL",
       "date": "JUNE 6, 2026",
       "time_et": "2:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
