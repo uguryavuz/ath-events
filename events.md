@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MAY 11 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MAY 11 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - MAY 11 (Mon) 6:00 PM ET -- [WAITLISTED] Bouquets & Bubbles: A Flower Arranging Workshop (Member Exclusive)
 - MAY 12 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -11,7 +11,7 @@
 - MAY 18 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 20 (Wed) 6:00 PM ET -- [WAITLISTED] Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
-- MAY 21 (Thu) 6:00 PM ET -- [WAITLISTED] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
+- MAY 21 (Thu) 6:00 PM ET -- [FREE] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
 - MAY 22 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 23 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
