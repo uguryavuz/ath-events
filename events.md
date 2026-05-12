@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 12 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 13 (Wed) 6:00 PM ET -- Emily Franklin - Love & Other Monsters (Author Talk)
 - MAY 15 (Fri) 8:00 PM ET -- [WAITLISTED] Behind the Red Doors: Once upon a Time (Social)
