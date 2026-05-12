@@ -3,7 +3,7 @@
 - MAY 12 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 13 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 13 (Wed) 6:00 PM ET -- Emily Franklin - Love & Other Monsters (Author Talk)
-- MAY 15 (Fri) 8:00 PM ET -- [$175.00] Behind the Red Doors: Once upon a Time (Social)
+- MAY 15 (Fri) 8:00 PM ET -- [WAITLISTED] Behind the Red Doors: Once upon a Time (Social)
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 16 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 18 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -32,3 +32,7 @@
 - JUNE 18 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JUNE 23 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 26 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 27 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 30 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop

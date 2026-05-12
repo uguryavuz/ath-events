@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-12T18:18:52",
+  "checked_at": "2026-05-12T20:52:05",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b2ce412f6372d1a310ae61830e5faf4077e1e7cd87f8febad2d134b138fe7695",
+  "hash": "03c079951bbe6ae7b0c96fba68d32c1acb5da1e23b32b6f3b62498a4f2d7b235",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VIl3",
@@ -37,7 +37,7 @@
       "url": "https://events.bostonathenaeum.org/en/behind-the-red-doors-once-upon-a-time-5a2KUm9CTqf",
       "date": "MAY 15, 2026",
       "time_et": "8:00 PM",
-      "status": "$175.00",
+      "status": "WAITLISTED",
       "event_title": "Behind the Red Doors: Once upon a Time",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -305,6 +305,42 @@
       "time_et": "12:00 PM",
       "status": "",
       "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vYRB",
+      "date": "JUNE 26, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wK7d",
+      "date": "JUNE 27, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wKZ3",
+      "date": "JUNE 30, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
+      "date": "JULY 21, 2026",
+      "time_et": "9:00 AM",
+      "status": "WAITLISTED",
+      "event_title": "2026 Summer K-12 Educators Workshop",
       "venue": "Boston Athenaeum",
       "keywords": []
     }
