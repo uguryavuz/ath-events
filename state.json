@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-11T18:08:02",
+  "checked_at": "2026-05-12T00:13:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3c1890164dfda6bf5bb52a9b871f39afad478fb29a4d0c4cd7b7d60d55ec9946",
+  "hash": "487932e6367fc2363bbb309b1572d432ccb4dfdcad7be9dc838b9e99930a2e41",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/bouquets-and-bubbles-a-flower-arranging-workshop-5a2KUm932eP",
-      "date": "MAY 11, 2026",
-      "time_et": "6:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Bouquets & Bubbles: A Flower Arranging Workshop",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VIl3",
       "date": "MAY 12, 2026",
