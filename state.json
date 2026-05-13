@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-13T16:34:52",
+  "checked_at": "2026-05-13T19:11:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3ff6c829128e4a2e982378cce721dd8de8b5790946fa7cddc7b70e00e04a02b4",
+  "hash": "2451cf932d575f037028b83fc8b15b4fe5646ef792484e23f67942ca71912d02",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VIzZ",
-      "date": "MAY 13, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/emily-franklin-love-and-other-monsters-5a2KUm7vkV7",
       "date": "MAY 13, 2026",
