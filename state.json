@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-14T00:17:31",
+  "checked_at": "2026-05-14T15:36:26",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "cf9fbbd51d50dd561eecc458cbeead2425ce839905751e4df89836cfbd97a255",
+  "hash": "c0b8e3b5008dfbe5457e745f94e9720a027a0ef768cd92ebcabc34a6a1371efd",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/behind-the-red-doors-once-upon-a-time-5a2KUm9CTqf",
@@ -50,6 +50,15 @@
       "time_et": "3:00 PM",
       "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/history-of-the-book-childrens-literature-5a2KUm9Syk1",
+      "date": "MAY 19, 2026",
+      "time_et": "3:00 PM",
+      "status": "FREE",
+      "event_title": "History of the Book: Children’s Literature",
       "venue": "Boston Athenaeum",
       "keywords": []
     },
