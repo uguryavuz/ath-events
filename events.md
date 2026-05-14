@@ -3,7 +3,7 @@
 - MAY 15 (Fri) 8:00 PM ET -- [WAITLISTED] Behind the Red Doors: Once upon a Time (Social)
 - MAY 16 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 16 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- MAY 18 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MAY 18 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- [FREE] History of the Book: Children’s Literature
 - MAY 20 (Wed) 6:00 PM ET -- [WAITLISTED] Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
