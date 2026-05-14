@@ -21,7 +21,7 @@
 - JUNE 6 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 6 (Sat) 2:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 8 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- JUNE 11 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- JUNE 11 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 12 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 13 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 13 (Sat) 2:00 PM ET -- Art & Architecture Tour
