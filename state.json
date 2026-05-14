@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-13T19:11:16",
+  "checked_at": "2026-05-14T00:17:31",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2451cf932d575f037028b83fc8b15b4fe5646ef792484e23f67942ca71912d02",
+  "hash": "cf9fbbd51d50dd561eecc458cbeead2425ce839905751e4df89836cfbd97a255",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/emily-franklin-love-and-other-monsters-5a2KUm7vkV7",
-      "date": "MAY 13, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Emily Franklin - Love & Other Monsters",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/behind-the-red-doors-once-upon-a-time-5a2KUm9CTqf",
       "date": "MAY 15, 2026",
