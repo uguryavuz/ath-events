@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-14T21:38:12",
+  "checked_at": "2026-05-15T18:58:03",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3fe399a8f38b3bbab61755dd08d808eb5c72ae4ffd042c0d7827fd767fcbfc55",
+  "hash": "177b55b36b89259143046a1ebc55ab94f3403d4a6e310ffc2d581f9a03f1eb4b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/behind-the-red-doors-once-upon-a-time-5a2KUm9CTqf",
@@ -146,7 +146,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vVQ5",
       "date": "JUNE 2, 2026",
       "time_et": "5:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
