@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-15T18:58:03",
+  "checked_at": "2026-05-16T04:05:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "177b55b36b89259143046a1ebc55ab94f3403d4a6e310ffc2d581f9a03f1eb4b",
+  "hash": "43f0a45814023b01519d55307401679f67d8f0099b0edc7b86db9a90e11c89f6",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/behind-the-red-doors-once-upon-a-time-5a2KUm9CTqf",
-      "date": "MAY 15, 2026",
-      "time_et": "8:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Behind the Red Doors: Once upon a Time",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Social"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbeb",
       "date": "MAY 16, 2026",
