@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 18 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- [FREE] History of the Book: Children’s Literature
 - MAY 20 (Wed) 6:00 PM ET -- [WAITLISTED] Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
@@ -11,23 +10,34 @@
 - MAY 26 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 27 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JUNE 1 (Mon) 6:00 PM ET -- Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
 - JUNE 2 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 3 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 3 (Wed) 6:00 PM ET -- [SOLD OUT] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
 - JUNE 5 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 6 (Sat) 2:00 PM ET -- Kids Engineering Workshop (Children's/Family)
 - JUNE 6 (Sat) 2:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 8 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 8 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
+- JUNE 10 (Wed) 6:00 PM ET -- Benoit Denizet-Lewis - You've Changed (Author Talk)
 - JUNE 11 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
 - JUNE 12 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 13 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 13 (Sat) 2:00 PM ET -- Art & Architecture Tour
+- JUNE 15 (Mon) 5:30 PM ET -- [FREE] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 17 (Wed) 6:00 PM ET -- Eric Moskowitz - The Hardest, Longest Race (Author Talk)
 - JUNE 18 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- JUNE 20 (Sat) 11:00 AM ET -- Pride Story Time (Children's/Family)
 - JUNE 23 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 27 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
