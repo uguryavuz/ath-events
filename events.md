@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MAY 19 (Tue) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- MAY 19 (Tue) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- [FREE] History of the Book: Children’s Literature
 - MAY 20 (Wed) 6:00 PM ET -- [WAITLISTED] Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
 - MAY 21 (Thu) 6:00 PM ET -- [FREE] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
