@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MAY 19 (Tue) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- MAY 19 (Tue) 3:00 PM ET -- Art & Architecture Tour
 - MAY 19 (Tue) 3:00 PM ET -- [FREE] History of the Book: Children’s Literature
 - MAY 20 (Wed) 6:00 PM ET -- Christine Roussel - Lunch on a Beam: The Making of an American Photograph (Author Talk)
 - MAY 21 (Thu) 6:00 PM ET -- [FREE] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
@@ -38,6 +38,6 @@
 - JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 27 (Sat) 12:00 PM ET -- Art & Architecture Tour
-- JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
+- JUNE 29 (Mon) 6:00 PM ET -- [SOLD OUT] Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
