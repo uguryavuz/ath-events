@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-20T04:39:23",
+  "checked_at": "2026-05-20T21:15:26",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1804a9efaf090eb1eb05a0b3322c620c83f0a7dc3938bcc03c118b48b055b4a0",
+  "hash": "77b2d633f4919a7dd9bb68f8fb25b62479b4e23e41a52734e512ea2f7e066634",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/christine-roussel-lunch-on-a-beam-the-making-of-an-american-photograph-5a2KUm8KhXF",
@@ -311,6 +311,15 @@
       "keywords": [
         "Children's/Family"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/street-photography-seeing-waiting-becoming-invisible-with-lou-jones-5a2KUm9IYnd",
+      "date": "JUNE 22, 2026",
+      "time_et": "6:30 PM",
+      "status": "",
+      "event_title": "Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vSLm",
