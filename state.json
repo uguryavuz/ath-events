@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-19T21:48:21",
+  "checked_at": "2026-05-20T04:39:23",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1ef42dbf57459217a049412605a4b97511a8940452f2d549c78872e92da23948",
+  "hash": "1804a9efaf090eb1eb05a0b3322c620c83f0a7dc3938bcc03c118b48b055b4a0",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/christine-roussel-lunch-on-a-beam-the-making-of-an-american-photograph-5a2KUm8KhXF",
@@ -148,7 +148,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vVhp",
       "date": "JUNE 6, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
