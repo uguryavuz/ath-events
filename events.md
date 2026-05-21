@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- MAY 21 (Thu) 6:00 PM ET -- [FREE] Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
+- MAY 21 (Thu) 6:00 PM ET -- Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
 - MAY 22 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 23 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -17,7 +17,7 @@
 - JUNE 6 (Sat) 2:00 PM ET -- Kids Engineering Workshop (Children's/Family)
 - JUNE 6 (Sat) 2:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 8 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- JUNE 8 (Mon) 5:30 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
+- JUNE 8 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
 - JUNE 10 (Wed) 6:00 PM ET -- Benoit Denizet-Lewis - You've Changed (Author Talk)
 - JUNE 11 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
@@ -36,6 +36,6 @@
 - JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 27 (Sat) 12:00 PM ET -- Art & Architecture Tour
-- JUNE 29 (Mon) 6:00 PM ET -- [SOLD OUT] Lorna Gibson - Birds Up Close (Author Talk)
+- JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop

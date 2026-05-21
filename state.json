@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-21T01:28:07",
+  "checked_at": "2026-05-21T14:18:05",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "612f7c010e29af742f7da6597c4b92bacf0ba0d811b45e3390e2b63603dfdeae",
+  "hash": "78ac230f56963c5cbcb834ae3034fd4e255d72010f135c2f59ef8da66852472f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/detecting-distant-worlds-the-astronomical-legacy-of-david-rittenhouse-5a2KUm934l3",
       "date": "MAY 21, 2026",
       "time_et": "6:00 PM",
-      "status": "FREE",
+      "status": "",
       "event_title": "Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -175,7 +175,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vk25",
       "date": "JUNE 8, 2026",
       "time_et": "5:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -361,7 +361,7 @@
       "url": "https://events.bostonathenaeum.org/en/lorna-gibson-birds-up-close-5a2KUm7vlEH",
       "date": "JUNE 29, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Lorna Gibson - Birds Up Close",
       "venue": "Boston Athenaeum",
       "keywords": [
