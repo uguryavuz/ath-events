@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-20T21:15:26",
+  "checked_at": "2026-05-21T01:28:07",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "77b2d633f4919a7dd9bb68f8fb25b62479b4e23e41a52734e512ea2f7e066634",
+  "hash": "612f7c010e29af742f7da6597c4b92bacf0ba0d811b45e3390e2b63603dfdeae",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/christine-roussel-lunch-on-a-beam-the-making-of-an-american-photograph-5a2KUm8KhXF",
-      "date": "MAY 20, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Christine Roussel - Lunch on a Beam: The Making of an American Photograph",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/detecting-distant-worlds-the-astronomical-legacy-of-david-rittenhouse-5a2KUm934l3",
       "date": "MAY 21, 2026",
@@ -128,7 +117,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vL8z",
       "date": "JUNE 5, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -186,7 +175,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vk25",
       "date": "JUNE 8, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
