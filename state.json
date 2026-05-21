@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-21T17:35:17",
+  "checked_at": "2026-05-21T20:12:48",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "03a0fc5d77f3c1657f17482671a1d2823ee1a6d88bfad91c500de284b383b2e5",
+  "hash": "f7b9282a88ed24ca1d7257ed0976792fe2274982248a0938892bed1d7602a40d",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/detecting-distant-worlds-the-astronomical-legacy-of-david-rittenhouse-5a2KUm934l3",
@@ -97,7 +97,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9uAsL",
       "date": "JUNE 3, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -175,7 +175,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vk25",
       "date": "JUNE 8, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [

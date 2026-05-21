@@ -9,7 +9,7 @@
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 1 (Mon) 6:00 PM ET -- Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
 - JUNE 2 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JUNE 3 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 3 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 3 (Wed) 6:00 PM ET -- [SOLD OUT] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
 - JUNE 5 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -17,7 +17,7 @@
 - JUNE 6 (Sat) 2:00 PM ET -- Kids Engineering Workshop (Children's/Family)
 - JUNE 6 (Sat) 2:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 8 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- JUNE 8 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
+- JUNE 8 (Mon) 5:30 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - JUNE 10 (Wed) 6:00 PM ET -- Benoit Denizet-Lewis - You've Changed (Author Talk)
 - JUNE 11 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
