@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 21 (Thu) 6:00 PM ET -- Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse (Lecture)
 - MAY 22 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - MAY 23 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour

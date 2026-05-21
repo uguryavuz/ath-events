@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-21T20:12:48",
+  "checked_at": "2026-05-21T23:18:30",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f7b9282a88ed24ca1d7257ed0976792fe2274982248a0938892bed1d7602a40d",
+  "hash": "544504ad58ca082d1ba9c028f835662f94512a41c9cf99b8f04a22c8b82afa11",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/detecting-distant-worlds-the-astronomical-legacy-of-david-rittenhouse-5a2KUm934l3",
-      "date": "MAY 21, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Detecting Distant Worlds: The Astronomical Legacy of David Rittenhouse",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNJJ",
       "date": "MAY 22, 2026",
