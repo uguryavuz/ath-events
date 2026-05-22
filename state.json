@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-22T18:09:16",
+  "checked_at": "2026-05-22T20:13:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "5e71a560a5d66d74537f269ce1ddb7bff7f211e3d55bfae93efad065b43c85e1",
+  "hash": "724ecfc6b14caa2deec544e5381bda5182d4ac3cad72f6eb8ec8aeada8ad7937",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9VNJJ",
-      "date": "MAY 22, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbxx",
       "date": "MAY 23, 2026",
@@ -95,7 +86,7 @@
       "url": "https://events.bostonathenaeum.org/en/joshua-kendall-trudeau-and-doonesbury-a-biography-5a2KUm7vkbZ",
       "date": "JUNE 3, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Joshua Kendall - Trudeau & Doonesbury: A Biography",
       "venue": "Boston Athenaeum",
       "keywords": [
