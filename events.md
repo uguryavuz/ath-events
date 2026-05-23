@@ -1,7 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 23 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- MAY 23 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 26 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 27 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
