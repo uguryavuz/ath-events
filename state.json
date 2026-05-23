@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-23T14:04:35",
+  "checked_at": "2026-05-23T15:34:03",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "053ea9964a40470e768babe8447e345971d711df60e51e2df38a0cef9de3d408",
+  "hash": "724ecfc6b14caa2deec544e5381bda5182d4ac3cad72f6eb8ec8aeada8ad7937",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9Jbxx",
       "date": "MAY 23, 2026",
       "time_et": "11:00 AM",
-      "status": "SOLD OUT",
+      "status": "FREE",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
