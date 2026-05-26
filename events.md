@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- MAY 26 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 27 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 1 (Mon) 6:00 PM ET -- Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
