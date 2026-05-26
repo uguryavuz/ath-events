@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-25T16:04:15",
+  "checked_at": "2026-05-26T16:53:58",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "44f7cc7d12805b6fd9e060a9ac7e35973e619fc752a075849d14b9eddf05b787",
+  "hash": "00703899f4e59a35859966e1e391b78d57dd23af15e9c300f2eb1994eb7a633b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9j7pl",
@@ -66,7 +66,7 @@
       "url": "https://events.bostonathenaeum.org/en/joshua-kendall-trudeau-and-doonesbury-a-biography-5a2KUm7vkbZ",
       "date": "JUNE 3, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Joshua Kendall - Trudeau & Doonesbury: A Biography",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -265,7 +265,7 @@
       "url": "https://events.bostonathenaeum.org/en/street-photography-seeing-waiting-becoming-invisible-with-lou-jones-5a2KUm9IYnd",
       "date": "JUNE 22, 2026",
       "time_et": "6:30 PM",
-      "status": "",
+      "status": "SOLD OUT",
       "event_title": "Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones",
       "venue": "Boston Athenaeum",
       "keywords": []

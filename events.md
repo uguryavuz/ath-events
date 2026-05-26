@@ -6,7 +6,7 @@
 - JUNE 1 (Mon) 6:00 PM ET -- Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
 - JUNE 2 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 3 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JUNE 3 (Wed) 6:00 PM ET -- [SOLD OUT] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
+- JUNE 3 (Wed) 6:00 PM ET -- [WAITLISTED] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
 - JUNE 5 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -26,7 +26,7 @@
 - JUNE 17 (Wed) 6:00 PM ET -- Eric Moskowitz - The Hardest, Longest Race (Author Talk)
 - JUNE 18 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JUNE 20 (Sat) 11:00 AM ET -- Pride Story Time (Children's/Family)
-- JUNE 22 (Mon) 6:30 PM ET -- Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
+- JUNE 22 (Mon) 6:30 PM ET -- [SOLD OUT] Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
 - JUNE 23 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
