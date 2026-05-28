@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-28T19:46:02",
+  "checked_at": "2026-05-28T22:12:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3791bfedfa6760b4a2d459c96e870674097cb6ec1bf610f7c8fcdc7ca43a3495",
+  "hash": "813cdd8bcb443f3dee02a4bf760b8f7b7bfd396040ef13415d3adea7466e9f57",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcAr",
@@ -274,7 +274,7 @@
       "url": "https://events.bostonathenaeum.org/en/eric-jay-dolin-the-wreck-of-the-mentor-5a2KUm8gqaH",
       "date": "JUNE 24, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Eric Jay Dolin - The Wreck of the Mentor",
       "venue": "Boston Athenaeum",
       "keywords": [
