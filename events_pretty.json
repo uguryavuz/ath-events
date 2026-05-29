@@ -155,7 +155,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vW1B",
     "date": "JUNE 12, 2026",
     "time_et": "12:00 PM",
-    "status": "SOLD OUT",
+    "status": "",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -269,7 +269,7 @@
     "url": "https://events.bostonathenaeum.org/en/eric-jay-dolin-the-wreck-of-the-mentor-5a2KUm8gqaH",
     "date": "JUNE 24, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Eric Jay Dolin - The Wreck of the Mentor",
     "venue": "Boston Athenaeum",
     "keywords": [
