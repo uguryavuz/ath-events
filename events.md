@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JUNE 1 (Mon) 6:00 PM ET -- [WAITLISTED] Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
+- JUNE 1 (Mon) 6:00 PM ET -- Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
 - JUNE 2 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 3 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 3 (Wed) 6:00 PM ET -- [WAITLISTED] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
@@ -17,7 +17,7 @@
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
 - JUNE 12 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 13 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JUNE 13 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 13 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -32,5 +32,10 @@
 - JUNE 27 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - JULY 11 (Sat) 2:00 PM ET -- Athena at the Athenaeum
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
+- AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

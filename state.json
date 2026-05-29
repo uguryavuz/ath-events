@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-29T12:28:38",
+  "checked_at": "2026-05-29T16:54:31",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "bc9a3ce039d2c4109c5472b6eacfc372a8bd8558f45143017ad30fedebf8199f",
+  "hash": "582a242a942ede76803e780c6644bae1d2741d3d83568f24992a90384fb37d23",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcAr",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/harder-endowed-lecture-amanda-marchand-and-leah-sobsey-this-earthen-door-5a2KUm8WvPx",
       "date": "JUNE 1, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -178,7 +178,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vWcH",
       "date": "JUNE 13, 2026",
       "time_et": "2:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -320,6 +320,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAG4I1",
+      "date": "JULY 9, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/athena-at-the-athenaeum-5a2KUmAEL6r",
       "date": "JULY 11, 2026",
       "time_et": "2:00 PM",
@@ -336,6 +347,50 @@
       "event_title": "2026 Summer K-12 Educators Workshop",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGEkP",
+      "date": "AUGUST 13, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
+      "date": "OCTOBER 12, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGGnp",
+      "date": "NOVEMBER 3, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAH2qr",
+      "date": "NOVEMBER 27, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
     }
   ]
 }
