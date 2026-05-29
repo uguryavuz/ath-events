@@ -13,11 +13,11 @@
 - JUNE 8 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 8 (Mon) 5:30 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - JUNE 10 (Wed) 6:00 PM ET -- Benoit Denizet-Lewis - You've Changed (Author Talk)
-- JUNE 11 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 11 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
 - JUNE 12 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 13 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JUNE 13 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JUNE 13 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
