@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-28T22:12:50",
+  "checked_at": "2026-05-29T12:28:38",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "813cdd8bcb443f3dee02a4bf760b8f7b7bfd396040ef13415d3adea7466e9f57",
+  "hash": "bc9a3ce039d2c4109c5472b6eacfc372a8bd8558f45143017ad30fedebf8199f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcAr",
@@ -19,7 +19,7 @@
       "url": "https://events.bostonathenaeum.org/en/harder-endowed-lecture-amanda-marchand-and-leah-sobsey-this-earthen-door-5a2KUm8WvPx",
       "date": "JUNE 1, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door",
       "venue": "Boston Athenaeum",
       "keywords": [

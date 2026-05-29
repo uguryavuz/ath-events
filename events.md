@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
 - MAY 30 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JUNE 1 (Mon) 6:00 PM ET -- Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
+- JUNE 1 (Mon) 6:00 PM ET -- [WAITLISTED] Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
 - JUNE 2 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 3 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 3 (Wed) 6:00 PM ET -- [WAITLISTED] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
