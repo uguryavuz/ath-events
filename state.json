@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-30T14:49:00",
+  "checked_at": "2026-05-30T16:17:26",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7a5f1d4c65be2033aa3185a84a5bfc36812c0c29c9827bf402d979811e350c22",
+  "hash": "7128bfce759d17e792b190aea2b0cec18e5484a8565dba045c2e1dec9b569285",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcAr",
-      "date": "MAY 30, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/harder-endowed-lecture-amanda-marchand-and-leah-sobsey-this-earthen-door-5a2KUm8WvPx",
       "date": "JUNE 1, 2026",
@@ -160,7 +149,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vW1B",
       "date": "JUNE 12, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -207,7 +196,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vXID",
       "date": "JUNE 17, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
