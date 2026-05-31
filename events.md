@@ -2,7 +2,7 @@
 
 - JUNE 1 (Mon) 6:00 PM ET -- [WAITLISTED] Harder Endowed Lecture: Amanda Marchand & Leah Sobsey - This Earthen Door (Artist Talk)
 - JUNE 2 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JUNE 3 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 3 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 3 (Wed) 6:00 PM ET -- [WAITLISTED] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
 - JUNE 5 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -17,7 +17,7 @@
 - JUNE 12 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
+- JUNE 15 (Mon) 5:30 PM ET -- [FREE] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 17 (Wed) 6:00 PM ET -- [WAITLISTED] Eric Moskowitz - The Hardest, Longest Race (Author Talk)
