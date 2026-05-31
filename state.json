@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-31T08:23:27",
+  "checked_at": "2026-05-31T12:49:29",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b19fa7d8a46b7c197bf898f2add3a7de90c8c84a21cebb891cf592bb1a3d7c0b",
+  "hash": "da6112beb5fe75238409b87bb11adb91ebc8869a696e407b8e7b27353b1e5e68",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/harder-endowed-lecture-amanda-marchand-and-leah-sobsey-this-earthen-door-5a2KUm8WvPx",
@@ -205,7 +205,7 @@
       "url": "https://events.bostonathenaeum.org/en/eric-moskowitz-the-hardest-longest-race-5a2KUm9ISVJ",
       "date": "JUNE 17, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Eric Moskowitz - The Hardest, Longest Race",
       "venue": "Boston Athenaeum",
       "keywords": [
