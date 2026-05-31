@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-31T14:57:09",
+  "checked_at": "2026-05-31T16:37:33",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b99ad5e833a4b8423631e94459e7bb97aede701ede6aae9e8abae8fe14c5b535",
+  "hash": "680ac2e112d5fdd885fa85f8e214f92e8de086bd01bb7d8dc14458183db96797",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/harder-endowed-lecture-amanda-marchand-and-leah-sobsey-this-earthen-door-5a2KUm8WvPx",
@@ -176,7 +176,7 @@
       "url": "https://events.bostonathenaeum.org/en/exhibition-opening-wheres-boston-50-years-later-5a2KUm94Goz",
       "date": "JUNE 15, 2026",
       "time_et": "5:30 PM",
-      "status": "FREE",
+      "status": "WAITLISTED",
       "event_title": "Exhibition Opening - Where's Boston? 50 Years Later",
       "venue": "Boston Athenaeum",
       "keywords": [
