@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-05-31T16:37:33",
+  "checked_at": "2026-06-01T05:19:07",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "680ac2e112d5fdd885fa85f8e214f92e8de086bd01bb7d8dc14458183db96797",
+  "hash": "0e1b4729a0be249a8b1b87848394e9ad9f0db72f58107ccf47fcc6201f0971a7",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/harder-endowed-lecture-amanda-marchand-and-leah-sobsey-this-earthen-door-5a2KUm8WvPx",
@@ -187,7 +187,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vWlx",
       "date": "JUNE 16, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
