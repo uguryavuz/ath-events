@@ -21,7 +21,7 @@
     "url": "https://events.bostonathenaeum.org/en/joshua-kendall-trudeau-and-doonesbury-a-biography-5a2KUm7vkbZ",
     "date": "JUNE 3, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Joshua Kendall - Trudeau & Doonesbury: A Biography",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -90,7 +90,7 @@
     "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vk25",
     "date": "JUNE 8, 2026",
     "time_et": "5:30 PM",
-    "status": "FREE",
+    "status": "WAITLISTED",
     "event_title": "Member Mixer",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -133,7 +133,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vW1B",
     "date": "JUNE 12, 2026",
     "time_et": "12:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -229,7 +229,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vSLm",
     "date": "JUNE 23, 2026",
     "time_et": "5:30 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
