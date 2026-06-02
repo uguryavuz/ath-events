@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- JUNE 2 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JUNE 2 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 3 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 3 (Wed) 6:00 PM ET -- [WAITLISTED] Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
 - JUNE 5 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
