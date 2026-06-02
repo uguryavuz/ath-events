@@ -3,34 +3,38 @@
 - JUNE 2 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 3 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 3 (Wed) 6:00 PM ET -- Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
-- JUNE 5 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JUNE 5 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 6 (Sat) 2:00 PM ET -- Kids Engineering Workshop (Children's/Family)
 - JUNE 6 (Sat) 2:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JUNE 8 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 8 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 8 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
 - JUNE 10 (Wed) 6:00 PM ET -- Benoit Denizet-Lewis - You've Changed (Author Talk)
 - JUNE 11 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
 - JUNE 12 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 13 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 13 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
-- JUNE 16 (Tue) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 16 (Tue) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 17 (Wed) 6:00 PM ET -- [WAITLISTED] Eric Moskowitz - The Hardest, Longest Race (Author Talk)
 - JUNE 18 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JUNE 20 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 20 (Sat) 11:00 AM ET -- Pride Story Time (Children's/Family)
 - JUNE 22 (Mon) 6:30 PM ET -- [SOLD OUT] Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
-- JUNE 23 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- JUNE 23 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- [WAITLISTED] Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 27 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 27 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 11 (Sat) 2:00 PM ET -- Athena at the Athenaeum
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-02T18:55:38",
+  "checked_at": "2026-06-02T22:04:31",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3433fed12f2c0dae30e0f08b0174493fe61e42ac9d9d8c6032a020ad8c7a599c",
+  "hash": "b2f48c06c1899b7a1d4f564352106b543a68af6c4d988ff087ed8ad38e9b5610",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vVQ5",
@@ -37,7 +37,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vL8z",
       "date": "JUNE 5, 2026",
       "time_et": "12:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -86,7 +86,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLTx",
       "date": "JUNE 8, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -144,6 +144,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL7Yb",
+      "date": "JUNE 13, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vWIv",
       "date": "JUNE 13, 2026",
       "time_et": "12:00 PM",
@@ -176,7 +187,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vWlx",
       "date": "JUNE 16, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -211,6 +222,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL7n7",
+      "date": "JUNE 20, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/pride-story-time-5a2KUm9ai0X",
       "date": "JUNE 20, 2026",
       "time_et": "11:00 AM",
@@ -234,7 +256,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vSLm",
       "date": "JUNE 23, 2026",
       "time_et": "5:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -267,6 +289,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL84r",
+      "date": "JUNE 27, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wK7d",
@@ -306,6 +339,17 @@
       "venue": "Boston Athenaeum",
       "keywords": [
         "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL9lh",
+      "date": "JULY 11, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
       ]
     },
     {
