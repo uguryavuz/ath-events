@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-03T05:19:59",
+  "checked_at": "2026-06-03T17:20:32",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "0133becb04976a65a4a1083e85f99da1d93b1e84fcdd9a7c97d89139cf903152",
+  "hash": "1b9f97458111e89ff14fdbc7489746d695edc5255b8338bed93e01ca925a612d",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9uAsL",
-      "date": "JUNE 3, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/joshua-kendall-trudeau-and-doonesbury-a-biography-5a2KUm7vkbZ",
       "date": "JUNE 3, 2026",
@@ -187,7 +178,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vXID",
       "date": "JUNE 17, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -196,7 +187,7 @@
       "url": "https://events.bostonathenaeum.org/en/eric-moskowitz-the-hardest-longest-race-5a2KUm9ISVJ",
       "date": "JUNE 17, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Eric Moskowitz - The Hardest, Longest Race",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -238,7 +229,7 @@
       "url": "https://events.bostonathenaeum.org/en/street-photography-seeing-waiting-becoming-invisible-with-lou-jones-5a2KUm9IYnd",
       "date": "JUNE 22, 2026",
       "time_et": "6:30 PM",
-      "status": "SOLD OUT",
+      "status": "",
       "event_title": "Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -256,7 +247,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vM8H",
       "date": "JUNE 24, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []

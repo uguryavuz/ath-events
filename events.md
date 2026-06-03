@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 3 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 3 (Wed) 6:00 PM ET -- Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
 - JUNE 5 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -18,14 +17,14 @@
 - JUNE 13 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JUNE 17 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JUNE 17 (Wed) 6:00 PM ET -- [WAITLISTED] Eric Moskowitz - The Hardest, Longest Race (Author Talk)
+- JUNE 17 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 17 (Wed) 6:00 PM ET -- Eric Moskowitz - The Hardest, Longest Race (Author Talk)
 - JUNE 18 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 20 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 20 (Sat) 11:00 AM ET -- Pride Story Time (Children's/Family)
-- JUNE 22 (Mon) 6:30 PM ET -- [SOLD OUT] Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
+- JUNE 22 (Mon) 6:30 PM ET -- Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
 - JUNE 23 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JUNE 24 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 24 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- [WAITLISTED] Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JUNE 27 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
