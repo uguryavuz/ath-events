@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-03T21:31:23",
+  "checked_at": "2026-06-04T00:03:44",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ff0a156c8560acd85d273c2d3aa4afc8c75a371aef8b3447612b5f1c3519a053",
+  "hash": "27fc66255d875c711059181c1b4192be9e5be8063ac9a4d7b8e63eaa6f98c54a",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/joshua-kendall-trudeau-and-doonesbury-a-biography-5a2KUm7vkbZ",
-      "date": "JUNE 3, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Joshua Kendall - Trudeau & Doonesbury: A Biography",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vL8z",
       "date": "JUNE 5, 2026",

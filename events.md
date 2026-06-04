@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 3 (Wed) 6:00 PM ET -- Joshua Kendall - Trudeau & Doonesbury: A Biography (Author Talk)
 - JUNE 5 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
