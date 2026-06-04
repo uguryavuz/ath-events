@@ -33,9 +33,15 @@
 - JULY 1 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - JULY 2 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 6 (Mon) 5:30 PM ET -- Art & Architecture Tour
+- JULY 7 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- JULY 9 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- JULY 10 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
+- JULY 11 (Sat) 12:30 PM ET -- Art & Architecture Tour
 - JULY 11 (Sat) 2:00 PM ET -- Athena at the Athenaeum
+- JULY 13 (Mon) 3:00 PM ET -- Art & Architecture Tour
+- JULY 14 (Tue) 3:00 PM ET -- Art & Architecture Tour
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
