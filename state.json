@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-04T05:12:02",
+  "checked_at": "2026-06-04T16:29:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f4dd2e616c973e0b1bd958ef7da105fe59edd3258bc2e2da3dfc442215d0ae0b",
+  "hash": "3308fe222a5a201f92bdd4a87f22f22078a39d7d672702299a9d1db6f3509fdd",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vL8z",
@@ -176,7 +176,7 @@
       "url": "https://events.bostonathenaeum.org/en/eric-moskowitz-the-hardest-longest-race-5a2KUm9ISVJ",
       "date": "JUNE 17, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Eric Moskowitz - The Hardest, Longest Race",
       "venue": "Boston Athenaeum",
       "keywords": [

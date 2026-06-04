@@ -17,7 +17,7 @@
 - JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- JUNE 17 (Wed) 6:00 PM ET -- Eric Moskowitz - The Hardest, Longest Race (Author Talk)
+- JUNE 17 (Wed) 6:00 PM ET -- [WAITLISTED] Eric Moskowitz - The Hardest, Longest Race (Author Talk)
 - JUNE 18 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 20 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 20 (Sat) 11:00 AM ET -- Pride Story Time (Children's/Family)
