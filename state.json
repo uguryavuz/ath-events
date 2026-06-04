@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-04T00:03:44",
+  "checked_at": "2026-06-04T05:12:02",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "27fc66255d875c711059181c1b4192be9e5be8063ac9a4d7b8e63eaa6f98c54a",
+  "hash": "f4dd2e616c973e0b1bd958ef7da105fe59edd3258bc2e2da3dfc442215d0ae0b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vL8z",
@@ -66,7 +66,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vk25",
       "date": "JUNE 8, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -109,7 +109,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vW1B",
       "date": "JUNE 12, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
