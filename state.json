@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-05T20:17:29",
+  "checked_at": "2026-06-05T21:50:21",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b274058a5816a3e47ee42f17ab09454b3577b94b0f88953d49a94efb2906d564",
+  "hash": "197d1533d11c042ad89516d0c5137e4c7f7d52c51bd112fbfbb1226a4f361a50",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUm9JcIv",
@@ -158,7 +158,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vXID",
       "date": "JUNE 17, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
