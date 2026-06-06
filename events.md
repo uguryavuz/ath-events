@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 6 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 6 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 6 (Sat) 2:00 PM ET -- Kids Engineering Workshop (Children's/Family)
 - JUNE 6 (Sat) 2:30 PM ET -- [SOLD OUT] Art & Architecture Tour
