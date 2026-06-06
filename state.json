@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-06T16:35:39",
+  "checked_at": "2026-06-06T18:41:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9d201548973515710a91c30e9ce451de39a8a0fb8320973c3bcfe348af6c66e0",
+  "hash": "69870763e0f93fa9b60e488b191f510da0d35faa169c55fee120e286b9236949",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vVhp",
-      "date": "JUNE 6, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/kids-engineering-workshop-5a2KUm9bgJF",
       "date": "JUNE 6, 2026",
