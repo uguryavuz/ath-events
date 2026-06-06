@@ -1,7 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 6 (Sat) 2:00 PM ET -- Kids Engineering Workshop (Children's/Family)
-- JUNE 6 (Sat) 2:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 8 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 8 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
 - JUNE 10 (Wed) 6:00 PM ET -- [WAITLISTED] Benoit Denizet-Lewis - You've Changed (Author Talk)
