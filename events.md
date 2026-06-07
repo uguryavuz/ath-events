@@ -20,7 +20,7 @@
 - JUNE 23 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- [WAITLISTED] Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
-- JUNE 26 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 26 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 27 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 27 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
