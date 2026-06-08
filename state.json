@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-08T19:36:38",
+  "checked_at": "2026-06-08T23:39:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "266ce248277e0b7f524c261a81bca44daaed6e5bd33a7f0a25c1e226a471ea3b",
+  "hash": "ca48ebfd9ed237d1b1cc04773859b09d06bada0126eeabd85d6ab514e8671bf8",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vk25",
-      "date": "JUNE 8, 2026",
-      "time_et": "5:30 PM",
-      "status": "FREE",
-      "event_title": "Member Mixer",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Social",
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/benoit-denizet-lewis-youve-changed-5a2KUm8IrhB",
       "date": "JUNE 10, 2026",
