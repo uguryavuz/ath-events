@@ -2,7 +2,7 @@
 
 - JUNE 8 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 8 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
-- JUNE 10 (Wed) 6:00 PM ET -- [WAITLISTED] Benoit Denizet-Lewis - You've Changed (Author Talk)
+- JUNE 10 (Wed) 6:00 PM ET -- Benoit Denizet-Lewis - You've Changed (Author Talk)
 - JUNE 11 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
 - JUNE 12 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -33,8 +33,8 @@
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - JULY 10 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JULY 11 (Sat) 12:30 PM ET -- Art & Architecture Tour
-- JULY 11 (Sat) 2:00 PM ET -- Athena at the Athenaeum
+- JULY 11 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 11 (Sat) 2:00 PM ET -- [WAITLISTED] Athena at the Athenaeum
 - JULY 13 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - JULY 14 (Tue) 3:00 PM ET -- Art & Architecture Tour
 - JULY 16 (Thu) 12:00 PM ET -- Art & Architecture Tour

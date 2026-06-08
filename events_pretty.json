@@ -24,7 +24,7 @@
     "url": "https://events.bostonathenaeum.org/en/benoit-denizet-lewis-youve-changed-5a2KUm8IrhB",
     "date": "JUNE 10, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Benoit Denizet-Lewis - You've Changed",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -327,7 +327,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBrR",
     "date": "JULY 11, 2026",
     "time_et": "12:30 PM",
-    "status": "",
+    "status": "WAITLISTED",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -336,7 +336,7 @@
     "url": "https://events.bostonathenaeum.org/en/athena-at-the-athenaeum-5a2KUmAEL6r",
     "date": "JULY 11, 2026",
     "time_et": "2:00 PM",
-    "status": "",
+    "status": "WAITLISTED",
     "event_title": "Athena at the Athenaeum",
     "venue": "Boston Athenaeum",
     "keywords": []
