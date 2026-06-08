@@ -1,23 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-08T16:30:19",
+  "checked_at": "2026-06-08T19:36:38",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "10b7937f554ed2421b776a154f0943e28548016c2afbfdc4c72f96145419d76f",
+  "hash": "266ce248277e0b7f524c261a81bca44daaed6e5bd33a7f0a25c1e226a471ea3b",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLTx",
-      "date": "JUNE 8, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUm7vk25",
       "date": "JUNE 8, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "FREE",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -383,6 +374,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAQwc5",
+      "date": "JULY 18, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgdV",
       "date": "JULY 18, 2026",
       "time_et": "12:30 PM",
@@ -435,6 +437,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAQxEn",
+      "date": "JULY 25, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgwr",

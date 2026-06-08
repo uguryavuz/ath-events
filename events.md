@@ -1,7 +1,6 @@
 # Boston Athenaeum events
 
-- JUNE 8 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JUNE 8 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
+- JUNE 8 (Mon) 5:30 PM ET -- [FREE] Member Mixer (Social, Member Exclusive)
 - JUNE 10 (Wed) 6:00 PM ET -- Benoit Denizet-Lewis - You've Changed (Author Talk)
 - JUNE 11 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
@@ -39,12 +38,14 @@
 - JULY 14 (Tue) 3:00 PM ET -- Art & Architecture Tour
 - JULY 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - JULY 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- JULY 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 18 (Sat) 12:30 PM ET -- Art & Architecture Tour
 - JULY 20 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
 - JULY 22 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - JULY 23 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 24 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - JULY 29 (Wed) 5:30 PM ET -- Art & Architecture Tour
