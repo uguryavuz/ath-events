@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-10T06:43:57",
+  "checked_at": "2026-06-10T20:47:14",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "22d78495609d0cf3bb6646de11093f8571314009b088bcfa113e531a6177f95c",
+  "hash": "3667918d4ae0e222ad0d08681e666535b55116d87788adc2d3047d7c632756d6",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/benoit-denizet-lewis-youve-changed-5a2KUm8IrhB",
@@ -259,15 +259,6 @@
       "keywords": []
     },
     {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAMLMb",
-      "date": "JULY 7, 2026",
-      "time_et": "5:30 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBWT",
       "date": "JULY 9, 2026",
       "time_et": "3:00 PM",
@@ -400,11 +391,11 @@
       "keywords": []
     },
     {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANeGk",
+      "url": "https://events.bostonathenaeum.org/en/canceled-art-and-architecture-tour-5a2KUmANeGk",
       "date": "JULY 22, 2026",
       "time_et": "12:00 PM",
       "status": "",
-      "event_title": "Art & Architecture Tour",
+      "event_title": "Canceled: Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
     },
