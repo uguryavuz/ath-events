@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-09T21:14:28",
+  "checked_at": "2026-06-10T06:43:57",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "cecb4e385984d25605f6cb8672707f3b5b27f640ec5c9f4d8748f8f0156c7728",
+  "hash": "22d78495609d0cf3bb6646de11093f8571314009b088bcfa113e531a6177f95c",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/benoit-denizet-lewis-youve-changed-5a2KUm8IrhB",
@@ -235,7 +235,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAMK8n",
       "date": "JULY 1, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []

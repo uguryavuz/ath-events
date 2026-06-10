@@ -23,7 +23,7 @@
 - JUNE 27 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JULY 1 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- JULY 1 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 2 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 6 (Mon) 5:30 PM ET -- Art & Architecture Tour
 - JULY 7 (Tue) 5:30 PM ET -- Art & Architecture Tour
