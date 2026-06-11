@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-10T20:47:14",
+  "checked_at": "2026-06-11T01:42:32",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3667918d4ae0e222ad0d08681e666535b55116d87788adc2d3047d7c632756d6",
+  "hash": "af7d59b2ff830d57068ed4154236d0aa3494dd9f5009c13b29508dc21753e6d5",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/benoit-denizet-lewis-youve-changed-5a2KUm8IrhB",
-      "date": "JUNE 10, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Benoit Denizet-Lewis - You've Changed",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLiT",
       "date": "JUNE 11, 2026",
