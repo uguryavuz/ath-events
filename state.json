@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-11T19:47:59",
+  "checked_at": "2026-06-11T22:18:04",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9bb8ba7693f783002cf1550bb265fb2cf488bf04a3d304960be9ebc07fcd096a",
+  "hash": "acbe8c34bff61de7d5f5e6aa76cd5bb3d212add5b63dc9f3bd39133972b83545",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLiT",
-      "date": "JUNE 11, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/pajama-story-time-5a2KUm9ahdx",
       "date": "JUNE 11, 2026",
