@@ -2,7 +2,7 @@
 
 - JUNE 11 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
-- JUNE 12 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JUNE 12 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 13 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 13 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -45,7 +45,6 @@
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- Art & Architecture Tour
-- JULY 29 (Wed) 5:30 PM ET -- Art & Architecture Tour
 - JULY 30 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 31 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
