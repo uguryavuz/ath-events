@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 11 (Thu) 6:30 PM ET -- Pajama Story Time (Children's/Family)
 - JUNE 12 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 13 (Sat) 12:00 PM ET -- Art & Architecture Tour

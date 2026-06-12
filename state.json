@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-11T22:18:04",
+  "checked_at": "2026-06-12T01:40:47",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "acbe8c34bff61de7d5f5e6aa76cd5bb3d212add5b63dc9f3bd39133972b83545",
+  "hash": "39950be2cac625bf896c9f5b6a9366a8e977bd46c5cd95a029b8bfa53de1ed0e",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/pajama-story-time-5a2KUm9ahdx",
-      "date": "JUNE 11, 2026",
-      "time_et": "6:30 PM",
-      "status": "",
-      "event_title": "Pajama Story Time",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vW1B",
       "date": "JUNE 12, 2026",
