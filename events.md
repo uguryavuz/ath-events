@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 12 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JUNE 13 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
