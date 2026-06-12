@@ -2,7 +2,7 @@
 
 - JUNE 12 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JUNE 13 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- JUNE 13 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 13 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
