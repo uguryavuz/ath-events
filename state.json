@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-13T18:46:58",
+  "checked_at": "2026-06-13T20:41:34",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d8e890f91cb56e04c254ef82ccffb59655440039290dae23aaefa50e00a1a822",
+  "hash": "43c68d998806eab122d64e3cecfadfc36f1c4959c9bfad30621010d0fd677516",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vWcH",
-      "date": "JUNE 13, 2026",
-      "time_et": "2:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-opening-wheres-boston-50-years-later-5a2KUm94Goz",
       "date": "JUNE 15, 2026",

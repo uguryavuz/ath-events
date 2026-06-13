@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 13 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 15 (Mon) 5:30 PM ET -- [WAITLISTED] Exhibition Opening - Where's Boston? 50 Years Later (Exhibitions)
 - JUNE 16 (Tue) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
