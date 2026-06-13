@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-13T16:50:35",
+  "checked_at": "2026-06-13T18:46:58",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a124496519e5ed04927726998d71b865f233c49544aa173f2dc6525813d7a706",
+  "hash": "d8e890f91cb56e04c254ef82ccffb59655440039290dae23aaefa50e00a1a822",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vWIv",
-      "date": "JUNE 13, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vWcH",
       "date": "JUNE 13, 2026",
