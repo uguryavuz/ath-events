@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-14T15:20:06",
+  "checked_at": "2026-06-14T21:43:26",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "088a89bbf3409acee009f17a61e0a41fd72ae75f3af8d02c37353474a28c11f9",
+  "hash": "43c68d998806eab122d64e3cecfadfc36f1c4959c9bfad30621010d0fd677516",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-opening-wheres-boston-50-years-later-5a2KUm94Goz",
       "date": "JUNE 15, 2026",
       "time_et": "5:30 PM",
-      "status": "FREE",
+      "status": "WAITLISTED",
       "event_title": "Exhibition Opening - Where's Boston? 50 Years Later",
       "venue": "Boston Athenaeum",
       "keywords": [
