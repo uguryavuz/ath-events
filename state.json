@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-14T23:38:56",
+  "checked_at": "2026-06-15T18:02:53",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "088a89bbf3409acee009f17a61e0a41fd72ae75f3af8d02c37353474a28c11f9",
+  "hash": "b950efe736d1060f3ae84d4720dd657c9fd8bc05b23920f7f4e13418c427ad9c",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-opening-wheres-boston-50-years-later-5a2KUm94Goz",
       "date": "JUNE 15, 2026",
       "time_et": "5:30 PM",
-      "status": "FREE",
+      "status": "WAITLISTED",
       "event_title": "Exhibition Opening - Where's Boston? 50 Years Later",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -37,7 +37,7 @@
       "url": "https://events.bostonathenaeum.org/en/eric-moskowitz-the-hardest-longest-race-5a2KUm9ISVJ",
       "date": "JUNE 17, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Eric Moskowitz - The Hardest, Longest Race",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -157,8 +157,17 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wKZ3",
       "date": "JUNE 30, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/songs-and-stories-for-americas-250th-5a2KUmA8e49",
+      "date": "JULY 1, 2026",
+      "time_et": "10:30 AM",
+      "status": "",
+      "event_title": "Songs and Stories for America’s 250th",
       "venue": "Boston Athenaeum",
       "keywords": []
     },
@@ -168,6 +177,15 @@
       "time_et": "12:00 PM",
       "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/curators-in-conversation-declarations-trail-5a2KUm9XHL3",
+      "date": "JULY 1, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "Curators in Conversation: Declarations Trail",
       "venue": "Boston Athenaeum",
       "keywords": []
     },
@@ -266,6 +284,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/julie-carrick-dalton-the-forest-becomes-her-5a2KUm8em1J",
+      "date": "JULY 15, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Julie Carrick Dalton - The Forest Becomes Her",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANCVl",
       "date": "JULY 16, 2026",
       "time_et": "12:00 PM",
@@ -304,6 +333,15 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/dinosaur-dance-5a2KUmA8f1p",
+      "date": "JULY 18, 2026",
+      "time_et": "2:00 PM",
+      "status": "",
+      "event_title": "Dinosaur Dance",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgf7",
       "date": "JULY 20, 2026",
       "time_et": "12:00 PM",
@@ -311,6 +349,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/authors-in-conversation-jayne-anne-phillips-and-jessica-brilliant-keener-5a2KUmAAleD",
+      "date": "JULY 21, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
@@ -329,6 +378,17 @@
       "event_title": "Canceled: Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/christin-geall-flora-culture-how-flowers-shape-our-world-5a2KUm8kDSH",
+      "date": "JULY 22, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Christin Geall - Flora Culture: How Flowers Shape Our World",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgnB",
@@ -378,6 +438,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
+      "date": "JULY 28, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhHp",
       "date": "JULY 30, 2026",
       "time_et": "3:00 PM",
@@ -385,6 +456,18 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
+      "date": "JULY 30, 2026",
+      "time_et": "6:30 PM",
+      "status": "WAITLISTED",
+      "event_title": "Martini Movie Night - The Parent Trap (1961)",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Social",
+        "Member Exclusive"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhMf",
