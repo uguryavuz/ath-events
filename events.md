@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 16 (Tue) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 17 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 17 (Wed) 6:00 PM ET -- Eric Moskowitz - The Hardest, Longest Race (Author Talk)
 - JUNE 18 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
