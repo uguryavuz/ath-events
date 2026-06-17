@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-17T21:24:02",
+  "checked_at": "2026-06-17T23:51:51",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "124f7c8d8f3a54bf5a04c765081583fc86fd360fa3fe32375aa15f1903fb9ded",
+  "hash": "d938f92d11697384fc762981450da3c3ce89705cf1a99c9f018d3b35ad58e929",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/eric-moskowitz-the-hardest-longest-race-5a2KUm9ISVJ",
-      "date": "JUNE 17, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Eric Moskowitz - The Hardest, Longest Race",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vLov",
       "date": "JUNE 18, 2026",
