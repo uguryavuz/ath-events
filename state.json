@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-17T16:07:23",
+  "checked_at": "2026-06-17T18:36:22",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "44cbda8103cb64825b1900b5bd5351731eed80fde5a29b5ba66103d565fc2baf",
+  "hash": "fe143632461dd49dcd331c20eae2a101e8a4866a34331e0752cab82695265f02",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vXID",
-      "date": "JUNE 17, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/eric-moskowitz-the-hardest-longest-race-5a2KUm9ISVJ",
       "date": "JUNE 17, 2026",
@@ -77,7 +68,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vM8H",
       "date": "JUNE 24, 2026",
       "time_et": "12:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -182,7 +173,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAMKrx",
       "date": "JULY 6, 2026",
       "time_et": "5:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
