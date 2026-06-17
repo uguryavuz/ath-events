@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- JUNE 17 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JUNE 17 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 17 (Wed) 6:00 PM ET -- Eric Moskowitz - The Hardest, Longest Race (Author Talk)
 - JUNE 18 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 20 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -48,3 +48,6 @@
 - JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
