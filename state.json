@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-18T23:32:30",
+  "checked_at": "2026-06-19T16:15:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1eeb56858b5885f3e05eedeaab27114bcfb8880c3a277ac04e61453ff5725c9d",
+  "hash": "03fabfd003ab2b62dc333134c587ee6cc57cf215c9b8e94cc33ca278b3134764",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL7n7",
@@ -30,7 +30,7 @@
       "url": "https://events.bostonathenaeum.org/en/street-photography-seeing-waiting-becoming-invisible-with-lou-jones-5a2KUm9IYnd",
       "date": "JUNE 22, 2026",
       "time_et": "6:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -144,7 +144,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAMKTl",
       "date": "JULY 2, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
