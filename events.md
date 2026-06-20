@@ -1,7 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 20 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JUNE 20 (Sat) 11:00 AM ET -- Pride Story Time (Children's/Family)
 - JUNE 22 (Mon) 6:30 PM ET -- Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
 - JUNE 23 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour

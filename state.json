@@ -1,31 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-20T14:33:44",
+  "checked_at": "2026-06-20T16:53:53",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d135ad1639500a97d148fb5e8c8c452d1d7f98077a8748a6da540791fcfc0a16",
+  "hash": "de8148bc14b70795eccd47db41d9cf850c06a37e0408d3396630e4095faff9f9",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL7n7",
-      "date": "JUNE 20, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/pride-story-time-5a2KUm9ai0X",
-      "date": "JUNE 20, 2026",
-      "time_et": "11:00 AM",
-      "status": "",
-      "event_title": "Pride Story Time",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/street-photography-seeing-waiting-becoming-invisible-with-lou-jones-5a2KUm9IYnd",
       "date": "JUNE 22, 2026",
