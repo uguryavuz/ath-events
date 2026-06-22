@@ -2,7 +2,7 @@
 
 - JUNE 22 (Mon) 6:30 PM ET -- Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
 - JUNE 23 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JUNE 24 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JUNE 24 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 27 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -13,7 +13,7 @@
 - JULY 1 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 1 (Wed) 6:00 PM ET -- [WAITLISTED] Curators in Conversation: Declarations Trail
 - JULY 2 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JULY 6 (Mon) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 6 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 9 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - JULY 10 (Fri) 12:00 PM ET -- Art & Architecture Tour
