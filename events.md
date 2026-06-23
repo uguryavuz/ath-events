@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 22 (Mon) 6:30 PM ET -- Street Photography: Seeing, Waiting, Becoming Invisible with Lou Jones
 - JUNE 23 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
