@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-23T01:25:18",
+  "checked_at": "2026-06-23T16:43:55",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "82eb859810bea3bed84a88f880656de2764af16262bc5390b740d69630026a2c",
+  "hash": "5f3b9c2759b0a8bdc668d472891273641f8324a68c16942e016b723d95043a6e",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vSLm",
@@ -128,10 +128,21 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgrlJ",
+      "date": "JULY 6, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "New Catalog Office Hours",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBWT",
       "date": "JULY 9, 2026",
       "time_et": "3:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -186,6 +197,17 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgsMP",
+      "date": "JULY 11, 2026",
+      "time_et": "2:00 PM",
+      "status": "",
+      "event_title": "New Catalog Office Hours",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANC17",
       "date": "JULY 13, 2026",
       "time_et": "3:00 PM",
@@ -212,6 +234,17 @@
       "venue": "Boston Athenaeum",
       "keywords": [
         "Author Talk"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgsZJ",
+      "date": "JULY 16, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "New Catalog Office Hours",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
       ]
     },
     {
