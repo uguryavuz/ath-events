@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-23T16:43:55",
+  "checked_at": "2026-06-23T19:20:31",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "5f3b9c2759b0a8bdc668d472891273641f8324a68c16942e016b723d95043a6e",
+  "hash": "8b459a9590b298e7f6db4340f47850edaf81b9bce784f57376296105384dd926",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vSLm",
@@ -129,7 +129,7 @@
     },
     {
       "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgrlJ",
-      "date": "JULY 6, 2026",
+      "date": "JULY 7, 2026",
       "time_et": "5:30 PM",
       "status": "",
       "event_title": "New Catalog Office Hours",

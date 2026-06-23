@@ -13,7 +13,7 @@
 - JULY 1 (Wed) 6:00 PM ET -- [WAITLISTED] Curators in Conversation: Declarations Trail
 - JULY 2 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 6 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JULY 6 (Mon) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
+- JULY 7 (Tue) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 9 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - JULY 10 (Fri) 12:00 PM ET -- Art & Architecture Tour
