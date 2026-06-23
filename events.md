@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 23 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 24 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
