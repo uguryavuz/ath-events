@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JUNE 24 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JUNE 24 (Wed) 6:00 PM ET -- Eric Jay Dolin - The Wreck of the Mentor (Author Talk)
 - JUNE 26 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JUNE 27 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -27,7 +26,7 @@
 - JULY 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - JULY 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - JULY 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JULY 18 (Sat) 12:30 PM ET -- Art & Architecture Tour
+- JULY 18 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 18 (Sat) 2:00 PM ET -- Dinosaur Dance
 - JULY 20 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - JULY 21 (Tue) 6:00 PM ET -- Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener (Author Talk)
