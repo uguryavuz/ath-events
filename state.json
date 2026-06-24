@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-24T21:48:51",
+  "checked_at": "2026-06-24T23:35:48",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f8652e006f020a36f61377e37846cadaede4c432eccdaf0b500a0e5b91e3c53f",
+  "hash": "019c150bc09cfd6ae8fd05b24fe5bbbbe630efa987969af2aa7b7193b7f19c87",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/eric-jay-dolin-the-wreck-of-the-mentor-5a2KUm8gqaH",
-      "date": "JUNE 24, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Eric Jay Dolin - The Wreck of the Mentor",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vYRB",
       "date": "JUNE 26, 2026",
