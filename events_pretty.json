@@ -61,7 +61,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAMK8n",
     "date": "JULY 1, 2026",
     "time_et": "12:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -105,6 +105,15 @@
     ]
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwCT",
+    "date": "JULY 9, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Exhibition Tour - Where's Boston? 50 Years Later",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBWT",
     "date": "JULY 9, 2026",
     "time_et": "3:00 PM",
@@ -128,7 +137,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBeX",
     "date": "JULY 10, 2026",
     "time_et": "12:00 PM",
-    "status": "",
+    "status": "WAITLISTED",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -406,6 +415,15 @@
     "time_et": "12:00 PM",
     "status": "",
     "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwXR",
+    "date": "AUGUST 13, 2026",
+    "time_et": "2:00 PM",
+    "status": "FREE",
+    "event_title": "Exhibition Tour - Where's Boston? 50 Years Later",
     "venue": "Boston Athenaeum",
     "keywords": []
   },
