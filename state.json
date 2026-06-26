@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-25T18:27:45",
+  "checked_at": "2026-06-26T19:07:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a23dedb388577b2404eaaf82da667932650ae9cdf7ce35c301dfd234d07394e6",
+  "hash": "e3bf75db1aeadb4af3c15fcfc6f46e2cfee23836023ab468a22f53e33c3c4956",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9vYRB",
-      "date": "JUNE 26, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL84r",
       "date": "JUNE 27, 2026",
