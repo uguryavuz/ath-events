@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-27T16:33:52",
+  "checked_at": "2026-06-27T18:37:05",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e8ef7f6ca4c4a9e38b42497e3225858eed8d6a19ec679f085c91e62926fdc15b",
+  "hash": "f6fa59093e9c7fa1c39ad8f205e5df1a716935df1c4932c54d7cede105299310",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wK7d",
-      "date": "JUNE 27, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/lorna-gibson-birds-up-close-5a2KUm7vlEH",
       "date": "JUNE 29, 2026",
