@@ -36,7 +36,7 @@
 - JULY 23 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 24 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JULY 25 (Sat) 12:30 PM ET -- Art & Architecture Tour
+- JULY 25 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - JULY 28 (Tue) 6:00 PM ET -- [WAITLISTED] Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- Art & Architecture Tour
