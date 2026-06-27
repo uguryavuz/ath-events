@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-27T14:56:32",
+  "checked_at": "2026-06-27T16:33:52",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f53f715a85627a7aa3499a8752dab513069f7f81d85ddcd7d3249c2c5893add4",
+  "hash": "e8ef7f6ca4c4a9e38b42497e3225858eed8d6a19ec679f085c91e62926fdc15b",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAL84r",
-      "date": "JUNE 27, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wK7d",
       "date": "JUNE 27, 2026",
