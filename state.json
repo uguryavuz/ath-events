@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-27T18:37:05",
+  "checked_at": "2026-06-28T22:17:04",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f6fa59093e9c7fa1c39ad8f205e5df1a716935df1c4932c54d7cede105299310",
+  "hash": "f8ddc27afcb57191c7afcf030724ab54b6cfb4dea747e8fbe0a9be89195298d7",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/lorna-gibson-birds-up-close-5a2KUm7vlEH",
@@ -46,7 +46,7 @@
       "url": "https://events.bostonathenaeum.org/en/curators-in-conversation-declarations-trail-5a2KUm9XHL3",
       "date": "JULY 1, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Curators in Conversation: Declarations Trail",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -357,7 +357,7 @@
       "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
       "date": "JULY 28, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner",
       "venue": "Boston Athenaeum",
       "keywords": [

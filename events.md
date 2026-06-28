@@ -4,7 +4,7 @@
 - JUNE 30 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 1 (Wed) 10:30 AM ET -- Songs and Stories for America’s 250th
 - JULY 1 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JULY 1 (Wed) 6:00 PM ET -- [WAITLISTED] Curators in Conversation: Declarations Trail
+- JULY 1 (Wed) 6:00 PM ET -- Curators in Conversation: Declarations Trail
 - JULY 2 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 6 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 7 (Tue) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
@@ -36,7 +36,7 @@
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- Art & Architecture Tour
-- JULY 28 (Tue) 6:00 PM ET -- [WAITLISTED] Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Author Talk)
+- JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- Art & Architecture Tour
