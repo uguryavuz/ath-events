@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-28T22:17:04",
+  "checked_at": "2026-06-28T23:34:20",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f8ddc27afcb57191c7afcf030724ab54b6cfb4dea747e8fbe0a9be89195298d7",
+  "hash": "7aa66295ed57d74332cf372c58d481c6a5409ebf9206283998e9866314e1b289",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/lorna-gibson-birds-up-close-5a2KUm7vlEH",
@@ -46,7 +46,7 @@
       "url": "https://events.bostonathenaeum.org/en/curators-in-conversation-declarations-trail-5a2KUm9XHL3",
       "date": "JULY 1, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Curators in Conversation: Declarations Trail",
       "venue": "Boston Athenaeum",
       "keywords": []
