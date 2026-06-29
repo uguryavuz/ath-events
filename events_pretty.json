@@ -3,7 +3,7 @@
     "url": "https://events.bostonathenaeum.org/en/lorna-gibson-birds-up-close-5a2KUm7vlEH",
     "date": "JUNE 29, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Lorna Gibson - Birds Up Close",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -41,7 +41,7 @@
     "url": "https://events.bostonathenaeum.org/en/curators-in-conversation-declarations-trail-5a2KUm9XHL3",
     "date": "JULY 1, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Curators in Conversation: Declarations Trail",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -309,137 +309,5 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgtd",
-    "date": "JULY 24, 2026",
-    "time_et": "12:00 PM",
-    "status": "",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmAQxEn",
-    "date": "JULY 25, 2026",
-    "time_et": "11:00 AM",
-    "status": "FREE",
-    "event_title": "Library Orientation Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Member Exclusive"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgwr",
-    "date": "JULY 25, 2026",
-    "time_et": "12:30 PM",
-    "status": "WAITLISTED",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgyT",
-    "date": "JULY 27, 2026",
-    "time_et": "3:00 PM",
-    "status": "",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
-    "date": "JULY 28, 2026",
-    "time_et": "6:00 PM",
-    "status": "",
-    "event_title": "Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Author Talk"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhHp",
-    "date": "JULY 30, 2026",
-    "time_et": "3:00 PM",
-    "status": "",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
-    "date": "JULY 30, 2026",
-    "time_et": "6:30 PM",
-    "status": "SOLD OUT",
-    "event_title": "Martini Movie Night - The Parent Trap (1961)",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Social",
-      "Member Exclusive"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhMf",
-    "date": "JULY 31, 2026",
-    "time_et": "12:00 PM",
-    "status": "",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwXR",
-    "date": "AUGUST 13, 2026",
-    "time_et": "2:00 PM",
-    "status": "FREE",
-    "event_title": "Exhibition Tour - Where's Boston? 50 Years Later",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGEkP",
-    "date": "AUGUST 13, 2026",
-    "time_et": "9:00 AM",
-    "status": "",
-    "event_title": "Discovery Days at the Boston Athenaeum",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
-    "date": "OCTOBER 12, 2026",
-    "time_et": "9:00 AM",
-    "status": "",
-    "event_title": "Discovery Days at the Boston Athenaeum",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGGnp",
-    "date": "NOVEMBER 3, 2026",
-    "time_et": "9:00 AM",
-    "status": "",
-    "event_title": "Discovery Days at the Boston Athenaeum",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAH2qr",
-    "date": "NOVEMBER 27, 2026",
-    "time_et": "9:00 AM",
-    "status": "",
-    "event_title": "Discovery Days at the Boston Athenaeum",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
   }
 ]
