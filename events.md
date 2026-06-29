@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- JUNE 29 (Mon) 6:00 PM ET -- Lorna Gibson - Birds Up Close (Author Talk)
+- JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 1 (Wed) 10:30 AM ET -- Songs and Stories for America’s 250th
 - JULY 1 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -38,7 +38,7 @@
 - JULY 27 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- Art & Architecture Tour
-- JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
+- JULY 30 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 13 (Thu) 2:00 PM ET -- [FREE] Exhibition Tour - Where's Boston? 50 Years Later
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

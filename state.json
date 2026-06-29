@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-29T14:29:36",
+  "checked_at": "2026-06-29T17:49:08",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f3324506a356682ba2ad291fb38cee91a7b601d295a5663233d0185fbc8c4286",
+  "hash": "ca49419d84ec369a92e3be847d1ce16d5f9440591cec85649b16f1e3b666aa42",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/lorna-gibson-birds-up-close-5a2KUm7vlEH",
       "date": "JUNE 29, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Lorna Gibson - Birds Up Close",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -377,7 +377,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
       "date": "JULY 30, 2026",
       "time_et": "6:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Martini Movie Night - The Parent Trap (1961)",
       "venue": "Boston Athenaeum",
       "keywords": [
