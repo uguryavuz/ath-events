@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-28T23:34:20",
+  "checked_at": "2026-06-29T14:29:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7aa66295ed57d74332cf372c58d481c6a5409ebf9206283998e9866314e1b289",
+  "hash": "f3324506a356682ba2ad291fb38cee91a7b601d295a5663233d0185fbc8c4286",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/lorna-gibson-birds-up-close-5a2KUm7vlEH",
       "date": "JUNE 29, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Lorna Gibson - Birds Up Close",
       "venue": "Boston Athenaeum",
       "keywords": [

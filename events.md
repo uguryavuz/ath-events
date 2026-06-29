@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- JUNE 29 (Mon) 6:00 PM ET -- [WAITLISTED] Lorna Gibson - Birds Up Close (Author Talk)
+- JUNE 29 (Mon) 6:00 PM ET -- Lorna Gibson - Birds Up Close (Author Talk)
 - JUNE 30 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 1 (Wed) 10:30 AM ET -- Songs and Stories for America’s 250th
 - JULY 1 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
