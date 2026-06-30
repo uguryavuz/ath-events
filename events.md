@@ -1,10 +1,10 @@
 # Boston Athenaeum events
 
-- JUNE 30 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JUNE 30 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 1 (Wed) 10:30 AM ET -- Songs and Stories for America’s 250th
 - JULY 1 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 1 (Wed) 6:00 PM ET -- Curators in Conversation: Declarations Trail
-- JULY 2 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 2 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 6 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 7 (Tue) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 9 (Thu) 11:00 AM ET -- [FREE] Exhibition Tour - Where's Boston? 50 Years Later
@@ -15,7 +15,7 @@
 - JULY 11 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 11 (Sat) 2:00 PM ET -- [WAITLISTED] Athena at the Athenaeum
 - JULY 11 (Sat) 2:00 PM ET -- New Catalog Office Hours (Member Exclusive)
-- JULY 13 (Mon) 3:00 PM ET -- Art & Architecture Tour
+- JULY 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 14 (Tue) 3:00 PM ET -- Art & Architecture Tour
 - JULY 15 (Wed) 6:00 PM ET -- Julie Carrick Dalton - The Forest Becomes Her (Author Talk)
 - JULY 16 (Thu) 11:00 AM ET -- New Catalog Office Hours (Member Exclusive)
