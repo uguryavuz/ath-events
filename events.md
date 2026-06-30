@@ -29,7 +29,7 @@
 - JULY 21 (Tue) 6:00 PM ET -- Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener (Author Talk)
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
 - JULY 22 (Wed) 12:00 PM ET -- Canceled: Art & Architecture Tour
-- JULY 22 (Wed) 6:00 PM ET -- Christin Geall - Flora Culture: How Flowers Shape Our World (Author Talk)
+- JULY 22 (Wed) 6:00 PM ET -- Christin Geall - Flora Culture: How Flowers Shape Our World (Lecture)
 - JULY 23 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 24 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)

@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-30T19:12:15",
+  "checked_at": "2026-06-30T21:07:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1245f1d6f7eb39641447a33d00a561731348f46dd6973bd03b2bf7f8595dfa44",
+  "hash": "95208a5c4b48bea7d2b937598428cca20fee358df0ccbe98d2ba166af7ceff12",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wKZ3",
@@ -292,7 +292,7 @@
       "event_title": "Christin Geall - Flora Culture: How Flowers Shape Our World",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Author Talk"
+        "Lecture"
       ]
     },
     {
