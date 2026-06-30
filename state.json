@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-30T21:07:36",
+  "checked_at": "2026-06-30T22:42:53",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "95208a5c4b48bea7d2b937598428cca20fee358df0ccbe98d2ba166af7ceff12",
+  "hash": "f92b5ffddedbb4c1d891d54e908737745e810adb0d959589c7ad375516d5bf7c",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUm9wKZ3",
-      "date": "JUNE 30, 2026",
-      "time_et": "5:30 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/songs-and-stories-for-americas-250th-5a2KUmA8e49",
       "date": "JULY 1, 2026",
@@ -173,7 +164,7 @@
       "event_title": "Julie Carrick Dalton - The Forest Becomes Her",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Author Talk"
+        "Lecture"
       ]
     },
     {
@@ -263,7 +254,7 @@
       "event_title": "Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Author Talk"
+        "Lecture"
       ]
     },
     {
@@ -350,7 +341,7 @@
       "event_title": "Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Author Talk"
+        "Lecture"
       ]
     },
     {
