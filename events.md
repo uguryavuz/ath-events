@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 1 (Wed) 10:30 AM ET -- Songs and Stories for America’s 250th
 - JULY 1 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 1 (Wed) 6:00 PM ET -- Curators in Conversation: Declarations Trail
 - JULY 2 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
