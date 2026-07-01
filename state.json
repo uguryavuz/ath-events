@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-01T06:46:35",
+  "checked_at": "2026-07-01T13:41:25",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "37e190c7a9ffba5cdbdbcf43496f7f67db1281c825b3e74ec6028afc75025b57",
+  "hash": "4710db2665ab69ed7c316dc0e407dab050839ae5c0a58fb2599a6aa38fc3b63a",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/songs-and-stories-for-americas-250th-5a2KUmA8e49",
@@ -164,7 +164,8 @@
       "event_title": "Julie Carrick Dalton - The Forest Becomes Her",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Lecture"
+        "Lecture",
+        "Author Talk"
       ]
     },
     {
@@ -186,18 +187,6 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/camp-10%C2%BD-5a2KUm7vk0T",
-      "date": "JULY 16, 2026",
-      "time_et": "5:30 PM",
-      "status": "$40.00",
-      "event_title": "Camp 10½",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive",
-        "Social"
-      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgbt",
@@ -254,7 +243,8 @@
       "event_title": "Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Lecture"
+        "Lecture",
+        "Author Talk"
       ]
     },
     {
@@ -283,7 +273,8 @@
       "event_title": "Christin Geall - Flora Culture: How Flowers Shape Our World",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Lecture"
+        "Lecture",
+        "Author Talk"
       ]
     },
     {
@@ -341,7 +332,8 @@
       "event_title": "Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner",
       "venue": "Boston Athenaeum",
       "keywords": [
-        "Lecture"
+        "Lecture",
+        "Author Talk"
       ]
     },
     {

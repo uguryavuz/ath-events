@@ -16,25 +16,24 @@
 - JULY 11 (Sat) 2:00 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 14 (Tue) 3:00 PM ET -- Art & Architecture Tour
-- JULY 15 (Wed) 6:00 PM ET -- Julie Carrick Dalton - The Forest Becomes Her (Lecture)
+- JULY 15 (Wed) 6:00 PM ET -- Julie Carrick Dalton - The Forest Becomes Her (Lecture, Author Talk)
 - JULY 16 (Thu) 11:00 AM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
-- JULY 16 (Thu) 5:30 PM ET -- [$40.00] Camp 10½ (Member Exclusive, Social)
 - JULY 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
 - JULY 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 18 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 18 (Sat) 2:00 PM ET -- Dinosaur Dance
 - JULY 20 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JULY 21 (Tue) 6:00 PM ET -- Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener (Lecture)
+- JULY 21 (Tue) 6:00 PM ET -- Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener (Lecture, Author Talk)
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
 - JULY 22 (Wed) 12:00 PM ET -- Canceled: Art & Architecture Tour
-- JULY 22 (Wed) 6:00 PM ET -- Christin Geall - Flora Culture: How Flowers Shape Our World (Lecture)
+- JULY 22 (Wed) 6:00 PM ET -- Christin Geall - Flora Culture: How Flowers Shape Our World (Lecture, Author Talk)
 - JULY 23 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 24 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- Art & Architecture Tour
-- JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture)
+- JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture, Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- Art & Architecture Tour
