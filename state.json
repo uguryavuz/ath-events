@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-01T16:41:14",
+  "checked_at": "2026-07-01T19:13:21",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "5d910c6b3347bf6f4569a86c0d715b4fcc1cc42ec2c78c30e5a66921f94bf5a9",
+  "hash": "73775744c962150c798339f943452260c9865652591c4b4e56b943574e695dab",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAMK8n",
-      "date": "JULY 1, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/curators-in-conversation-declarations-trail-5a2KUm9XHL3",
       "date": "JULY 1, 2026",
