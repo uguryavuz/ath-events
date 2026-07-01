@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-06-30T22:42:53",
+  "checked_at": "2026-07-01T06:46:35",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f92b5ffddedbb4c1d891d54e908737745e810adb0d959589c7ad375516d5bf7c",
+  "hash": "37e190c7a9ffba5cdbdbcf43496f7f67db1281c825b3e74ec6028afc75025b57",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/songs-and-stories-for-americas-250th-5a2KUmA8e49",
@@ -319,7 +319,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgwr",
       "date": "JULY 25, 2026",
       "time_et": "12:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
