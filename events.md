@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 1 (Wed) 6:00 PM ET -- Curators in Conversation: Declarations Trail
 - JULY 2 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 6 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 7 (Tue) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
