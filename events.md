@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 2 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 6 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 7 (Tue) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 9 (Thu) 11:00 AM ET -- [FREE] Exhibition Tour - Where's Boston? 50 Years Later
@@ -26,7 +25,7 @@
 - JULY 22 (Wed) 12:00 PM ET -- Canceled: Art & Architecture Tour
 - JULY 22 (Wed) 6:00 PM ET -- Christin Geall - Flora Culture: How Flowers Shape Our World (Lecture, Author Talk)
 - JULY 23 (Thu) 3:00 PM ET -- Art & Architecture Tour
-- JULY 24 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- JULY 24 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- Art & Architecture Tour
