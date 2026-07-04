@@ -15,7 +15,7 @@
 - JULY 15 (Wed) 6:00 PM ET -- Julie Carrick Dalton - The Forest Becomes Her (Lecture, Author Talk)
 - JULY 16 (Thu) 11:00 AM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
-- JULY 17 (Fri) 3:00 PM ET -- Art & Architecture Tour
+- JULY 17 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 18 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 18 (Sat) 2:00 PM ET -- Dinosaur Dance
@@ -32,7 +32,7 @@
 - JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture, Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
-- JULY 31 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- JULY 31 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 13 (Thu) 2:00 PM ET -- [FREE] Exhibition Tour - Where's Boston? 50 Years Later
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
