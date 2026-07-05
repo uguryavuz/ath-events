@@ -2,7 +2,7 @@
 
 - JULY 6 (Mon) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 7 (Tue) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
-- JULY 9 (Thu) 11:00 AM ET -- [FREE] Exhibition Tour - Where's Boston? 50 Years Later
+- JULY 9 (Thu) 11:00 AM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - JULY 9 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - JULY 10 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
