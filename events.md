@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 6 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 7 (Tue) 5:30 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 9 (Thu) 11:00 AM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - JULY 9 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
