@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-06T22:40:13",
+  "checked_at": "2026-07-07T05:09:42",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e1d262191bca8d1fbdd229771e80884171c3026da602936f077042880ce9d330",
+  "hash": "f8effb3df374066106cdab41c52a0d4104d7e62fe4d68f657ebe83dd998affa3",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgrlJ",
@@ -68,7 +68,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBrR",
       "date": "JULY 11, 2026",
       "time_et": "12:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []

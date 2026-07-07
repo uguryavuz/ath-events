@@ -6,7 +6,7 @@
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - JULY 10 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JULY 11 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 11 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 11 (Sat) 2:00 PM ET -- [WAITLISTED] Athena at the Athenaeum
 - JULY 11 (Sat) 2:00 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 13 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
