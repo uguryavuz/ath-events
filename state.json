@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-07T20:58:54",
+  "checked_at": "2026-07-08T00:14:28",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "dcd54b1f717e7a08a4784e7793ed450980aa9c184febe784e2959cdd228d899f",
+  "hash": "6bdc420fa4a95964bc997545f2e4a8c16bf97cf3153510678a4679dfb1d428ab",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgrlJ",
-      "date": "JULY 7, 2026",
-      "time_et": "5:30 PM",
-      "status": "",
-      "event_title": "New Catalog Office Hours",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwCT",
       "date": "JULY 9, 2026",
