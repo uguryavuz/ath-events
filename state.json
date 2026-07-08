@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-08T00:14:28",
+  "checked_at": "2026-07-08T03:49:53",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6bdc420fa4a95964bc997545f2e4a8c16bf97cf3153510678a4679dfb1d428ab",
+  "hash": "e030b447a6b863b8e7ffa1067923344019a145668c115e4ccfe66236348d6513",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwCT",
@@ -263,7 +263,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgyT",
       "date": "JULY 27, 2026",
       "time_et": "3:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
