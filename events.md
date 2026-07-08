@@ -3,7 +3,7 @@
 - JULY 9 (Thu) 11:00 AM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - JULY 9 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- JULY 10 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 10 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 11 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 11 (Sat) 2:00 PM ET -- [WAITLISTED] Athena at the Athenaeum
@@ -32,3 +32,30 @@
 - JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 1 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 1 (Sat) 2:00 PM ET -- Art & Architecture Tour
+- AUGUST 3 (Mon) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 4 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 6 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- AUGUST 7 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 8 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 10 (Mon) 3:00 PM ET -- Art & Architecture Tour
+- AUGUST 11 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 12 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 13 (Thu) 2:00 PM ET -- [FREE] Exhibition Tour - Where's Boston? 50 Years Later
+- AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- AUGUST 14 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 15 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 17 (Mon) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 18 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 20 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 21 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 22 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
+- AUGUST 25 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 31 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
