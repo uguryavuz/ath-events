@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 9 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 9 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - JULY 10 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -19,7 +18,6 @@
 - JULY 20 (Mon) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 21 (Tue) 6:00 PM ET -- Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener (Lecture, Author Talk)
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
-- JULY 22 (Wed) 12:00 PM ET -- Canceled: Art & Architecture Tour
 - JULY 22 (Wed) 6:00 PM ET -- Christin Geall - Flora Culture: How Flowers Shape Our World (Lecture, Author Talk)
 - JULY 23 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 24 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
