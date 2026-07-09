@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-09T20:07:37",
+  "checked_at": "2026-07-09T23:39:22",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ff974ee244d4d5eb30f040073ec10a8c6f092e46542a07dfc9e5f5eceb09ae20",
+  "hash": "9e884518ddb17720682e64324e92ec3d6e6468e6e993c37c071505427eac453d",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAG4I1",
-      "date": "JULY 9, 2026",
-      "time_et": "9:00 AM",
-      "status": "",
-      "event_title": "Discovery Days at the Boston Athenaeum",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBeX",
       "date": "JULY 10, 2026",
