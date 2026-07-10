@@ -48,3 +48,10 @@
 - AUGUST 22 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 25 (Tue) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 31 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
