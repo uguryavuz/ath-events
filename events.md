@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 10 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 11 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 11 (Sat) 2:00 PM ET -- [WAITLISTED] Athena at the Athenaeum
