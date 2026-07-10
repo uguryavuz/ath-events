@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-10T04:18:10",
+  "checked_at": "2026-07-10T12:09:09",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "46511a78eb3fb44174ae225603a2df9880404fd033f4482976f13d857623226a",
+  "hash": "fb542fc0f9e6fef6c5c3bbc073c6c07228c9554876884dee606a8723ef09f0c8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBeX",
@@ -28,7 +28,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANBrR",
       "date": "JULY 11, 2026",
       "time_et": "12:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -462,75 +462,6 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr72P",
-      "date": "AUGUST 27, 2026",
-      "time_et": "3:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2An",
-      "date": "AUGUST 28, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2SX",
-      "date": "AUGUST 29, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqx6J",
-      "date": "AUGUST 31, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
-      "date": "OCTOBER 12, 2026",
-      "time_et": "9:00 AM",
-      "status": "",
-      "event_title": "Discovery Days at the Boston Athenaeum",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGGnp",
-      "date": "NOVEMBER 3, 2026",
-      "time_et": "9:00 AM",
-      "status": "",
-      "event_title": "Discovery Days at the Boston Athenaeum",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAH2qr",
-      "date": "NOVEMBER 27, 2026",
-      "time_et": "9:00 AM",
-      "status": "",
-      "event_title": "Discovery Days at the Boston Athenaeum",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
     }
   ]
 }

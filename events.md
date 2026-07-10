@@ -2,7 +2,7 @@
 
 - JULY 10 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 11 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JULY 11 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JULY 11 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 11 (Sat) 2:00 PM ET -- [WAITLISTED] Athena at the Athenaeum
 - JULY 11 (Sat) 2:00 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 13 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -48,10 +48,3 @@
 - AUGUST 22 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 25 (Tue) 5:30 PM ET -- Art & Architecture Tour
-- AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
-- AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
-- AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
-- AUGUST 31 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
