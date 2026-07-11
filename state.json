@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-11T19:34:42",
+  "checked_at": "2026-07-11T21:09:05",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "74bdd09b43c11741bb50c104893ff84415e8a4d77b102f0c440cb68bbb71049d",
+  "hash": "d5aec0fd8f67d6d04867d01c0f3c3b777d00d59d4c6b8255c2b36faf125988e3",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgsMP",
-      "date": "JULY 11, 2026",
-      "time_et": "2:00 PM",
-      "status": "",
-      "event_title": "New Catalog Office Hours",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANC17",
       "date": "JULY 13, 2026",

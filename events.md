@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 11 (Sat) 2:00 PM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 13 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 14 (Tue) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 15 (Wed) 6:00 PM ET -- Julie Carrick Dalton - The Forest Becomes Her (Lecture, Author Talk)
