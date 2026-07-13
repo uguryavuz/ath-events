@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-11T21:09:05",
+  "checked_at": "2026-07-13T19:52:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d5aec0fd8f67d6d04867d01c0f3c3b777d00d59d4c6b8255c2b36faf125988e3",
+  "hash": "a8dfe70bd400c0e59f675ce440d777e529d88cdccaf704d72f3ee6e74dfe7f6f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANC17",
@@ -53,6 +53,18 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/camp-10%C2%BD-5a2KUm7vk0T",
+      "date": "JULY 16, 2026",
+      "time_et": "5:30 PM",
+      "status": "$40.00",
+      "event_title": "Camp 10½",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive",
+        "Social"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgbt",
@@ -260,6 +272,18 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
+      "date": "AUGUST 5, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "Deborah Lutz - This Dark Night: Emily Brontë, A Life",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture",
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr5bh",
       "date": "AUGUST 6, 2026",
       "time_et": "3:00 PM",
@@ -276,6 +300,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/bluey-inspired-story-time-5a2KUmAYhsn",
+      "date": "AUGUST 8, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Bluey-Inspired Story Time",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqxJB",
@@ -296,6 +331,18 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUmA8fZh",
+      "date": "AUGUST 10, 2026",
+      "time_et": "5:30 PM",
+      "status": "WAITLISTED",
+      "event_title": "Member Mixer",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Social",
+        "Member Exclusive"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr29C",
       "date": "AUGUST 11, 2026",
       "time_et": "5:30 PM",
@@ -312,6 +359,18 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
+      "date": "AUGUST 12, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Charles O’Malley & Scott W. Stern - Shakespeare's Margaret",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture",
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwXR",
@@ -370,6 +429,18 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/james-m-tabor-lightning-beneath-the-sea-5a2KUm9IaJB",
+      "date": "AUGUST 19, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "James M. Tabor - Lightning Beneath the Sea",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture",
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqwRy",
       "date": "AUGUST 20, 2026",
       "time_et": "12:00 PM",
@@ -397,6 +468,18 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAZzpF",
+      "date": "AUGUST 22, 2026",
+      "time_et": "12:00 PM",
+      "status": "SOLD OUT",
+      "event_title": "Book Binding Workshop",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive",
+        "Workshop"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr6az",
       "date": "AUGUST 24, 2026",
       "time_et": "3:00 PM",
@@ -415,6 +498,18 @@
       "keywords": []
     },
     {
+      "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
+      "date": "AUGUST 26, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Peter S. Canellos - Revenge for the Sixties",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture",
+        "Author Talk"
+      ]
+    },
+    {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr72P",
       "date": "AUGUST 27, 2026",
       "time_et": "3:00 PM",
@@ -422,6 +517,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/mini-zine-workshop-5a2KUmAYior",
+      "date": "AUGUST 27, 2026",
+      "time_et": "3:30 PM",
+      "status": "",
+      "event_title": "Mini Zine Workshop",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2An",
@@ -449,6 +555,17 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/john-a-jenkins-summer-of-71-five-months-that-changed-america-5a2KUmAn0M5",
+      "date": "AUGUST 31, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "John A. Jenkins - SUMMER OF ’71: Five Months That Changed America",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
