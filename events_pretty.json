@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANC17",
-    "date": "JULY 13, 2026",
-    "time_et": "3:00 PM",
-    "status": "SOLD OUT",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANCCP",
     "date": "JULY 14, 2026",
     "time_et": "3:00 PM",
@@ -53,7 +44,7 @@
     "url": "https://events.bostonathenaeum.org/en/camp-10%C2%BD-5a2KUm7vk0T",
     "date": "JULY 16, 2026",
     "time_et": "5:30 PM",
-    "status": "$40.00",
+    "status": "STARTS AT $40.00",
     "event_title": "Camp 10½",
     "venue": "Boston Athenaeum",
     "keywords": [
