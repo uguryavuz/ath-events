@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-13T21:14:28",
+  "checked_at": "2026-07-14T21:16:53",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9002f395acaafb7e5c9d106e6877ee294d3b7200424cff31f5ed53c76ace990d",
+  "hash": "da66834424bc5bf22a15788ebfc4a39c96df2b6f5ad257637881c005077f23fc",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANCCP",
-      "date": "JULY 14, 2026",
-      "time_et": "3:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/julie-carrick-dalton-the-forest-becomes-her-5a2KUm8em1J",
       "date": "JULY 15, 2026",
