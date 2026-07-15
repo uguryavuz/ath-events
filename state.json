@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-15T11:51:32",
+  "checked_at": "2026-07-15T21:17:09",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9a61bc093b7f22daa8e38f861be8dfae0f85c2c9a8a3196323e2af8ad8deec12",
+  "hash": "f2513dcefb8fdfa82229209cfb4075ae37af2f22f9f81dfd73b07b8968259999",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/julie-carrick-dalton-the-forest-becomes-her-5a2KUm8em1J",
@@ -120,7 +120,7 @@
       "url": "https://events.bostonathenaeum.org/en/christin-geall-flora-culture-how-flowers-shape-our-world-5a2KUm8kDSH",
       "date": "JULY 22, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Christin Geall - Flora Culture: How Flowers Shape Our World",
       "venue": "Boston Athenaeum",
       "keywords": [
