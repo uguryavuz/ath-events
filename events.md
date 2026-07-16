@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
 - JULY 16 (Thu) 11:00 AM ET -- New Catalog Office Hours (Member Exclusive)
-- JULY 16 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 16 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - JULY 16 (Thu) 5:30 PM ET -- [STARTS AT $40.00] Camp 10½ (Member Exclusive, Social)
 - JULY 17 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -22,7 +22,7 @@
 - JULY 31 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 1 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 1 (Sat) 2:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 3 (Mon) 5:30 PM ET -- Art & Architecture Tour
+- AUGUST 3 (Mon) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 4 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 5 (Wed) 6:00 PM ET -- [WAITLISTED] Deborah Lutz - This Dark Night: Emily Brontë, A Life (Lecture, Author Talk)
 - AUGUST 6 (Thu) 3:00 PM ET -- Art & Architecture Tour
