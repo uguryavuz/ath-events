@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 15 (Wed) 6:00 PM ET -- Julie Carrick Dalton - The Forest Becomes Her (Lecture, Author Talk)
 - JULY 16 (Thu) 11:00 AM ET -- New Catalog Office Hours (Member Exclusive)
 - JULY 16 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 16 (Thu) 5:30 PM ET -- [STARTS AT $40.00] Camp 10½ (Member Exclusive, Social)
