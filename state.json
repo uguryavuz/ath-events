@@ -1,29 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-16T16:44:29",
+  "checked_at": "2026-07-16T18:34:05",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a4752f0f83e43a67586100ec5be0706b4e82c904eae39bd26078a4213f84eaf8",
+  "hash": "c06d88725eb715700302b53329ef81cb4b055d95f985c8a0724547821875f66c",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/new-catalog-office-hours-5a2KUmAgsZJ",
-      "date": "JULY 16, 2026",
-      "time_et": "11:00 AM",
-      "status": "",
-      "event_title": "New Catalog Office Hours",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANCVl",
-      "date": "JULY 16, 2026",
-      "time_et": "12:00 PM",
-      "status": "",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/camp-10%C2%BD-5a2KUm7vk0T",
       "date": "JULY 16, 2026",
