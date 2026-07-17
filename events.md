@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- JULY 17 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 17 (Fri) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 18 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 18 (Sat) 2:00 PM ET -- Dinosaur Dance
