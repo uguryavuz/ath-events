@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 16 (Thu) 5:30 PM ET -- [STARTS AT $40.00] Camp 10½ (Member Exclusive, Social)
 - JULY 17 (Fri) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 18 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 18 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
