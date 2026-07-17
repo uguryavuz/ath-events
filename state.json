@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-17T14:05:50",
+  "checked_at": "2026-07-17T19:35:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d5fa7dd51231e6aa686fa06d6e1bf6aaf7aecd62b9dc3a56d80a093a3c62e192",
+  "hash": "190b1f2b366cec432cae6840e27f80dc6d05103107e6e46e81c490ba57869cf9",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgbt",
@@ -135,7 +135,7 @@
       "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
       "date": "JULY 28, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner",
       "venue": "Boston Athenaeum",
       "keywords": [
