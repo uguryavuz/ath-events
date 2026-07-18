@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-18T21:08:11",
+  "checked_at": "2026-07-18T22:09:42",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e3106c6f00506c136a30c05082a6dfddb7108446fa92063fcb4657ed7a589e64",
+  "hash": "78ac1ae85ea4704652416a5ce357f1407e968bb3fbf5a34cb70728481fd9ac1d",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgf7",
@@ -322,6 +322,279 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uwn",
+      "date": "AUGUST 15, 2026",
+      "time_et": "11:00 AM",
+      "status": "FREE",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqz01",
+      "date": "AUGUST 15, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr4vl",
+      "date": "AUGUST 17, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr58f",
+      "date": "AUGUST 18, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/james-m-tabor-lightning-beneath-the-sea-5a2KUm9IaJB",
+      "date": "AUGUST 19, 2026",
+      "time_et": "6:00 PM",
+      "status": "WAITLISTED",
+      "event_title": "James M. Tabor - Lightning Beneath the Sea",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture",
+        "Author Talk"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqwRy",
+      "date": "AUGUST 20, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqzrF",
+      "date": "AUGUST 21, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7v1d",
+      "date": "AUGUST 22, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr1uf",
+      "date": "AUGUST 22, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAZzpF",
+      "date": "AUGUST 22, 2026",
+      "time_et": "12:00 PM",
+      "status": "SOLD OUT",
+      "event_title": "Book Binding Workshop",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Member Exclusive",
+        "Workshop"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr6az",
+      "date": "AUGUST 24, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr5Jx",
+      "date": "AUGUST 25, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
+      "date": "AUGUST 26, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Peter S. Canellos - Revenge for the Sixties",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Lecture",
+        "Author Talk"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr72P",
+      "date": "AUGUST 27, 2026",
+      "time_et": "3:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/mini-zine-workshop-5a2KUmAYior",
+      "date": "AUGUST 27, 2026",
+      "time_et": "3:30 PM",
+      "status": "",
+      "event_title": "Mini Zine Workshop",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Children's/Family"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2An",
+      "date": "AUGUST 28, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vBJ",
+      "date": "AUGUST 29, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2SX",
+      "date": "AUGUST 29, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqx6J",
+      "date": "AUGUST 31, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/john-a-jenkins-summer-of-71-five-months-that-changed-america-5a2KUmAn0M5",
+      "date": "AUGUST 31, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "John A. Jenkins - SUMMER OF ’71: Five Months That Changed America",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vmP",
+      "date": "SEPTEMBER 5, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vpd",
+      "date": "SEPTEMBER 12, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vrF",
+      "date": "SEPTEMBER 19, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7niQ",
+      "date": "SEPTEMBER 26, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vxh",
+      "date": "OCTOBER 3, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
+      "date": "OCTOBER 12, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGGnp",
+      "date": "NOVEMBER 3, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAH2qr",
+      "date": "NOVEMBER 27, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
     }
   ]
 }
