@@ -1,7 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 18 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JULY 18 (Sat) 2:00 PM ET -- Dinosaur Dance
 - JULY 20 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 21 (Tue) 6:00 PM ET -- Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener (Lecture, Author Talk)
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
@@ -15,6 +13,7 @@
 - JULY 30 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- AUGUST 1 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 1 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 1 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 3 (Mon) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -23,6 +22,7 @@
 - AUGUST 6 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 7 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 8 (Sat) 11:00 AM ET -- Bluey-Inspired Story Time (Children's/Family)
+- AUGUST 8 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 8 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 10 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 10 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
@@ -32,12 +32,14 @@
 - AUGUST 13 (Thu) 2:00 PM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - AUGUST 14 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 15 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 15 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 17 (Mon) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 18 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 19 (Wed) 6:00 PM ET -- [WAITLISTED] James M. Tabor - Lightning Beneath the Sea (Lecture, Author Talk)
 - AUGUST 20 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 21 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 22 (Sat) 11:00 AM ET -- Library Orientation Tour
 - AUGUST 22 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 22 (Sat) 12:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
@@ -46,9 +48,15 @@
 - AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 29 (Sat) 11:00 AM ET -- Library Orientation Tour
 - AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 31 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 31 (Mon) 6:00 PM ET -- John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
+- SEPTEMBER 5 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 26 (Sat) 11:00 AM ET -- Library Orientation Tour
+- OCTOBER 3 (Sat) 11:00 AM ET -- Library Orientation Tour
 - OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

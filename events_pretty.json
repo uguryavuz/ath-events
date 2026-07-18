@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgdV",
-    "date": "JULY 18, 2026",
-    "time_et": "12:30 PM",
-    "status": "SOLD OUT",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/dinosaur-dance-5a2KUmA8f1p",
-    "date": "JULY 18, 2026",
-    "time_et": "2:00 PM",
-    "status": "",
-    "event_title": "Dinosaur Dance",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgf7",
     "date": "JULY 20, 2026",
     "time_et": "12:00 PM",
@@ -149,6 +131,17 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uqL",
+    "date": "AUGUST 1, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqtx7",
     "date": "AUGUST 1, 2026",
     "time_et": "12:00 PM",
@@ -223,6 +216,17 @@
     "venue": "Boston Athenaeum",
     "keywords": [
       "Children's/Family"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uvB",
+    "date": "AUGUST 8, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
     ]
   },
   {
@@ -315,6 +319,17 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uwn",
+    "date": "AUGUST 15, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqz01",
     "date": "AUGUST 15, 2026",
     "time_et": "12:00 PM",
@@ -368,6 +383,15 @@
     "time_et": "12:00 PM",
     "status": "",
     "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7v1d",
+    "date": "AUGUST 22, 2026",
+    "time_et": "11:00 AM",
+    "status": "",
+    "event_title": "Library Orientation Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
   },
@@ -452,6 +476,15 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vBJ",
+    "date": "AUGUST 29, 2026",
+    "time_et": "11:00 AM",
+    "status": "",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2SX",
     "date": "AUGUST 29, 2026",
     "time_et": "12:00 PM",
@@ -479,6 +512,51 @@
     "keywords": [
       "Author Talk"
     ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vmP",
+    "date": "SEPTEMBER 5, 2026",
+    "time_et": "11:00 AM",
+    "status": "",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vpd",
+    "date": "SEPTEMBER 12, 2026",
+    "time_et": "11:00 AM",
+    "status": "",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vrF",
+    "date": "SEPTEMBER 19, 2026",
+    "time_et": "11:00 AM",
+    "status": "",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7niQ",
+    "date": "SEPTEMBER 26, 2026",
+    "time_et": "11:00 AM",
+    "status": "",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vxh",
+    "date": "OCTOBER 3, 2026",
+    "time_et": "11:00 AM",
+    "status": "",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
   },
   {
     "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
