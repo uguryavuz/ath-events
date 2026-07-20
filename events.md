@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 20 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 21 (Tue) 6:00 PM ET -- Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener (Lecture, Author Talk)
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
 - JULY 22 (Wed) 6:00 PM ET -- Christin Geall - Flora Culture: How Flowers Shape Our World (Lecture, Author Talk)

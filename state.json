@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-20T16:02:54",
+  "checked_at": "2026-07-20T18:22:35",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "18f29ec8a3b7104a7cdb50af8c2cc406c9f1004d93e8c53bc26f3b5cd77ccf5c",
+  "hash": "9b980680275c7fe4f64df67c9dbe76764e7d74075d43690d4cfe54d3e47adbef",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgf7",
-      "date": "JULY 20, 2026",
-      "time_et": "12:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/authors-in-conversation-jayne-anne-phillips-and-jessica-brilliant-keener-5a2KUmAAleD",
       "date": "JULY 21, 2026",
