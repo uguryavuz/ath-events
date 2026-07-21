@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-21T18:43:15",
+  "checked_at": "2026-07-21T23:15:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "29e1d91bd53b0ce4e3557f080116a652a757fe40c819a80a94f5be360b2aec60",
+  "hash": "8d20f7dcbcb26673b1c6ac27fe256309c7eaf999f54a54f62a0d5c58da4f56fe",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/authors-in-conversation-jayne-anne-phillips-and-jessica-brilliant-keener-5a2KUmAAleD",
-      "date": "JULY 21, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Authors in Conversation: Jayne Anne Phillips & Jessica Brilliant Keener",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture",
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
       "date": "JULY 21, 2026",
