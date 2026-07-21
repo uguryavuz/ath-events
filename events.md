@@ -8,7 +8,7 @@
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture, Author Talk)
+- JULY 28 (Tue) 6:00 PM ET -- [WAITLISTED] Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture, Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -17,7 +17,7 @@
 - AUGUST 1 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 3 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 4 (Tue) 5:30 PM ET -- Art & Architecture Tour
-- AUGUST 5 (Wed) 6:00 PM ET -- [WAITLISTED] Deborah Lutz - This Dark Night: Emily Brontë, A Life (Lecture, Author Talk)
+- AUGUST 5 (Wed) 6:00 PM ET -- [SOLD OUT] Deborah Lutz - This Dark Night: Emily Brontë, A Life (Lecture, Author Talk)
 - AUGUST 6 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 7 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 8 (Sat) 11:00 AM ET -- Bluey-Inspired Story Time (Children's/Family)
