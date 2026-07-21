@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-21T14:26:12",
+  "checked_at": "2026-07-21T16:45:17",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "0d24f1fba27bbe477861c0179e06716958978e15649e702115f6eb0aadd2db3a",
+  "hash": "0404dd68f3cdf68d94970275a09abb5f448040433dda6ed1242bea8fe866d4a3",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/authors-in-conversation-jayne-anne-phillips-and-jessica-brilliant-keener-5a2KUmAAleD",
@@ -88,7 +88,7 @@
       "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
       "date": "JULY 28, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner",
       "venue": "Boston Athenaeum",
       "keywords": [
