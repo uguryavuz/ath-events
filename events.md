@@ -7,7 +7,7 @@
 - JULY 24 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- JULY 27 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 27 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture, Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
