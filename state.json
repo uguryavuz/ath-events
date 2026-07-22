@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-21T23:15:16",
+  "checked_at": "2026-07-22T16:51:09",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "8d20f7dcbcb26673b1c6ac27fe256309c7eaf999f54a54f62a0d5c58da4f56fe",
+  "hash": "94091a1e4b6669c12c723883517b839e17f9e934ba81607de0d8f768b93509aa",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
@@ -165,7 +165,7 @@
       "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
       "date": "AUGUST 5, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Deborah Lutz - This Dark Night: Emily Brontë, A Life",
       "venue": "Boston Athenaeum",
       "keywords": [
