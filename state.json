@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-23T00:14:37",
+  "checked_at": "2026-07-23T14:35:52",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e151868ba95c8702a6bdc172654dcf230267d1c0b6f700f4a201efbf11e1c1f2",
+  "hash": "badec8809837afd5209f3d256892ea150da350a34c48063534c3989000d05923",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
@@ -17,7 +17,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgnB",
       "date": "JULY 23, 2026",
       "time_et": "3:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []

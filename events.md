@@ -1,7 +1,7 @@
 # Boston Athenaeum events
 
 - JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
-- JULY 23 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JULY 23 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 24 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - JULY 25 (Sat) 12:30 PM ET -- [SOLD OUT] Art & Architecture Tour
