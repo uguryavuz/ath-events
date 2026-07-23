@@ -1,10 +1,8 @@
 # Boston Athenaeum events
 
-- JULY 21 (Tue) 9:00 AM ET -- [WAITLISTED] 2026 Summer K-12 Educators Workshop
-- JULY 23 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 24 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 25 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
-- JULY 25 (Sat) 12:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 25 (Sat) 12:30 PM ET -- Art & Architecture Tour
 - JULY 27 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture, Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -41,7 +39,7 @@
 - AUGUST 22 (Sat) 12:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 25 (Tue) 5:30 PM ET -- Art & Architecture Tour
-- AUGUST 26 (Wed) 6:00 PM ET -- Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
+- AUGUST 26 (Wed) 6:00 PM ET -- [WAITLISTED] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
