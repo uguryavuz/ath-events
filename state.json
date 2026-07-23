@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-22T22:18:05",
+  "checked_at": "2026-07-23T00:14:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "4bf33f3ff04424da1c9a14b5f898b03e8d2e51c44b6d4b2c57f61c524159e3ce",
+  "hash": "e151868ba95c8702a6bdc172654dcf230267d1c0b6f700f4a201efbf11e1c1f2",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/2026-summer-k-12-educators-workshop-5a2KUm99zAL",
@@ -12,18 +12,6 @@
       "event_title": "2026 Summer K-12 Educators Workshop",
       "venue": "Boston Athenaeum",
       "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/christin-geall-flora-culture-how-flowers-shape-our-world-5a2KUm8kDSH",
-      "date": "JULY 22, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Christin Geall - Flora Culture: How Flowers Shape Our World",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture",
-        "Author Talk"
-      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgnB",
