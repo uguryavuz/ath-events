@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-23T20:31:50",
+  "checked_at": "2026-07-24T03:49:31",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "81ecf613abbaab2df6392ddc49dd1cded3d8bbc5c8a1b3345418721ca17bbdbb",
+  "hash": "c5b2c98b5ded24b2878a1fc0436412a1f8980c11c8b17a34aeb2734d222615d0",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgtd",
@@ -28,7 +28,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgwr",
       "date": "JULY 25, 2026",
       "time_et": "12:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
