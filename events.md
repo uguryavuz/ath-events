@@ -1,9 +1,9 @@
 # Boston Athenaeum events
 
-- JULY 27 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- JULY 27 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - JULY 28 (Tue) 6:00 PM ET -- Bettina A. Norton - Benjamin Blyth: Salem's 18th-Century Limner (Lecture, Author Talk)
 - JULY 30 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
+- JULY 30 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 1 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 1 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -17,7 +17,7 @@
 - AUGUST 8 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 8 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 10 (Mon) 3:00 PM ET -- Art & Architecture Tour
-- AUGUST 10 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
+- AUGUST 10 (Mon) 5:30 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - AUGUST 11 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 12 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 12 (Wed) 6:00 PM ET -- Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)

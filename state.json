@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-25T19:36:59",
+  "checked_at": "2026-07-27T15:54:49",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "180fe03d86fcdafe2ae8c10ddc008df7557723018d29e76e8121f723762351b8",
+  "hash": "10cb2993ac5b15168c66d0be76a65fdeb7bf92e821f7de369b59a5e17095254b",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANgyT",
       "date": "JULY 27, 2026",
       "time_et": "3:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -38,7 +38,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
       "date": "JULY 30, 2026",
       "time_et": "6:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Martini Movie Night - The Parent Trap (1961)",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -176,7 +176,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUmA8fZh",
       "date": "AUGUST 10, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
