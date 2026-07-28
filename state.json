@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-28T12:16:03",
+  "checked_at": "2026-07-28T14:44:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a0f8b34dcc4f5f02b45ae7ba8356656aa0c703c06174b81450a79d633b69fd72",
+  "hash": "1b2b202395f58f6334c73c528645f67a216be2799454e12ca9e7b08da53baf8a",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
@@ -70,7 +70,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr3bV",
       "date": "AUGUST 1, 2026",
       "time_et": "2:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
