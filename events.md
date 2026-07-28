@@ -35,7 +35,7 @@
 - AUGUST 22 (Sat) 12:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 25 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 26 (Wed) 6:00 PM ET -- Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
+- AUGUST 26 (Wed) 6:00 PM ET -- [WAITLISTED] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour

@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-28T03:40:35",
+  "checked_at": "2026-07-28T12:16:03",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b529c6fd99f9a3a5da94af5bc9cfa57b3c6a8c0db5a8a59020cf50c2004c32b1",
+  "hash": "a0f8b34dcc4f5f02b45ae7ba8356656aa0c703c06174b81450a79d633b69fd72",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
@@ -354,7 +354,7 @@
       "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
       "date": "AUGUST 26, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Peter S. Canellos - Revenge for the Sixties",
       "venue": "Boston Athenaeum",
       "keywords": [
