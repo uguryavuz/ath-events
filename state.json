@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-28T14:44:54",
+  "checked_at": "2026-07-28T16:52:46",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1b2b202395f58f6334c73c528645f67a216be2799454e12ca9e7b08da53baf8a",
+  "hash": "87630f8396ef13016ac5cce77624aa8bb9cd70e8bfd4cf351c91f835159a6d10",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/bettina-a-norton-benjamin-blyth-salems-18th-century-limner-5a2KUmAAkmz",
@@ -97,7 +97,7 @@
       "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
       "date": "AUGUST 5, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Deborah Lutz - This Dark Night: Emily Brontë, A Life",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -149,7 +149,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqxJB",
       "date": "AUGUST 8, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
