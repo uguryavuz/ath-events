@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-29T00:11:46",
+  "checked_at": "2026-07-29T15:21:51",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b0160e3319c93dce4bc00b50ca95151964af0addc08fa999966afb8924230c6f",
+  "hash": "9d7f9bbf8c254ceb890413c4040f178ebb4c598fb204da77e2000cffb5918d19",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhHp",
@@ -85,7 +85,7 @@
       "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
       "date": "AUGUST 5, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Deborah Lutz - This Dark Night: Emily Brontë, A Life",
       "venue": "Boston Athenaeum",
       "keywords": [

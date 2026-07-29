@@ -8,7 +8,7 @@
 - AUGUST 1 (Sat) 2:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 3 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 4 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 5 (Wed) 6:00 PM ET -- [SOLD OUT] Deborah Lutz - This Dark Night: Emily Brontë, A Life (Lecture, Author Talk)
+- AUGUST 5 (Wed) 6:00 PM ET -- [WAITLISTED] Deborah Lutz - This Dark Night: Emily Brontë, A Life (Lecture, Author Talk)
 - AUGUST 6 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 7 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 8 (Sat) 11:00 AM ET -- Bluey-Inspired Story Time (Children's/Family)
