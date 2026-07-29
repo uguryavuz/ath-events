@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- JULY 30 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- JULY 30 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [SOLD OUT] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 1 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
