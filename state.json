@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-29T21:15:02",
+  "checked_at": "2026-07-29T23:26:46",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "def6db4dac26e50d05ab3f0cf38c1e50c9af70f8252d81f48ce9a3966b200264",
+  "hash": "d89504cdd60447ebe55f5e583b2bdd3625395d2b711aaea8a01aa988049ee6d8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhHp",
@@ -85,7 +85,7 @@
       "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
       "date": "AUGUST 5, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Deborah Lutz - This Dark Night: Emily Brontë, A Life",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -185,7 +185,7 @@
       "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
       "date": "AUGUST 12, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Charles O’Malley & Scott W. Stern - Shakespeare's Margaret",
       "venue": "Boston Athenaeum",
       "keywords": [
