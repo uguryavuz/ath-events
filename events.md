@@ -10,7 +10,7 @@
 - AUGUST 4 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 5 (Wed) 6:00 PM ET -- [WAITLISTED] Deborah Lutz - This Dark Night: Emily Brontë, A Life (Lecture, Author Talk)
 - AUGUST 6 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 7 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 7 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 8 (Sat) 11:00 AM ET -- Bluey-Inspired Story Time (Children's/Family)
 - AUGUST 8 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 8 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -41,7 +41,7 @@
 - AUGUST 29 (Sat) 11:00 AM ET -- Library Orientation Tour
 - AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 31 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- AUGUST 31 (Mon) 6:00 PM ET -- John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
+- AUGUST 31 (Mon) 6:00 PM ET -- [WAITLISTED] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
