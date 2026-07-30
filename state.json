@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-30T14:35:40",
+  "checked_at": "2026-07-30T20:37:09",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f6012824c9c1711ade2756027621ee467d066d15c742e8888fb7997e02b8eea4",
+  "hash": "05440e9329ef351236d1327bfc29ba3298600d58547b26d0dd468e0051dee551",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhHp",
-      "date": "JULY 30, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
       "date": "JULY 30, 2026",
@@ -106,7 +97,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqwzp",
       "date": "AUGUST 7, 2026",
       "time_et": "12:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -185,7 +176,7 @@
       "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
       "date": "AUGUST 12, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Charles O’Malley & Scott W. Stern - Shakespeare's Margaret",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -238,6 +229,15 @@
       "date": "AUGUST 15, 2026",
       "time_et": "12:00 PM",
       "status": "WAITLISTED",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBL2uv",
+      "date": "AUGUST 17, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -319,6 +319,15 @@
         "Member Exclusive",
         "Workshop"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBL3z3",
+      "date": "AUGUST 24, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr6az",

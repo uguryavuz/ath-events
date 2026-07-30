@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- JULY 30 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - JULY 30 (Thu) 6:30 PM ET -- [WAITLISTED] Martini Movie Night - The Parent Trap (1961) (Social, Member Exclusive)
 - JULY 31 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 1 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
@@ -10,7 +9,7 @@
 - AUGUST 4 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 5 (Wed) 6:00 PM ET -- [WAITLISTED] Deborah Lutz - This Dark Night: Emily Brontë, A Life (Lecture, Author Talk)
 - AUGUST 6 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 7 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- AUGUST 7 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 8 (Sat) 11:00 AM ET -- Bluey-Inspired Story Time (Children's/Family)
 - AUGUST 8 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 8 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -18,12 +17,13 @@
 - AUGUST 10 (Mon) 5:30 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
 - AUGUST 11 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 12 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- AUGUST 12 (Wed) 6:00 PM ET -- Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)
+- AUGUST 12 (Wed) 6:00 PM ET -- [WAITLISTED] Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)
 - AUGUST 13 (Thu) 2:00 PM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - AUGUST 14 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 15 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 15 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 17 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 17 (Mon) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 18 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 19 (Wed) 6:00 PM ET -- [WAITLISTED] James M. Tabor - Lightning Beneath the Sea (Lecture, Author Talk)
@@ -32,6 +32,7 @@
 - AUGUST 22 (Sat) 11:00 AM ET -- Library Orientation Tour
 - AUGUST 22 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 22 (Sat) 12:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
+- AUGUST 24 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 25 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 26 (Wed) 6:00 PM ET -- Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)

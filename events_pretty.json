@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhHp",
-    "date": "JULY 30, 2026",
-    "time_et": "3:00 PM",
-    "status": "SOLD OUT",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
     "date": "JULY 30, 2026",
     "time_et": "6:30 PM",
@@ -101,7 +92,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqwzp",
     "date": "AUGUST 7, 2026",
     "time_et": "12:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -180,7 +171,7 @@
     "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
     "date": "AUGUST 12, 2026",
     "time_et": "6:00 PM",
-    "status": "",
+    "status": "WAITLISTED",
     "event_title": "Charles O’Malley & Scott W. Stern - Shakespeare's Margaret",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -233,6 +224,15 @@
     "date": "AUGUST 15, 2026",
     "time_et": "12:00 PM",
     "status": "WAITLISTED",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBL2uv",
+    "date": "AUGUST 17, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -314,6 +314,15 @@
       "Member Exclusive",
       "Workshop"
     ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBL3z3",
+    "date": "AUGUST 24, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
   },
   {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr6az",
