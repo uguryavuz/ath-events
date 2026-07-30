@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-30T09:44:49",
+  "checked_at": "2026-07-30T14:35:40",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "8810ec66d7ed0851d5d998ec73f5cd780bef7c96a2162a27828601568dbc13fe",
+  "hash": "f6012824c9c1711ade2756027621ee467d066d15c742e8888fb7997e02b8eea4",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhHp",
@@ -17,7 +17,7 @@
       "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
       "date": "JULY 30, 2026",
       "time_et": "6:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Martini Movie Night - The Parent Trap (1961)",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -85,7 +85,7 @@
       "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
       "date": "AUGUST 5, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Deborah Lutz - This Dark Night: Emily Brontë, A Life",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -97,7 +97,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr5bh",
       "date": "AUGUST 6, 2026",
       "time_et": "3:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -185,7 +185,7 @@
       "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
       "date": "AUGUST 12, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Charles O’Malley & Scott W. Stern - Shakespeare's Margaret",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -237,7 +237,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqz01",
       "date": "AUGUST 15, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -342,7 +342,7 @@
       "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
       "date": "AUGUST 26, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Peter S. Canellos - Revenge for the Sixties",
       "venue": "Boston Athenaeum",
       "keywords": [
