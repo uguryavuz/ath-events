@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-30T22:29:08",
+  "checked_at": "2026-07-31T03:56:40",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7603c1c646f264597c487931110bde52a3b6cda41de0373e3b48273e22650b75",
+  "hash": "1884d7164166fb98a976514aa1cb56dbc052e9858b25584ce474d851e96e8151",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/martini-movie-night-the-parent-trap-1961-5a2KUm9adth",
-      "date": "JULY 30, 2026",
-      "time_et": "6:30 PM",
-      "status": "WAITLISTED",
-      "event_title": "Martini Movie Night - The Parent Trap (1961)",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Social",
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhMf",
       "date": "JULY 31, 2026",
