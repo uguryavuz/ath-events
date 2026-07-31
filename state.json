@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-31T03:56:40",
+  "checked_at": "2026-07-31T10:01:20",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1884d7164166fb98a976514aa1cb56dbc052e9858b25584ce474d851e96e8151",
+  "hash": "b6e6da6eb7ad7814cf5b16c2ac757fd0423d9b99bcdc93852036ddc7ba303e0f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmANhMf",
@@ -360,7 +360,7 @@
       "url": "https://events.bostonathenaeum.org/en/mini-zine-workshop-5a2KUmAYior",
       "date": "AUGUST 27, 2026",
       "time_et": "3:30 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Mini Zine Workshop",
       "venue": "Boston Athenaeum",
       "keywords": [

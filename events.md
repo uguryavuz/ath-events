@@ -36,7 +36,7 @@
 - AUGUST 25 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 26 (Wed) 6:00 PM ET -- Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
-- AUGUST 27 (Thu) 3:30 PM ET -- Mini Zine Workshop (Children's/Family)
+- AUGUST 27 (Thu) 3:30 PM ET -- [WAITLISTED] Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 29 (Sat) 11:00 AM ET -- Library Orientation Tour
 - AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
