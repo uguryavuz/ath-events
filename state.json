@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-07-31T21:32:58",
+  "checked_at": "2026-08-01T03:56:34",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "ac93bb9b0ff692fbce8645a675717f75ca3fd47a88f1736f5d935ebb5e86c49f",
+  "hash": "c22560182867f8b86f2bcb53019fd69bbad40752419eb6dd64efefc98b08ef22",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uqL",
@@ -125,7 +125,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUmA8fZh",
       "date": "AUGUST 10, 2026",
       "time_et": "5:30 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -330,7 +330,7 @@
       "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
       "date": "AUGUST 26, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Peter S. Canellos - Revenge for the Sixties",
       "venue": "Boston Athenaeum",
       "keywords": [

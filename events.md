@@ -12,7 +12,7 @@
 - AUGUST 8 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 8 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 10 (Mon) 3:00 PM ET -- Art & Architecture Tour
-- AUGUST 10 (Mon) 5:30 PM ET -- [SOLD OUT] Member Mixer (Social, Member Exclusive)
+- AUGUST 10 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
 - AUGUST 11 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 12 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 12 (Wed) 6:00 PM ET -- [WAITLISTED] Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)
@@ -33,7 +33,7 @@
 - AUGUST 24 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 25 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 26 (Wed) 6:00 PM ET -- Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
+- AUGUST 26 (Wed) 6:00 PM ET -- [WAITLISTED] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- [WAITLISTED] Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
