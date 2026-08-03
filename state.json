@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-03T04:02:30",
+  "checked_at": "2026-08-03T15:20:24",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e34be547a5d4dfd306551b2f229189a66c6d9d1fedefb0fe13e1c2a99fb379dd",
+  "hash": "5f96ce2cb8aaa23b8cfea454347de455033cfca10700dcfb35b6690f623eca3c",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr4ED",
@@ -301,7 +301,7 @@
       "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
       "date": "AUGUST 26, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Peter S. Canellos - Revenge for the Sixties",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -393,6 +393,17 @@
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/community-day-open-house-5a2KUmAnAQH",
+      "date": "SEPTEMBER 19, 2026",
+      "time_et": "10:00 AM",
+      "status": "FREE",
+      "event_title": "Community Day Open House",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vrF",

@@ -30,7 +30,7 @@
 - AUGUST 24 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 25 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 26 (Wed) 6:00 PM ET -- [SOLD OUT] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
+- AUGUST 26 (Wed) 6:00 PM ET -- [WAITLISTED] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- [WAITLISTED] Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
@@ -40,6 +40,7 @@
 - AUGUST 31 (Mon) 6:00 PM ET -- [WAITLISTED] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)
 - SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 26 (Sat) 11:00 AM ET -- Library Orientation Tour
 - OCTOBER 3 (Sat) 11:00 AM ET -- Library Orientation Tour
