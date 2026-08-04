@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-04T21:39:13",
+  "checked_at": "2026-08-04T23:28:01",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "61b43a361641fe6ce19159677bd3254abdb99a4c7733b834a8c1d21ad8abb070",
+  "hash": "6c0982a0e6744e45a8d68ae07030fd94079b8a2d5f5b83489d3adaf66cdeed5e",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr4R7",
-      "date": "AUGUST 4, 2026",
-      "time_et": "5:30 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
       "date": "AUGUST 5, 2026",
