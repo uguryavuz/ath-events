@@ -14,7 +14,7 @@
 - AUGUST 12 (Wed) 6:00 PM ET -- [WAITLISTED] Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)
 - AUGUST 13 (Thu) 2:00 PM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- AUGUST 14 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 14 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 15 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 15 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 17 (Mon) 12:00 PM ET -- Art & Architecture Tour
