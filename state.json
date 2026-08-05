@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-05T15:30:30",
+  "checked_at": "2026-08-05T17:55:32",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b53b7946b96dfc143102ba0db3c95ef04cb1c46984cc311234e37843ae6ca0b3",
+  "hash": "8d0ec09a4fc217c1cbffec1291d03f6391562be275029bc48c7de857ff9abd83",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
@@ -169,7 +169,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBL2uv",
       "date": "AUGUST 17, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -319,6 +319,133 @@
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vBJ",
+      "date": "AUGUST 29, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2SX",
+      "date": "AUGUST 29, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqx6J",
+      "date": "AUGUST 31, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/john-a-jenkins-summer-of-71-five-months-that-changed-america-5a2KUmAn0M5",
+      "date": "AUGUST 31, 2026",
+      "time_et": "6:00 PM",
+      "status": "SOLD OUT",
+      "event_title": "John A. Jenkins - SUMMER OF ’71: Five Months That Changed America",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Author Talk"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vmP",
+      "date": "SEPTEMBER 5, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vpd",
+      "date": "SEPTEMBER 12, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/community-day-open-house-5a2KUmAnAQH",
+      "date": "SEPTEMBER 19, 2026",
+      "time_et": "10:00 AM",
+      "status": "FREE",
+      "event_title": "Community Day Open House",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vrF",
+      "date": "SEPTEMBER 19, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7niQ",
+      "date": "SEPTEMBER 26, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vxh",
+      "date": "OCTOBER 3, 2026",
+      "time_et": "11:00 AM",
+      "status": "",
+      "event_title": "Library Orientation Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
+      "date": "OCTOBER 12, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGGnp",
+      "date": "NOVEMBER 3, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAH2qr",
+      "date": "NOVEMBER 27, 2026",
+      "time_et": "9:00 AM",
+      "status": "",
+      "event_title": "Discovery Days at the Boston Athenaeum",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Discovery Days"
+      ]
     }
   ]
 }
