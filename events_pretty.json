@@ -3,7 +3,7 @@
     "url": "https://events.bostonathenaeum.org/en/deborah-lutz-this-dark-night-emily-bronte-a-life-5a2KUm8elej",
     "date": "AUGUST 5, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Deborah Lutz - This Dark Night: Emily Brontë, A Life",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -239,7 +239,7 @@
     "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAZzpF",
     "date": "AUGUST 22, 2026",
     "time_et": "12:00 PM",
-    "status": "SOLD OUT",
+    "status": "WAITLISTED",
     "event_title": "Book Binding Workshop",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -314,132 +314,5 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vBJ",
-    "date": "AUGUST 29, 2026",
-    "time_et": "11:00 AM",
-    "status": "",
-    "event_title": "Library Orientation Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2SX",
-    "date": "AUGUST 29, 2026",
-    "time_et": "12:00 PM",
-    "status": "",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqx6J",
-    "date": "AUGUST 31, 2026",
-    "time_et": "12:00 PM",
-    "status": "",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/john-a-jenkins-summer-of-71-five-months-that-changed-america-5a2KUmAn0M5",
-    "date": "AUGUST 31, 2026",
-    "time_et": "6:00 PM",
-    "status": "WAITLISTED",
-    "event_title": "John A. Jenkins - SUMMER OF ’71: Five Months That Changed America",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Author Talk"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vmP",
-    "date": "SEPTEMBER 5, 2026",
-    "time_et": "11:00 AM",
-    "status": "",
-    "event_title": "Library Orientation Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vpd",
-    "date": "SEPTEMBER 12, 2026",
-    "time_et": "11:00 AM",
-    "status": "",
-    "event_title": "Library Orientation Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/community-day-open-house-5a2KUmAnAQH",
-    "date": "SEPTEMBER 19, 2026",
-    "time_et": "10:00 AM",
-    "status": "FREE",
-    "event_title": "Community Day Open House",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vrF",
-    "date": "SEPTEMBER 19, 2026",
-    "time_et": "11:00 AM",
-    "status": "",
-    "event_title": "Library Orientation Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7niQ",
-    "date": "SEPTEMBER 26, 2026",
-    "time_et": "11:00 AM",
-    "status": "",
-    "event_title": "Library Orientation Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vxh",
-    "date": "OCTOBER 3, 2026",
-    "time_et": "11:00 AM",
-    "status": "",
-    "event_title": "Library Orientation Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
-    "date": "OCTOBER 12, 2026",
-    "time_et": "9:00 AM",
-    "status": "",
-    "event_title": "Discovery Days at the Boston Athenaeum",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGGnp",
-    "date": "NOVEMBER 3, 2026",
-    "time_et": "9:00 AM",
-    "status": "",
-    "event_title": "Discovery Days at the Boston Athenaeum",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
-  },
-  {
-    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAH2qr",
-    "date": "NOVEMBER 27, 2026",
-    "time_et": "9:00 AM",
-    "status": "",
-    "event_title": "Discovery Days at the Boston Athenaeum",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Discovery Days"
-    ]
   }
 ]
