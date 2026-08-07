@@ -5,7 +5,7 @@
 - AUGUST 8 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 10 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 10 (Mon) 5:30 PM ET -- [WAITLISTED] Member Mixer (Social, Member Exclusive)
-- AUGUST 11 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 11 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 12 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 12 (Wed) 6:00 PM ET -- [WAITLISTED] Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)
 - AUGUST 13 (Thu) 2:00 PM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
