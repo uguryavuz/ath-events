@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-07T17:10:52",
+  "checked_at": "2026-08-07T19:18:21",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "323d5db697a5ac740469f57830f72f56b9a0bdab46db1164af15114d9d9e16f6",
+  "hash": "2bd794af531cf185c3d16c74b2edc3ccaf2e513459dfe1e3bd16b00cbff63b42",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/bluey-inspired-story-time-5a2KUmAYhsn",
@@ -130,7 +130,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqz01",
       "date": "AUGUST 15, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
