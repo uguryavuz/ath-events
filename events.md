@@ -17,7 +17,7 @@
 - AUGUST 17 (Mon) 5:30 PM ET -- Art & Architecture Tour
 - AUGUST 18 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 19 (Wed) 6:00 PM ET -- [WAITLISTED] James M. Tabor - Lightning Beneath the Sea (Lecture, Author Talk)
-- AUGUST 20 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 20 (Thu) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 21 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 22 (Sat) 11:00 AM ET -- Library Orientation Tour
 - AUGUST 22 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -30,7 +30,7 @@
 - AUGUST 27 (Thu) 3:30 PM ET -- [WAITLISTED] Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 29 (Sat) 11:00 AM ET -- Library Orientation Tour
-- AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 29 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 31 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 31 (Mon) 6:00 PM ET -- [SOLD OUT] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- Library Orientation Tour
