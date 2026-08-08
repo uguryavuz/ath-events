@@ -17,7 +17,7 @@
 - AUGUST 20 (Thu) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 21 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 22 (Sat) 11:00 AM ET -- Library Orientation Tour
-- AUGUST 22 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 22 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 22 (Sat) 12:00 PM ET -- [WAITLISTED] Book Binding Workshop (Member Exclusive, Workshop)
 - AUGUST 24 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
