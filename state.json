@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-08T15:48:59",
+  "checked_at": "2026-08-08T16:55:18",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3db084e5c28315720b965d0c6f0c4ae79faa63cf637d8660ee6bd39dca37a42a",
+  "hash": "c419241da1e128a85c25ed52c5359aa746a1e8bdd58a735e842f62eb3fbf755b",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uvB",
-      "date": "AUGUST 8, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqxJB",
       "date": "AUGUST 8, 2026",
