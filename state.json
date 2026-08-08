@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-08T04:30:51",
+  "checked_at": "2026-08-08T15:48:59",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c61917a0de6e77828dd9a80fe785100376710f0b6b64215c8ee9d0ed6e35e75a",
+  "hash": "3db084e5c28315720b965d0c6f0c4ae79faa63cf637d8660ee6bd39dca37a42a",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/bluey-inspired-story-time-5a2KUmAYhsn",
-      "date": "AUGUST 8, 2026",
-      "time_et": "11:00 AM",
-      "status": "",
-      "event_title": "Bluey-Inspired Story Time",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uvB",
       "date": "AUGUST 8, 2026",
