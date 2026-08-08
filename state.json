@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-08T17:48:34",
+  "checked_at": "2026-08-08T19:46:32",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "f0acd2986f58ab0e292cb039e3598400b37d052497bbe21759b59b392c2f04e0",
+  "hash": "5eddd9442c98a9238b951ee6b58cfe03a929d0ed0135155be75ea1f03ec42e8e",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr61V",
@@ -47,7 +47,7 @@
       "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
       "date": "AUGUST 12, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Charles O’Malley & Scott W. Stern - Shakespeare's Margaret",
       "venue": "Boston Athenaeum",
       "keywords": [
