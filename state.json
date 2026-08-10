@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-10T13:47:48",
+  "checked_at": "2026-08-10T17:11:34",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "2b8a3a12aeeb6cd9ff6baba74b37d0d6c17caf6aec35ac3a982f386c05651316",
+  "hash": "a75d9ff2f48c3955bfdb7f59cec6f4654660e371a9a0363e915626a2d3a056e8",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr61V",
@@ -17,7 +17,7 @@
       "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUmA8fZh",
       "date": "AUGUST 10, 2026",
       "time_et": "5:30 PM",
-      "status": "WAITLISTED",
+      "status": "FREE",
       "event_title": "Member Mixer",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -296,6 +296,24 @@
       "keywords": [
         "Author Talk"
       ]
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBW88z",
+      "date": "SEPTEMBER 1, 2026",
+      "time_et": "5:30 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBW8fF",
+      "date": "SEPTEMBER 3, 2026",
+      "time_et": "12:00 PM",
+      "status": "",
+      "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
     },
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vmP",
