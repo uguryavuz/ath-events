@@ -32,7 +32,9 @@
 - AUGUST 31 (Mon) 6:00 PM ET -- [SOLD OUT] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
 - SEPTEMBER 1 (Tue) 5:30 PM ET -- Art & Architecture Tour
 - SEPTEMBER 3 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 4 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 5 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)
 - SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
