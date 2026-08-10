@@ -1,9 +1,8 @@
 # Boston Athenaeum events
 
-- AUGUST 10 (Mon) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 10 (Mon) 5:30 PM ET -- [FREE] Member Mixer (Social, Member Exclusive)
 - AUGUST 11 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
-- AUGUST 12 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- AUGUST 12 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 12 (Wed) 6:00 PM ET -- Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)
 - AUGUST 13 (Thu) 2:00 PM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
@@ -35,10 +34,21 @@
 - SEPTEMBER 4 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 5 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 9 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 10 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 12 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 17 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)
 - SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 24 (Thu) 3:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 25 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 26 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 26 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 28 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 29 (Tue) 12:00 PM ET -- Art & Architecture Tour
 - OCTOBER 3 (Sat) 11:00 AM ET -- Library Orientation Tour
 - OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

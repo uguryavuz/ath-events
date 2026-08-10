@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr61V",
-    "date": "AUGUST 10, 2026",
-    "time_et": "3:00 PM",
-    "status": "SOLD OUT",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUmA8fZh",
     "date": "AUGUST 10, 2026",
     "time_et": "5:30 PM",
@@ -33,7 +24,7 @@
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqxfl",
     "date": "AUGUST 12, 2026",
     "time_et": "12:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
@@ -338,11 +329,65 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWKOf",
+    "date": "SEPTEMBER 9, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWKoT",
+    "date": "SEPTEMBER 10, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vpd",
     "date": "SEPTEMBER 12, 2026",
     "time_et": "11:00 AM",
     "status": "",
     "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWLEH",
+    "date": "SEPTEMBER 12, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWLRB",
+    "date": "SEPTEMBER 14, 2026",
+    "time_et": "3:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWLhJ",
+    "date": "SEPTEMBER 16, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWLvp",
+    "date": "SEPTEMBER 17, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
   },
@@ -367,11 +412,56 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWMNF",
+    "date": "SEPTEMBER 24, 2026",
+    "time_et": "3:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWMez",
+    "date": "SEPTEMBER 25, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7niQ",
     "date": "SEPTEMBER 26, 2026",
     "time_et": "11:00 AM",
     "status": "",
     "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWNWD",
+    "date": "SEPTEMBER 26, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWNpZ",
+    "date": "SEPTEMBER 28, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWO8v",
+    "date": "SEPTEMBER 29, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
   },
