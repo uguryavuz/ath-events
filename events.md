@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- AUGUST 10 (Mon) 5:30 PM ET -- [FREE] Member Mixer (Social, Member Exclusive)
 - AUGUST 11 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 12 (Wed) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 12 (Wed) 6:00 PM ET -- Charles O’Malley & Scott W. Stern - Shakespeare's Margaret (Lecture, Author Talk)

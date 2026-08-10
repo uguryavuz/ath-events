@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-10T21:04:14",
+  "checked_at": "2026-08-10T23:52:52",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c45ff9bf669b30f787e75831442b7259e6130a146f9e8353f6038e30aef3f383",
+  "hash": "81638009ef6a8160af95ed3551013af2d2813511c6158f023f6cc1f7a4684570",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/member-mixer-5a2KUmA8fZh",
-      "date": "AUGUST 10, 2026",
-      "time_et": "5:30 PM",
-      "status": "FREE",
-      "event_title": "Member Mixer",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Social",
-        "Member Exclusive"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr29C",
       "date": "AUGUST 11, 2026",
