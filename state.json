@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-12T21:05:54",
+  "checked_at": "2026-08-12T23:03:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "3c7e3148d14b1ae2bf555e603501a9b64df97439e67c543b97bf5d250869f683",
+  "hash": "a576aed629887d025f0ebd3d8ca18fd9787a201761321db5bd52e53b570b192e",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
-      "date": "AUGUST 12, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "Charles O’Malley & Scott W. Stern - Shakespeare's Margaret",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture",
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwXR",
       "date": "AUGUST 13, 2026",
