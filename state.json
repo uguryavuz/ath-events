@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-12T06:45:08",
+  "checked_at": "2026-08-12T13:50:54",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "e835f57fb860511b8aceb07d5e76131e91bdeb4bb8a6516e72f7bd0b84a99ce7",
+  "hash": "14dc3fc441eefad2d1df2b680e82c2856a361f058f293ad96b995eeb2534e9a2",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqxfl",
@@ -446,6 +446,15 @@
       "time_et": "12:00 PM",
       "status": "",
       "event_title": "Art & Architecture Tour",
+      "venue": "Boston Athenaeum",
+      "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/beacon-hill-design-day-5a2KUm9W9fh",
+      "date": "OCTOBER 1, 2026",
+      "time_et": "8:30 AM",
+      "status": "$325.00",
+      "event_title": "Beacon Hill Design Day",
       "venue": "Boston Athenaeum",
       "keywords": []
     },
