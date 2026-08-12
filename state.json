@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-12T15:16:41",
+  "checked_at": "2026-08-12T17:16:41",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "d0c582730aa206f83885d39a13ee70c94b1d96d3b81e3a695a820b3e8476fec3",
+  "hash": "4712580c28f8fbbe9b921242cfa8b1406ab59b9f9ef15f6fc01b8c9281249b2c",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqxfl",
-      "date": "AUGUST 12, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/charles-omalley-and-scott-w-stern-shakespeares-margaret-5a2KUm9IS3t",
       "date": "AUGUST 12, 2026",
