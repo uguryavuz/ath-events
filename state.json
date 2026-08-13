@@ -1,20 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-13T19:28:06",
+  "checked_at": "2026-08-13T23:05:13",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "9fcae85acbe2881ade6e05de2d621dfe1bf6307d2ea806fc8da4a286d5b7b26b",
+  "hash": "77bf0d9adf7a8a5f6531169e5b715678177a6ff1967b309505d371fd8dc26844",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGEkP",
-      "date": "AUGUST 13, 2026",
-      "time_et": "9:00 AM",
-      "status": "",
-      "event_title": "Discovery Days at the Boston Athenaeum",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Discovery Days"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqyOv",
       "date": "AUGUST 14, 2026",
