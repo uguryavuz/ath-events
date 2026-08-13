@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-13T03:01:48",
+  "checked_at": "2026-08-13T18:12:16",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a576aed629887d025f0ebd3d8ca18fd9787a201761321db5bd52e53b570b192e",
+  "hash": "c964e3fc4c7472b3f9fca38241a5c87be783ab5c2c995ce2523f51098dffb00d",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwXR",
@@ -432,7 +432,7 @@
       "url": "https://events.bostonathenaeum.org/en/beacon-hill-design-day-5a2KUm9W9fh",
       "date": "OCTOBER 1, 2026",
       "time_et": "8:30 AM",
-      "status": "$325.00",
+      "status": "WAITLISTED",
       "event_title": "Beacon Hill Design Day",
       "venue": "Boston Athenaeum",
       "keywords": []

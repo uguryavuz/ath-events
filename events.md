@@ -45,7 +45,7 @@
 - SEPTEMBER 26 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 28 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 29 (Tue) 12:00 PM ET -- Art & Architecture Tour
-- OCTOBER 1 (Thu) 8:30 AM ET -- [$325.00] Beacon Hill Design Day
+- OCTOBER 1 (Thu) 8:30 AM ET -- [WAITLISTED] Beacon Hill Design Day
 - OCTOBER 3 (Sat) 11:00 AM ET -- Library Orientation Tour
 - OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
