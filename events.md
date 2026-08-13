@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- AUGUST 13 (Thu) 2:00 PM ET -- [SOLD OUT] Exhibition Tour - Where's Boston? 50 Years Later
 - AUGUST 13 (Thu) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - AUGUST 14 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 15 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)

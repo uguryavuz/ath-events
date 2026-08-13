@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-13T18:12:16",
+  "checked_at": "2026-08-13T19:28:06",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c964e3fc4c7472b3f9fca38241a5c87be783ab5c2c995ce2523f51098dffb00d",
+  "hash": "9fcae85acbe2881ade6e05de2d621dfe1bf6307d2ea806fc8da4a286d5b7b26b",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/exhibition-tour-wheres-boston-50-years-later-5a2KUmAMwXR",
-      "date": "AUGUST 13, 2026",
-      "time_et": "2:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Exhibition Tour - Where's Boston? 50 Years Later",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGEkP",
       "date": "AUGUST 13, 2026",
