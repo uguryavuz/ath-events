@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- AUGUST 14 (Fri) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
+- AUGUST 14 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 15 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 15 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 17 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
