@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- AUGUST 14 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 15 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour (Member Exclusive)
 - AUGUST 15 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 17 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
@@ -33,18 +32,3 @@
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 12 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 17 (Thu) 12:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)
-- SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
-- SEPTEMBER 24 (Thu) 3:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 25 (Fri) 12:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 26 (Sat) 11:00 AM ET -- Library Orientation Tour
-- SEPTEMBER 26 (Sat) 12:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 28 (Mon) 12:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 29 (Tue) 12:00 PM ET -- Art & Architecture Tour
-- OCTOBER 1 (Thu) 8:30 AM ET -- [WAITLISTED] Beacon Hill Design Day
-- OCTOBER 3 (Sat) 11:00 AM ET -- Library Orientation Tour
-- OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
