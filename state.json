@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-15T01:52:08",
+  "checked_at": "2026-08-15T03:56:51",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "5454bae633b04b23b8615eb1d64a1a918886633fb6b3ed665b99849ae1e86ba1",
+  "hash": "f4ccba7e21ef0754cb8fd93e3d8b32663f44723df27724619d50317cd5433148",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7uwn",
       "date": "AUGUST 15, 2026",
       "time_et": "11:00 AM",
-      "status": "FREE",
+      "status": "SOLD OUT",
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": [
