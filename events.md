@@ -28,7 +28,7 @@
 - SEPTEMBER 9 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 10 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
-- SEPTEMBER 12 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 12 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 17 (Thu) 12:00 PM ET -- Art & Architecture Tour
