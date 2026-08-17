@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-17T19:00:39",
+  "checked_at": "2026-08-17T22:44:09",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "bb77091eaa3f65c25d9bff36bfe9d4f6500a54070e8641768e0c388bae29846e",
+  "hash": "f317f269e179149de04e62cdd5d879be07d3e1ce48057e2b8d024baa13d9d17c",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr4vl",
-      "date": "AUGUST 17, 2026",
-      "time_et": "5:30 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr58f",
       "date": "AUGUST 18, 2026",
