@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- AUGUST 17 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 17 (Mon) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 18 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 19 (Wed) 6:00 PM ET -- [WAITLISTED] James M. Tabor - Lightning Beneath the Sea (Lecture, Author Talk)
@@ -26,20 +25,30 @@
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 5 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 9 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 9 (Wed) 6:00 PM ET -- [WAITLISTED] Rush Jenkins and Klaus Baer - Natural Luxury: Homes Inspired by Nature (Author Talk)
 - SEPTEMBER 10 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 10 (Thu) 4:30 PM ET -- Framing Boston: A Paper Art Workshop (Children's/Family)
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
 - SEPTEMBER 12 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 16 (Wed) 1:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
+- SEPTEMBER 16 (Wed) 6:00 PM ET -- Scott S. Greenberger - The Forsaken Founder (Author Talk)
 - SEPTEMBER 17 (Thu) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 17 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Invoke String Quartet - American Voices (Concert)
 - SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)
 - SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 23 (Wed) 6:00 PM ET -- Natalie Lemle - Artifacts (Author Talk)
 - SEPTEMBER 24 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 25 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 26 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 26 (Sat) 11:00 AM ET -- [WAITLISTED] Winnie-the-Pooh Yoga (Children's/Family)
 - SEPTEMBER 26 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 26 (Sat) 12:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
 - SEPTEMBER 28 (Mon) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 28 (Mon) 6:00 PM ET -- Jesse Wegman - The Lost Founder (Author Talk)
 - SEPTEMBER 29 (Tue) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 30 (Wed) 12:00 PM ET -- Frinde Maher - Class Encounters: A Memoir of The 1960s (Author Talk)
 - OCTOBER 1 (Thu) 8:30 AM ET -- [WAITLISTED] Beacon Hill Design Day
 - OCTOBER 3 (Sat) 11:00 AM ET -- Library Orientation Tour
 - OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

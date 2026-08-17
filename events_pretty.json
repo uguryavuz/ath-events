@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBL2uv",
-    "date": "AUGUST 17, 2026",
-    "time_et": "12:00 PM",
-    "status": "SOLD OUT",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr4vl",
     "date": "AUGUST 17, 2026",
     "time_et": "5:30 PM",
@@ -247,6 +238,17 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/rush-jenkins-and-klaus-baer-natural-luxury-homes-inspired-by-nature-5a2KUmAO3F7",
+    "date": "SEPTEMBER 9, 2026",
+    "time_et": "6:00 PM",
+    "status": "WAITLISTED",
+    "event_title": "Rush Jenkins and Klaus Baer - Natural Luxury: Homes Inspired by Nature",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWKoT",
     "date": "SEPTEMBER 10, 2026",
     "time_et": "12:00 PM",
@@ -254,6 +256,17 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/framing-boston-a-paper-art-workshop-5a2KUmB2trh",
+    "date": "SEPTEMBER 10, 2026",
+    "time_et": "4:30 PM",
+    "status": "",
+    "event_title": "Framing Boston: A Paper Art Workshop",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Children's/Family"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vpd",
@@ -292,6 +305,29 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAiPg5",
+    "date": "SEPTEMBER 16, 2026",
+    "time_et": "1:00 PM",
+    "status": "SOLD OUT",
+    "event_title": "Book Binding Workshop",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive",
+      "Workshop"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/scott-s-greenberger-the-forsaken-founder-5a2KUmAn5lZ",
+    "date": "SEPTEMBER 16, 2026",
+    "time_et": "6:00 PM",
+    "status": "",
+    "event_title": "Scott S. Greenberger - The Forsaken Founder",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWLvp",
     "date": "SEPTEMBER 17, 2026",
     "time_et": "12:00 PM",
@@ -299,6 +335,17 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/invoke-string-quartet-american-voices-5a2KUmAoVm1",
+    "date": "SEPTEMBER 17, 2026",
+    "time_et": "7:00 PM",
+    "status": "STARTS AT $20.00",
+    "event_title": "Invoke String Quartet - American Voices",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Concert"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/community-day-open-house-5a2KUmAnAQH",
@@ -319,6 +366,17 @@
     "event_title": "Library Orientation Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/natalie-lemle-artifacts-5a2KUmANHf7",
+    "date": "SEPTEMBER 23, 2026",
+    "time_et": "6:00 PM",
+    "status": "",
+    "event_title": "Natalie Lemle - Artifacts",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWMNF",
@@ -348,6 +406,17 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/winnie-the-pooh-yoga-5a2KUmB2x2T",
+    "date": "SEPTEMBER 26, 2026",
+    "time_et": "11:00 AM",
+    "status": "WAITLISTED",
+    "event_title": "Winnie-the-Pooh Yoga",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Children's/Family"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWNWD",
     "date": "SEPTEMBER 26, 2026",
     "time_et": "12:00 PM",
@@ -355,6 +424,18 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAiPpl",
+    "date": "SEPTEMBER 26, 2026",
+    "time_et": "12:00 PM",
+    "status": "SOLD OUT",
+    "event_title": "Book Binding Workshop",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive",
+      "Workshop"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWNpZ",
@@ -366,6 +447,17 @@
     "keywords": []
   },
   {
+    "url": "https://events.bostonathenaeum.org/en/jesse-wegman-the-lost-founder-5a2KUmAnGib",
+    "date": "SEPTEMBER 28, 2026",
+    "time_et": "6:00 PM",
+    "status": "",
+    "event_title": "Jesse Wegman - The Lost Founder",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
+  },
+  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWO8v",
     "date": "SEPTEMBER 29, 2026",
     "time_et": "12:00 PM",
@@ -373,6 +465,17 @@
     "event_title": "Art & Architecture Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/frinde-maher-class-encounters-a-memoir-of-the-1960s-5a2KUmB3QkP",
+    "date": "SEPTEMBER 30, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Frinde Maher - Class Encounters: A Memoir of The 1960s",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
   },
   {
     "url": "https://events.bostonathenaeum.org/en/beacon-hill-design-day-5a2KUm9W9fh",
