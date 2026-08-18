@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-18T17:54:48",
+  "checked_at": "2026-08-18T20:43:18",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "6b7b75bba60ac5d5a647b1b63bb4ab961da5d63ec7a1b75ae92492b3973aa4c5",
+  "hash": "1fecb20a808f901bd093f14360f1de87bb2e1fd619616e6e5bd54f3e4a39faef",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr58f",
@@ -362,6 +362,17 @@
       "event_title": "Library Orientation Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
+    },
+    {
+      "url": "https://events.bostonathenaeum.org/en/bicentennial-boston-public-memory-design-and-documentary-photography-5a2KUmBLy4T",
+      "date": "SEPTEMBER 22, 2026",
+      "time_et": "6:00 PM",
+      "status": "",
+      "event_title": "Bicentennial Boston: Public Memory, Design, and Documentary Photography",
+      "venue": "Boston Athenaeum",
+      "keywords": [
+        "Exhibitions"
+      ]
     },
     {
       "url": "https://events.bostonathenaeum.org/en/natalie-lemle-artifacts-5a2KUmANHf7",

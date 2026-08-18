@@ -37,6 +37,7 @@
 - SEPTEMBER 17 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Invoke String Quartet - American Voices (Concert)
 - SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)
 - SEPTEMBER 19 (Sat) 11:00 AM ET -- Library Orientation Tour
+- SEPTEMBER 22 (Tue) 6:00 PM ET -- Bicentennial Boston: Public Memory, Design, and Documentary Photography (Exhibitions)
 - SEPTEMBER 23 (Wed) 6:00 PM ET -- Natalie Lemle - Artifacts (Author Talk)
 - SEPTEMBER 24 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 25 (Fri) 12:00 PM ET -- Art & Architecture Tour
