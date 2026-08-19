@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-18T22:43:57",
+  "checked_at": "2026-08-19T14:54:59",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "975d941efcdb4a33d9206e5093acc5c53caa8f5ba3ade0c3b900aab0d86efed1",
+  "hash": "c98bec6fea3075c3e9fc6343bfa02beeaca2a443c8391a29e2f193f9c30cd778",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/james-m-tabor-lightning-beneath-the-sea-5a2KUm9IaJB",
@@ -116,7 +116,7 @@
       "url": "https://events.bostonathenaeum.org/en/mini-zine-workshop-5a2KUmAYior",
       "date": "AUGUST 27, 2026",
       "time_et": "3:30 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Mini Zine Workshop",
       "venue": "Boston Athenaeum",
       "keywords": [
