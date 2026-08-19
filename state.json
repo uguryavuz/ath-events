@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-19T22:45:05",
+  "checked_at": "2026-08-19T23:40:28",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "624ba1791dff6ee2d5612dc21ef807de1c49330c3737977e895f439c0974606f",
+  "hash": "a89b72d6fa8cd72f30f2f65d4492b8ac4c032bc69ea1e8fcaf5d88f0b0ac823f",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/james-m-tabor-lightning-beneath-the-sea-5a2KUm9IaJB",
-      "date": "AUGUST 19, 2026",
-      "time_et": "6:00 PM",
-      "status": "",
-      "event_title": "James M. Tabor - Lightning Beneath the Sea",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Lecture",
-        "Author Talk"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqwRy",
       "date": "AUGUST 20, 2026",
