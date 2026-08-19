@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-19T21:49:11",
+  "checked_at": "2026-08-19T22:45:05",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "4b8d30bf9e5151084039de0ab00fbbe972c04a7bb71919118989fb326da4be14",
+  "hash": "624ba1791dff6ee2d5612dc21ef807de1c49330c3737977e895f439c0974606f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/james-m-tabor-lightning-beneath-the-sea-5a2KUm9IaJB",
@@ -107,7 +107,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr72P",
       "date": "AUGUST 27, 2026",
       "time_et": "3:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
