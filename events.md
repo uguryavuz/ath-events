@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- AUGUST 19 (Wed) 6:00 PM ET -- [WAITLISTED] James M. Tabor - Lightning Beneath the Sea (Lecture, Author Talk)
+- AUGUST 19 (Wed) 6:00 PM ET -- James M. Tabor - Lightning Beneath the Sea (Lecture, Author Talk)
 - AUGUST 20 (Thu) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 21 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 22 (Sat) 11:00 AM ET -- Library Orientation Tour
@@ -8,8 +8,8 @@
 - AUGUST 22 (Sat) 12:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
 - AUGUST 24 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- Art & Architecture Tour
-- AUGUST 25 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
-- AUGUST 26 (Wed) 6:00 PM ET -- [SOLD OUT] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
+- AUGUST 25 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
+- AUGUST 26 (Wed) 6:00 PM ET -- [WAITLISTED] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -27,7 +27,7 @@
 - SEPTEMBER 10 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 10 (Thu) 4:30 PM ET -- Framing Boston: A Paper Art Workshop (Children's/Family)
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- Library Orientation Tour
-- SEPTEMBER 12 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
+- SEPTEMBER 12 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 1:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
