@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-19T23:40:28",
+  "checked_at": "2026-08-20T14:57:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a89b72d6fa8cd72f30f2f65d4492b8ac4c032bc69ea1e8fcaf5d88f0b0ac823f",
+  "hash": "3083c8234682dad86ffb52030f87c00956f9ecd788668ed9de06b7dd6c723c6f",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqwRy",
       "date": "AUGUST 20, 2026",
       "time_et": "12:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -151,7 +151,7 @@
       "url": "https://events.bostonathenaeum.org/en/john-a-jenkins-summer-of-71-five-months-that-changed-america-5a2KUmAn0M5",
       "date": "AUGUST 31, 2026",
       "time_et": "6:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "John A. Jenkins - SUMMER OF ’71: Five Months That Changed America",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -256,7 +256,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWLEH",
       "date": "SEPTEMBER 12, 2026",
       "time_et": "12:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
