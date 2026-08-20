@@ -48,6 +48,3 @@
 - SEPTEMBER 30 (Wed) 12:00 PM ET -- Frinde Maher - Class Encounters: A Memoir of The 1960s (Author Talk)
 - OCTOBER 1 (Thu) 8:30 AM ET -- [WAITLISTED] Beacon Hill Design Day
 - OCTOBER 3 (Sat) 11:00 AM ET -- Library Orientation Tour
-- OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
-- NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
