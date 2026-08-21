@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-21T17:48:26",
+  "checked_at": "2026-08-21T20:42:59",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "7b8ba1f4cc33fe9b345ea235e043335e8a7fd32427e3fe05ed05b763af0d33a7",
+  "hash": "58908963df8b99ade0202ced353be4d5da7a25aa8bd39a2b3f9abe60ed081bf9",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7v1d",
@@ -26,7 +26,7 @@
       "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAZzpF",
       "date": "AUGUST 22, 2026",
       "time_et": "12:00 PM",
-      "status": "SOLD OUT",
+      "status": "WAITLISTED",
       "event_title": "Book Binding Workshop",
       "venue": "Boston Athenaeum",
       "keywords": [
