@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-22T14:41:35",
+  "checked_at": "2026-08-22T16:43:28",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a8e55c6ba09b9415fdc713e904a2b29dedbd61083100771e2d221fa99b4fdc4f",
+  "hash": "b79fb0b4f10e775a0366758db17c2290074e4d52e5e7be34430aa01bc6283cdc",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7v1d",
-      "date": "AUGUST 22, 2026",
-      "time_et": "11:00 AM",
-      "status": "FREE",
-      "event_title": "Library Orientation Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr1uf",
       "date": "AUGUST 22, 2026",
@@ -153,7 +144,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBW8fF",
       "date": "SEPTEMBER 3, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
