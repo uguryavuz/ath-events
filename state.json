@@ -1,21 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-22T17:39:50",
+  "checked_at": "2026-08-22T20:42:36",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "01dfb2d418d9fedb54aa67db0a6f12bd4501cead03e099a9de5d630d4c90b2e6",
+  "hash": "aa940e3640f549cb1520ba1c8439725fb1a3e83602925f0516861526cc604fa0",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAZzpF",
-      "date": "AUGUST 22, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Book Binding Workshop",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Member Exclusive",
-        "Workshop"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBL3z3",
       "date": "AUGUST 24, 2026",
