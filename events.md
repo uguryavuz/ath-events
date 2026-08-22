@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- AUGUST 22 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 22 (Sat) 12:00 PM ET -- [WAITLISTED] Book Binding Workshop (Member Exclusive, Workshop)
 - AUGUST 24 (Mon) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 24 (Mon) 3:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -17,7 +16,7 @@
 - SEPTEMBER 3 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 4 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
-- SEPTEMBER 5 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 5 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 9 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 9 (Wed) 6:00 PM ET -- [WAITLISTED] Rush Jenkins and Klaus Baer - Natural Luxury: Homes Inspired by Nature (Author Talk)
 - SEPTEMBER 10 (Thu) 12:00 PM ET -- Art & Architecture Tour

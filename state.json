@@ -1,18 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-22T16:43:28",
+  "checked_at": "2026-08-22T17:39:50",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "b79fb0b4f10e775a0366758db17c2290074e4d52e5e7be34430aa01bc6283cdc",
+  "hash": "01dfb2d418d9fedb54aa67db0a6f12bd4501cead03e099a9de5d630d4c90b2e6",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr1uf",
-      "date": "AUGUST 22, 2026",
-      "time_et": "12:00 PM",
-      "status": "WAITLISTED",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAZzpF",
       "date": "AUGUST 22, 2026",
@@ -171,7 +162,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWJFh",
       "date": "SEPTEMBER 5, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
