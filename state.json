@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-24T20:51:00",
+  "checked_at": "2026-08-24T23:39:57",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "51e9aba850507c197c6a98ac3f54e7e10fa5faf3099e878cd3cfc5123524af06",
+  "hash": "822252348b43ec713bc9faa8988f659345fdb533f37a262dd212eb6a419a1e32",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr5Jx",
@@ -291,7 +291,7 @@
       "url": "https://events.bostonathenaeum.org/en/natalie-lemle-artifacts-5a2KUmANHf7",
       "date": "SEPTEMBER 23, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Natalie Lemle - Artifacts",
       "venue": "Boston Athenaeum",
       "keywords": [
