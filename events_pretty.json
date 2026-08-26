@@ -310,5 +310,128 @@
     "event_title": "Library Orientation Tour",
     "venue": "Boston Athenaeum",
     "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/winnie-the-pooh-yoga-5a2KUmB2x2T",
+    "date": "SEPTEMBER 26, 2026",
+    "time_et": "11:00 AM",
+    "status": "WAITLISTED",
+    "event_title": "Winnie-the-Pooh Yoga",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Children's/Family"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWNWD",
+    "date": "SEPTEMBER 26, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/book-binding-workshop-5a2KUmAiPpl",
+    "date": "SEPTEMBER 26, 2026",
+    "time_et": "12:00 PM",
+    "status": "SOLD OUT",
+    "event_title": "Book Binding Workshop",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Member Exclusive",
+      "Workshop"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWNpZ",
+    "date": "SEPTEMBER 28, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/jesse-wegman-the-lost-founder-5a2KUmAnGib",
+    "date": "SEPTEMBER 28, 2026",
+    "time_et": "6:00 PM",
+    "status": "",
+    "event_title": "Jesse Wegman - The Lost Founder",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBWO8v",
+    "date": "SEPTEMBER 29, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Art & Architecture Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/frinde-maher-class-encounters-a-memoir-of-the-1960s-5a2KUmB3QkP",
+    "date": "SEPTEMBER 30, 2026",
+    "time_et": "12:00 PM",
+    "status": "",
+    "event_title": "Frinde Maher - Class Encounters: A Memoir of The 1960s",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/beacon-hill-design-day-5a2KUm9W9fh",
+    "date": "OCTOBER 1, 2026",
+    "time_et": "8:30 AM",
+    "status": "WAITLISTED",
+    "event_title": "Beacon Hill Design Day",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vxh",
+    "date": "OCTOBER 3, 2026",
+    "time_et": "11:00 AM",
+    "status": "FREE",
+    "event_title": "Library Orientation Tour",
+    "venue": "Boston Athenaeum",
+    "keywords": []
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGFRx",
+    "date": "OCTOBER 12, 2026",
+    "time_et": "9:00 AM",
+    "status": "",
+    "event_title": "Discovery Days at the Boston Athenaeum",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Discovery Days"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAGGnp",
+    "date": "NOVEMBER 3, 2026",
+    "time_et": "9:00 AM",
+    "status": "",
+    "event_title": "Discovery Days at the Boston Athenaeum",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Discovery Days"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/discovery-days-at-the-boston-athenaeum-5a2KUmAH2qr",
+    "date": "NOVEMBER 27, 2026",
+    "time_et": "9:00 AM",
+    "status": "",
+    "event_title": "Discovery Days at the Boston Athenaeum",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Discovery Days"
+    ]
   }
 ]
