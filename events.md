@@ -1,6 +1,5 @@
 # Boston Athenaeum events
 
-- AUGUST 26 (Wed) 6:00 PM ET -- Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
