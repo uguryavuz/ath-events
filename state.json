@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-26T03:27:44",
+  "checked_at": "2026-08-26T15:54:40",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "a48c51473c632df99550f2b7f31065a0bba1918d92a8b77bba3bb490f157ae12",
+  "hash": "c97c7af3b9619af7740f66798c19ae780b536bdbb7a23b1a30da8302b34a2876",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
@@ -40,7 +40,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2An",
       "date": "AUGUST 28, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
@@ -67,7 +67,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAqx6J",
       "date": "AUGUST 31, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "SOLD OUT",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
