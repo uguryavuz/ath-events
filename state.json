@@ -1,14 +1,14 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-26T15:54:40",
+  "checked_at": "2026-08-26T18:05:10",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "c97c7af3b9619af7740f66798c19ae780b536bdbb7a23b1a30da8302b34a2876",
+  "hash": "91dab04112b4f88552e697f80473d42c430ecd0e2c2d0fe11573f35a9d886785",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/peter-s-canellos-revenge-for-the-sixties-5a2KUmA9cOT",
       "date": "AUGUST 26, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Peter S. Canellos - Revenge for the Sixties",
       "venue": "Boston Athenaeum",
       "keywords": [
@@ -282,7 +282,7 @@
       "url": "https://events.bostonathenaeum.org/en/natalie-lemle-artifacts-5a2KUmANHf7",
       "date": "SEPTEMBER 23, 2026",
       "time_et": "6:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Natalie Lemle - Artifacts",
       "venue": "Boston Athenaeum",
       "keywords": [

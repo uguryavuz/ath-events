@@ -1,6 +1,6 @@
 # Boston Athenaeum events
 
-- AUGUST 26 (Wed) 6:00 PM ET -- [WAITLISTED] Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
+- AUGUST 26 (Wed) 6:00 PM ET -- Peter S. Canellos - Revenge for the Sixties (Lecture, Author Talk)
 - AUGUST 27 (Thu) 3:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - AUGUST 27 (Thu) 3:30 PM ET -- Mini Zine Workshop (Children's/Family)
 - AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
@@ -28,7 +28,7 @@
 - SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)
 - SEPTEMBER 19 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
 - SEPTEMBER 22 (Tue) 6:00 PM ET -- Bicentennial Boston: Public Memory, Design, and Documentary Photography (Exhibitions)
-- SEPTEMBER 23 (Wed) 6:00 PM ET -- [WAITLISTED] Natalie Lemle - Artifacts (Author Talk)
+- SEPTEMBER 23 (Wed) 6:00 PM ET -- Natalie Lemle - Artifacts (Author Talk)
 - SEPTEMBER 24 (Thu) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 25 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 26 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
