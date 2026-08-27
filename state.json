@@ -1,29 +1,9 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-27T09:56:37",
+  "checked_at": "2026-08-27T20:34:43",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "21af164170d1d5908fdcf81b5cafd0527432704c883245996634194b1f332e34",
+  "hash": "463f390e23273e4f88974b9aa30035c6b5d7a7a9963c273b0d707bcd23777ab5",
   "items": [
-    {
-      "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr72P",
-      "date": "AUGUST 27, 2026",
-      "time_et": "3:00 PM",
-      "status": "SOLD OUT",
-      "event_title": "Art & Architecture Tour",
-      "venue": "Boston Athenaeum",
-      "keywords": []
-    },
-    {
-      "url": "https://events.bostonathenaeum.org/en/mini-zine-workshop-5a2KUmAYior",
-      "date": "AUGUST 27, 2026",
-      "time_et": "3:30 PM",
-      "status": "",
-      "event_title": "Mini Zine Workshop",
-      "venue": "Boston Athenaeum",
-      "keywords": [
-        "Children's/Family"
-      ]
-    },
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2An",
       "date": "AUGUST 28, 2026",
@@ -46,7 +26,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2SX",
       "date": "AUGUST 29, 2026",
       "time_et": "12:00 PM",
-      "status": "WAITLISTED",
+      "status": "",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
