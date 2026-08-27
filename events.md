@@ -21,7 +21,7 @@
 - SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 1:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
-- SEPTEMBER 16 (Wed) 6:00 PM ET -- Scott S. Greenberger - The Forsaken Founder (Author Talk)
+- SEPTEMBER 16 (Wed) 6:00 PM ET -- [WAITLISTED] Scott S. Greenberger - The Forsaken Founder (Author Talk)
 - SEPTEMBER 17 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 17 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Invoke String Quartet - American Voices (Concert)
 - SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)

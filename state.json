@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-26T23:41:31",
+  "checked_at": "2026-08-27T09:56:37",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "fffa37193c6e90d2f18d026113e051d805c74c011124106199f91dc4ef131320",
+  "hash": "21af164170d1d5908fdcf81b5cafd0527432704c883245996634194b1f332e34",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr72P",
@@ -208,7 +208,7 @@
       "url": "https://events.bostonathenaeum.org/en/scott-s-greenberger-the-forsaken-founder-5a2KUmAn5lZ",
       "date": "SEPTEMBER 16, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Scott S. Greenberger - The Forsaken Founder",
       "venue": "Boston Athenaeum",
       "keywords": [
