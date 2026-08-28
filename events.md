@@ -1,10 +1,9 @@
 # Boston Athenaeum events
 
-- AUGUST 28 (Fri) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 29 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
 - AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
 - AUGUST 31 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- AUGUST 31 (Mon) 6:00 PM ET -- [WAITLISTED] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
+- AUGUST 31 (Mon) 6:00 PM ET -- [SOLD OUT] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
 - SEPTEMBER 1 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 3 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 4 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
@@ -19,7 +18,7 @@
 - SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 1:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
-- SEPTEMBER 16 (Wed) 6:00 PM ET -- [WAITLISTED] Scott S. Greenberger - The Forsaken Founder (Author Talk)
+- SEPTEMBER 16 (Wed) 6:00 PM ET -- Scott S. Greenberger - The Forsaken Founder (Author Talk)
 - SEPTEMBER 17 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 17 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Invoke String Quartet - American Voices (Concert)
 - SEPTEMBER 19 (Sat) 10:00 AM ET -- [FREE] Community Day Open House (Discovery Days)

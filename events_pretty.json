@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2An",
-    "date": "AUGUST 28, 2026",
-    "time_et": "12:00 PM",
-    "status": "",
-    "event_title": "Art & Architecture Tour",
-    "venue": "Boston Athenaeum",
-    "keywords": []
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vBJ",
     "date": "AUGUST 29, 2026",
     "time_et": "11:00 AM",
@@ -39,7 +30,7 @@
     "url": "https://events.bostonathenaeum.org/en/john-a-jenkins-summer-of-71-five-months-that-changed-america-5a2KUmAn0M5",
     "date": "AUGUST 31, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "John A. Jenkins - SUMMER OF ’71: Five Months That Changed America",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -183,7 +174,7 @@
     "url": "https://events.bostonathenaeum.org/en/scott-s-greenberger-the-forsaken-founder-5a2KUmAn5lZ",
     "date": "SEPTEMBER 16, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "",
     "event_title": "Scott S. Greenberger - The Forsaken Founder",
     "venue": "Boston Athenaeum",
     "keywords": [
