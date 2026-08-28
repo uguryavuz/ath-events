@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-27T20:34:43",
+  "checked_at": "2026-08-28T05:27:39",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "463f390e23273e4f88974b9aa30035c6b5d7a7a9963c273b0d707bcd23777ab5",
+  "hash": "e18020aff35b95fad6f185ae2b5947a88c13a7004016289bf5e1d5f77039b2b0",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmAr2An",
@@ -73,7 +73,7 @@
       "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBW9Q1",
       "date": "SEPTEMBER 4, 2026",
       "time_et": "12:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Art & Architecture Tour",
       "venue": "Boston Athenaeum",
       "keywords": []
