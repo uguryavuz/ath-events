@@ -1,9 +1,9 @@
 # Boston Athenaeum events
 
 - AUGUST 29 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
-- AUGUST 29 (Sat) 12:00 PM ET -- Art & Architecture Tour
+- AUGUST 29 (Sat) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - AUGUST 31 (Mon) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- AUGUST 31 (Mon) 6:00 PM ET -- [SOLD OUT] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
+- AUGUST 31 (Mon) 6:00 PM ET -- [WAITLISTED] John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
 - SEPTEMBER 1 (Tue) 5:30 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 3 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 4 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
