@@ -1,8 +1,8 @@
 {
   "app": "ath-events",
-  "checked_at": "2026-08-29T02:15:42",
+  "checked_at": "2026-08-29T14:32:15",
   "url": "https://events.bostonathenaeum.org/en/",
-  "hash": "1609005911b61d13e5204aa80b739343db7daac5122896f5a87c9a9414f9afe2",
+  "hash": "e5ff21a8dd6b39224c2b362ab000ee6a1d1a0d8473307fc1d069f61b2aaf7b0d",
   "items": [
     {
       "url": "https://events.bostonathenaeum.org/en/library-orientation-tour-5a2KUmB7vBJ",
@@ -241,7 +241,7 @@
       "url": "https://events.bostonathenaeum.org/en/natalie-lemle-artifacts-5a2KUmANHf7",
       "date": "SEPTEMBER 23, 2026",
       "time_et": "6:00 PM",
-      "status": "",
+      "status": "WAITLISTED",
       "event_title": "Natalie Lemle - Artifacts",
       "venue": "Boston Athenaeum",
       "keywords": [
