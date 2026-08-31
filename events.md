@@ -7,7 +7,7 @@
 - SEPTEMBER 4 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
 - SEPTEMBER 5 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
-- SEPTEMBER 9 (Wed) 12:00 PM ET -- Art & Architecture Tour
+- SEPTEMBER 9 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 9 (Wed) 6:00 PM ET -- [WAITLISTED] Rush Jenkins and Klaus Baer - Natural Luxury: Homes Inspired by Nature (Author Talk)
 - SEPTEMBER 10 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 10 (Thu) 4:30 PM ET -- Framing Boston: A Paper Art Workshop (Children's/Family)
@@ -15,7 +15,7 @@
 - SEPTEMBER 12 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - SEPTEMBER 14 (Mon) 3:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 16 (Wed) 12:00 PM ET -- Art & Architecture Tour
-- SEPTEMBER 16 (Wed) 1:00 PM ET -- [SOLD OUT] Book Binding Workshop (Member Exclusive, Workshop)
+- SEPTEMBER 16 (Wed) 1:00 PM ET -- [WAITLISTED] Book Binding Workshop (Member Exclusive, Workshop)
 - SEPTEMBER 16 (Wed) 6:00 PM ET -- Scott S. Greenberger - The Forsaken Founder (Author Talk)
 - SEPTEMBER 17 (Thu) 12:00 PM ET -- Art & Architecture Tour
 - SEPTEMBER 17 (Thu) 7:00 PM ET -- [STARTS AT $20.00] Invoke String Quartet - American Voices (Concert)
