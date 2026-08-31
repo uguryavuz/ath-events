@@ -1,13 +1,12 @@
 # Boston Athenaeum events
 
-- AUGUST 31 (Mon) 6:00 PM ET -- John A. Jenkins - SUMMER OF ’71: Five Months That Changed America (Author Talk)
 - SEPTEMBER 1 (Tue) 5:30 PM ET -- [SOLD OUT] Art & Architecture Tour
 - SEPTEMBER 3 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 4 (Fri) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 5 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
 - SEPTEMBER 5 (Sat) 12:00 PM ET -- [SOLD OUT] Art & Architecture Tour
 - SEPTEMBER 9 (Wed) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
-- SEPTEMBER 9 (Wed) 6:00 PM ET -- [WAITLISTED] Rush Jenkins and Klaus Baer - Natural Luxury: Homes Inspired by Nature (Author Talk)
+- SEPTEMBER 9 (Wed) 6:00 PM ET -- [SOLD OUT] Rush Jenkins and Klaus Baer - Natural Luxury: Homes Inspired by Nature (Author Talk)
 - SEPTEMBER 10 (Thu) 12:00 PM ET -- [WAITLISTED] Art & Architecture Tour
 - SEPTEMBER 10 (Thu) 4:30 PM ET -- Framing Boston: A Paper Art Workshop (Children's/Family)
 - SEPTEMBER 12 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
@@ -35,5 +34,6 @@
 - OCTOBER 1 (Thu) 8:30 AM ET -- [WAITLISTED] Beacon Hill Design Day
 - OCTOBER 3 (Sat) 11:00 AM ET -- [FREE] Library Orientation Tour
 - OCTOBER 12 (Mon) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
+- OCTOBER 27 (Tue) 6:30 PM ET -- [$20.00] Becca Freeman - Back Where We Started (Author Talk)
 - NOVEMBER 3 (Tue) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)
 - NOVEMBER 27 (Fri) 9:00 AM ET -- Discovery Days at the Boston Athenaeum (Discovery Days)

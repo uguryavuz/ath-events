@@ -1,16 +1,5 @@
 [
   {
-    "url": "https://events.bostonathenaeum.org/en/john-a-jenkins-summer-of-71-five-months-that-changed-america-5a2KUmAn0M5",
-    "date": "AUGUST 31, 2026",
-    "time_et": "6:00 PM",
-    "status": "",
-    "event_title": "John A. Jenkins - SUMMER OF ’71: Five Months That Changed America",
-    "venue": "Boston Athenaeum",
-    "keywords": [
-      "Author Talk"
-    ]
-  },
-  {
     "url": "https://events.bostonathenaeum.org/en/art-and-architecture-tour-5a2KUmBW88z",
     "date": "SEPTEMBER 1, 2026",
     "time_et": "5:30 PM",
@@ -68,7 +57,7 @@
     "url": "https://events.bostonathenaeum.org/en/rush-jenkins-and-klaus-baer-natural-luxury-homes-inspired-by-nature-5a2KUmAO3F7",
     "date": "SEPTEMBER 9, 2026",
     "time_et": "6:00 PM",
-    "status": "WAITLISTED",
+    "status": "SOLD OUT",
     "event_title": "Rush Jenkins and Klaus Baer - Natural Luxury: Homes Inspired by Nature",
     "venue": "Boston Athenaeum",
     "keywords": [
@@ -342,6 +331,17 @@
     "venue": "Boston Athenaeum",
     "keywords": [
       "Discovery Days"
+    ]
+  },
+  {
+    "url": "https://events.bostonathenaeum.org/en/becca-freeman-back-where-we-started-5a2KUmBfR7Z",
+    "date": "OCTOBER 27, 2026",
+    "time_et": "6:30 PM",
+    "status": "$20.00",
+    "event_title": "Becca Freeman - Back Where We Started",
+    "venue": "Boston Athenaeum",
+    "keywords": [
+      "Author Talk"
     ]
   },
   {
